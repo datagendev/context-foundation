@@ -2,33 +2,75 @@
 
 Comprehensive documentation for connecting DataGen to your CRM systems.
 
+## Core CRM Entities
+
+| Entity | HubSpot | Salesforce | Purpose |
+|--------|---------|------------|---------|
+| **Contacts** | `contacts.md` | `contacts.md` | Individual people/leads |
+| **Companies** | `companies.md` | `accounts.md` | Organizations/businesses |
+| **Deals** | `deals.md` | `opportunities.md` | Sales pipeline tracking |
+
 ## CRM Platforms
 
+### hubspot/
+HubSpot CRM platform - core sales entities:
+- **contacts.md** - People you're selling to (schema, MCP examples, queries)
+- **companies.md** - Organizations and accounts
+- **deals.md** - Sales opportunities and pipeline
+
+### salesforce/
+Salesforce CRM platform - core sales entities:
+- **setup.md** - Configuration and authentication
+- **contacts.md** - Qualified people associated with accounts
+- **accounts.md** - Companies and organizations
+- **opportunities.md** - Sales deals and pipeline
+
 ### supabase-neon/
-PostgreSQL-based data warehouse
+PostgreSQL-based data warehouse:
 - **setup.md** - Installation and configuration
 - **schema.md** - Database schema design
 - **mcp-integration.md** - MCP server integration for DataGen
 
-### hubspot/
-HubSpot CRM platform
-- **opportunity.md** - Deals and opportunities
-- **contacts.md** - Contact management
-- **companies.md** - Company records and hierarchy
-- **transcripts.md** - Call/meeting transcripts
-
-### salesforce/
-Salesforce CRM platform
-- **setup.md** - Configuration and authentication
-
 ### file-metadata/
 Additional CRM data sources and metadata enrichment
-- **jeremy-add-more.md** - Template for additional sources
+
+## Entity Relationship Overview
+
+```
+                    ┌─────────────┐
+                    │  COMPANY    │
+                    │  (Account)  │
+                    └──────┬──────┘
+                           │
+              ┌────────────┼────────────┐
+              │            │            │
+              ▼            ▼            ▼
+        ┌──────────┐ ┌──────────┐ ┌──────────┐
+        │ CONTACT  │ │  DEAL    │ │ ACTIVITY │
+        │ (Person) │ │ (Opp)    │ │ (Tasks)  │
+        └──────────┘ └──────────┘ └──────────┘
+```
 
 ## Getting Started
 
-1. Choose your CRM platform
-2. Follow the setup guide
-3. Map your TAM data (see `/TAM/`) to CRM objects
-4. Configure MCP integration for DataGen
-5. Monitor data quality (see `/intelligence/`)
+1. **Choose your CRM platform** (HubSpot or Salesforce)
+2. **Read the entity docs** for schema and field definitions
+3. **Map your TAM data** (see `/TAM/`) to CRM objects
+4. **Use MCP examples** to create, query, and update records
+5. **Monitor data quality** (see `/intelligence/`)
+
+## Common Workflows
+
+### Lead → Contact → Deal Flow
+1. Source leads from `/TAM/` (LinkedIn, web scraping)
+2. Create **Contact** record with enriched data
+3. Associate with **Company/Account** (create if needed)
+4. Create **Deal/Opportunity** when qualified
+5. Track pipeline progression through stages
+
+### Data Enrichment Flow
+1. Get company domain from TAM source
+2. Search CRM for existing Company/Account
+3. Create or update with enriched data
+4. Link associated Contacts
+5. Update deal associations if applicable
