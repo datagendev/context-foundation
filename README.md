@@ -6,15 +6,19 @@ A comprehensive folder structure for building Go-To-Market workflows with DataGe
 
 ```
 context-foundation/
-├── TAM/              # Lead sourcing - Total Addressable Market
-├── use-cases/        # End-to-end workflow examples
-├── playbooks/        # Company context and documentation
-├── icp/              # Customer personas and targeting
-├── outreach/         # Messaging templates and campaigns
-├── crm/              # CRM integrations (Hubspot, Supabase, etc.)
-├── dashboards/       # Streamlit dashboards by schedule
-├── intelligence/     # Intent signals and news monitoring
-└── workflows/        # DataGen automation workflows
+├── TAM/                  # Lead sourcing - Total Addressable Market
+├── use-cases/            # End-to-end workflow examples
+├── playbooks/            # Company context and documentation
+├── icp/                  # Customer personas and targeting
+├── outreach/             # Messaging templates and campaigns
+├── crm/                  # CRM integrations + call transcripts
+├── synthesis/            # Canonical rollup docs (pain points, objections, etc.)
+├── content-production/   # Automated content pipeline (RSS → briefings → publish)
+├── agents/               # Specialized AI agents for GTM workflows
+├── training-data/        # Tone of voice, editing examples, copywriting principles
+├── dashboards/           # Streamlit dashboards by schedule
+├── intelligence/         # Intent signals, news monitoring, research
+└── workflows/            # DataGen automation workflows
 ```
 
 ## Quick Start
