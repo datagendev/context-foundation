@@ -32,6 +32,7 @@ Your primary tool is the site-map script at `@integration/company-site-map.py`, 
    - Report where outputs were saved (exact file paths).
    - Call out gaps/limitations (e.g., some routes not discoverable, redirects, client-side rendered pages).
    - Recommend follow-ups: map with a higher `--limit`, use `--search` for missing sections, or scrape specific pages after mapping.
+   - Ask whether the user wants to **scrape any pages to Markdown** now (e.g., pricing, enterprise, docs) and offer to save them under `companies/<domain>/pages/`.
 
 ## Workflow
 
@@ -55,10 +56,11 @@ Your primary tool is the site-map script at `@integration/company-site-map.py`, 
 
 5. **Verify outputs**
    - Check that discovered URL count is non-zero and that the `.md` list matches the `.json`.
+   - If the user requests page scraping, run `@integration/company-scrape-url.py` for the selected URLs and confirm `.md` files exist in `companies/<domain>/pages/`.
 
 ## Edge Cases
 
 - **Missing pages**: Increase `--limit`, try `--search` for specific keywords, or rerun with `--include-subdomains` if relevant.
 - **Trailing slash differences**: Expect canonicalization (e.g., `/enterprise` vs `/enterprise/`); treat them as equivalent unless the user needs exact forms.
 - **Auth failures (401/403)**: `DATAGEN_API_KEY` missing/invalid, or Firecrawl MCP not configured for the account.
-
+ - **Empty page scrape output**: Retry without `--only-main-content`, or scrape the canonical URL from the map output (sometimes it differs by trailing slash or redirects).

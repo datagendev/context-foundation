@@ -5,6 +5,7 @@ description = "Scripts for GTM context workflows."
 requires-python = ">=3.13"
 dependencies = [
     "datagen-python-sdk",
+    "openai>=1.40.0",
     "python-dotenv>=1.2.1",
 ]
 

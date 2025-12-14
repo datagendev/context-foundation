@@ -13,6 +13,9 @@ companies/
     site-map/
       2025-12-14.json
       2025-12-14.md
+    pages/
+      enterprise__<id>.md
+      pricing__<id>.md
 ```
 
 ## Conventions
@@ -20,4 +23,3 @@ companies/
 - Folder name: the canonical website host (e.g. `scrunch.com`, `acme.io`).
 - Keep files small and link to sources when possible.
 - Put generated outputs under a clear subfolder (e.g. `site-map/`, `research/`, `assets/`).
-

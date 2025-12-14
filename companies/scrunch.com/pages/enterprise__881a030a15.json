@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "source_url": "https://scrunch.com/enterprise",
+    "scraped_at_utc": "2025-12-14T18:40:35+00:00",
+    "parameters": {
+      "formats": [
+        "markdown"
+      ],
+      "maxAge": 172800000,
+      "onlyMainContent": true,
+      "removeBase64Images": true,
+      "url": "https://scrunch.com/enterprise"
+    }
+  },
+  "raw": [
+    {
+      "markdown": "# [Scrunch home](https://scrunch.com/)\n\n[Scrunch home](https://scrunch.com/)\n\n[Log in](https://app.scrunchai.com/) [Start free trial ](https://accounts.scrunchai.com/sign-up) [Book a demo ](https://scrunch.com/book)\n\n![enterprise dashboard](https://scrunch.com/enterprise/hero-1.png)\n\nENTERPRISE\n\n# AI visibility, insights, and action— **any scale**\n\nFortune 500 enterprises use Scrunch every day to monitor bot traffic and grow their AI platform presence\nacross millions of prompts.\n\n[Get a demo\\\\\n](https://scrunch.com/book)\n\n6M+Citations analyzed weekly\n\n1.5M+Prompts analyzed weekly\n\n##### SOC 2 Type II compliant\n\nScrunch AI has successfully completed a SOC 2 audit by an independent auditor.\n\n##### Deploy globally\n\nEnterprises use Scrunch to manage and optimize across multiple brands, websites, regions, and languages.\n\n##### Role-based access control\n\nRBAC gives team members the granular access they need without compromising security standards.\n\n##### Data API\n\nPlug directly into your internal systems, dashboards and AI workflows.\n\n### Trusted by over 500 companies...\n\nLenovo, BairesDev, Clerk, Skims, BigTime, Penn State University, Crunchbase\n\n### ...and agencies\n\nSECURITY\n\n### Enterprise-grade security\n\n- #### SOC2 Type II compliant\n\n\n\nScrunch AI has successfully completed a SOC 2 audit by an independent auditor.\n\n[Visit our Trust Center](https://trust.scrunchai.com/)\n- #### Enterprise identity management\n\n\n\nSupports SAML and OAuth-based SSO for secure, centralized access control.\n\n- #### Role-based access control\n\n\n\nRBAC gives team members the granular access they need without compromising security standards.\n\n\n![security](https://scrunch.com/enterprise/security.png)\n\n![Picture of Alex Rapp,](https://scrunch.com/testimonial/testimonial-clerk--alex-rapp.jpg)\n\n**Alex Rapp,** Head of Growth Marketing, Clerk\n\n“Scrunch gives us actionable insights that lead to results. We’re now seeing a 9x increase in sign-ups from AI Search.”\n\nSCALE\n\n### Global scale, zero friction\n\n![scale](https://scrunch.com/enterprise/scale.png)\n\n- #### Performance at scale\n\n\n\nEnterprise brands like Dell, Lenovo & Akamai monitor millions of prompts and hundreds of thousands of\npages.\n\n- #### Globally deployed\n\n\n\nScrunch supports multi-brands, multi-domains, multi-regions, and all language localizations.\n\n- #### Start in minutes, not weeks\n\n\n\nGet AI platform visibility in minutes. Many customers are deployed on day one.\n\n\nINTEGRATE\n\n### Integrate anywhere instantly\n\n- #### Data API\n\n\n\nPlug directly into your internal systems, dashboards, and AI workflows.\n\n- #### Turnkey Analytics\n\n\nSync and analyze data from Scrunch in your existing tools.\n\n\n![integrate](https://scrunch.com/enterprise/integrate.png)\n\n### Featured in...\n\nLenovo, BairesDev, Clerk, Skims, BigTime, Penn State University, Crunchbase\n\n### Learn\n\n[![Learn why competitors rank in AI search results and how to close the gap with your citation strategy.](https://cdn.sanity.io/images/3lyosn52/production/64c5a4240d6d1428dd84d8058a70c1248a962429-3000x2000.png)\\\\\n**Why your competitors are winning in AI search (and how to fix it)**\\\\\n\\\\\nLearn why competitors rank in AI search results and how to close the gap with your citation strategy. \\\\\n\\\\\n![Picture of author](https://cdn.sanity.io/images/3lyosn52/production/04bf2e8e5cb357c969559889e9d66f6b7a1b859c-512x512.png)\\\\\nBy Preston Boling](https://scrunch.com/blog/2025-12-competitors-ai-search-citations) [![Scrunch’s Suggested Competitors auto-detects hidden competitors in AI search and lets you track them and compare performance with a click.](https://cdn.sanity.io/images/3lyosn52/production/b682e4cc64885e5289c41715fc05223e2c0c0b82-3000x2000.png)\\\\\n**New in Scrunch: Auto-detect competitive brands in AI search with Suggested Competitors**\\\\\n\\\\\nScrunch’s Suggested Competitors auto-detects hidden competitors in AI search and lets you track them and compare performance with a click. \\\\\n\\\\\n![Picture of author](https://cdn.sanity.io/images/3lyosn52/production/3d9ace24e16a66d330d4acac5163213dddd6ec69-512x512.jpg)\\\\\nBy Sage Stahmer](https://scrunch.com/blog/2025-12-suggested-competitors-auto-detect-competitive-brands-ai-search)\n\n### Backed by\n\n## Get started with Scrunch\n\nSchedule an onboarding session with a Scrunch team member.\n\n[Try 7 days free](https://accounts.scrunchai.com/sign-up) Book a demo\n\nScrunch scales from fast growing startups to the enterprise. Find the right plan for you.\n\n[See our plans](https://scrunch.com/pricing)\n\n## 🍪 Our website uses cookies.\n\nWe care about your data, and we'd use cookies only to improve your experience. By using this website, you accept our cookie policy.\n\nAccept allManage preferences",
+      "metadata": {
+        "title": "Scrunch AI - Enterprise AI visibility. No compromise.",
+        "og:site_name": "Scrunch AI",
+        "language": "en",
+        "viewport": "width=device-width, initial-scale=1",
+        "og:image": "/website/homepage.png",
+        "og:image:alt": "Scrunch AI",
+        "og:title": "Scrunch AI",
+        "description": "Scrunch AI’s enterprise platform combines world-class AI expertise with enterprise-grade security to help your brand dominate AI Search results safely and at scale.",
+        "ogTitle": "Scrunch AI",
+        "ogImage": "/website/homepage.png",
+        "favicon": "https://scrunch.com/favicon.svg",
+        "scrapeId": "019b1e2a-1ff0-76c0-ba51-abce26eefb14",
+        "sourceURL": "https://scrunch.com/enterprise",
+        "url": "https://scrunch.com/enterprise/",
+        "statusCode": 200,
+        "contentType": "text/html; charset=utf-8",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2025-12-14T18:37:13.335Z",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    }
+  ]
+}
