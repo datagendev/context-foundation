@@ -1,0 +1,627 @@
+{
+  "meta": {
+    "generated_at_utc": "2025-12-14T18:04:58+00:00",
+    "source_url": "https://scrunch.com",
+    "parameters": {
+      "limit": 500,
+      "sitemap": "include",
+      "includeSubdomains": false,
+      "ignoreQueryParameters": true,
+      "search": "enterprise",
+      "url": "https://scrunch.com"
+    },
+    "discovered_url_count": 118
+  },
+  "urls": [
+    "https://scrunch.com",
+    "https://scrunch.com/about",
+    "https://scrunch.com/agencies",
+    "https://scrunch.com/basic-template",
+    "https://scrunch.com/blog",
+    "https://scrunch.com/blog/2024-11-19-cmo-confidential",
+    "https://scrunch.com/blog/2024-11-launching-scrunchai",
+    "https://scrunch.com/blog/2025-01-chatgpt-launches-operator-web-browser-agent",
+    "https://scrunch.com/blog/2025-02-open-ai-announces-deep-research",
+    "https://scrunch.com/blog/2025-03-3-key-takeaways-from-cmo-summit-new-york-",
+    "https://scrunch.com/blog/2025-03-anthropic-has-released-web-search-for-claude",
+    "https://scrunch.com/blog/2025-03-scrunch-ai-launches-out-of-beta-to-help-more-businesses-win-in-the-ai-search-era",
+    "https://scrunch.com/blog/2025-03-scrunch-ai-welcomes-adrian-del-busso-as-head-of-revenue",
+    "https://scrunch.com/blog/2025-03-scrunch-ai-welcomes-colleen-tuohy-as-head-of-marketing-&-growth",
+    "https://scrunch.com/blog/2025-03-significant-updates-to-chatgpt-search-are-coming",
+    "https://scrunch.com/blog/2025-04-4-key-takeaways-from-scrunch%E2%80%99s-research-collaboration-with-bain-&-company",
+    "https://scrunch.com/blog/2025-04-from-underdog-to-powerhouse-bairesdevs-78-ai-search-surge",
+    "https://scrunch.com/blog/2025-04-march-2025-product-update",
+    "https://scrunch.com/blog/2025-04-navigating-the-future-of-search-insights-from-the-voices-of-search-podcast",
+    "https://scrunch.com/blog/2025-05-ai,-search-and-agents:-key-takeaways-from-google-i/o-and-microsoft-build-2025",
+    "https://scrunch.com/blog/2025-05-announcing-scrunch-ai's-agency-partnership-program",
+    "https://scrunch.com/blog/2025-05-april-2025-product-update",
+    "https://scrunch.com/blog/2025-05-introducing-scrunchable-week-in-review",
+    "https://scrunch.com/blog/2025-05-is-your-best-new-customer-an-ai-bot",
+    "https://scrunch.com/blog/2025-06-agency-partner-spotlight:-meet-clapping-dog-media",
+    "https://scrunch.com/blog/2025-06-may-2025-product-update",
+    "https://scrunch.com/blog/2025-06-publishers-vs.-platforms:-the-battle-for-visibility-heats-up-in-1h%E2%80%992025",
+    "https://scrunch.com/blog/2025-06-scrunch-ai-welcomes-andrew-sorensen-as-head-of-customer-success",
+    "https://scrunch.com/blog/2025-06-the-ai-powered-agency:-how-collaboration-is-being-rewired-in-2025",
+    "https://scrunch.com/blog/2025-07-a-tale-of-two-webs:-cloudflare%E2%80%99s-pay-per-crawl-aims-to-save-content-creators-while-other-businesses-race-to-make-more-content-available",
+    "https://scrunch.com/blog/2025-07-agency-partner-spotlight:-meet-socius-marketing",
+    "https://scrunch.com/blog/2025-07-announcing-our-series-a",
+    "https://scrunch.com/blog/2025-07-how-runpod-leveraged-the-scrunch-ai-platform-to-achieve-4x-growth,-turning-chatgpt-into-a-top-performing-acquisition-channel-",
+    "https://scrunch.com/blog/2025-07-introducing-expanded-coverage-for-google-ai-mode,-gemini,-and-chatgpt-shopping",
+    "https://scrunch.com/blog/2025-07-july-2025-product-update",
+    "https://scrunch.com/blog/2025-07-june-2025-product-updates",
+    "https://scrunch.com/blog/2025-07-the-crawl-is-coming-from-inside-the-house",
+    "https://scrunch.com/blog/2025-08-how-a-power-user-built-a-high-velocity-content-flywheel-with-scrunch-ai",
+    "https://scrunch.com/blog/2025-09-how-chatgpt-is-quietly-replacing-review-sites",
+    "https://scrunch.com/blog/2025-09-the-end-of-browsing:-how-chatgpt-is-collapsing-the-marketing-funnel",
+    "https://scrunch.com/blog/2025-09-why-people-are-turning-to-chatgpt-for-%27vendor-bake-offs%27",
+    "https://scrunch.com/blog/2025-09-why-people-are-turning-to-chatgpt-for-'vendor-bake-offs'",
+    "https://scrunch.com/blog/2025-09-your-most-important-site-visitor-is-no-longer-human",
+    "https://scrunch.com/blog/2025-12-competitors-ai-search-citations",
+    "https://scrunch.com/blog/2025-12-suggested-competitors-auto-detect-competitive-brands-ai-search",
+    "https://scrunch.com/blog/aeo-buyers-guide",
+    "https://scrunch.com/blog/agent-traffic-monitoring",
+    "https://scrunch.com/blog/ai-overviews-vs-ai-platforms",
+    "https://scrunch.com/blog/ai-search-competitive-insights",
+    "https://scrunch.com/blog/ai-search-metrics-aeo",
+    "https://scrunch.com/blog/ai-search-trends",
+    "https://scrunch.com/blog/author",
+    "https://scrunch.com/blog/author/andrew-sorensen",
+    "https://scrunch.com/blog/author/chris-andrew",
+    "https://scrunch.com/blog/author/colleen-tuohy",
+    "https://scrunch.com/blog/author/kevin-white",
+    "https://scrunch.com/blog/author/michael-iannelli",
+    "https://scrunch.com/blog/author/robert-maccloy",
+    "https://scrunch.com/blog/author/sage-stahmer",
+    "https://scrunch.com/blog/author/tony-posselli",
+    "https://scrunch.com/blog/author/wil-armstrong",
+    "https://scrunch.com/blog/big-leap-customer-story",
+    "https://scrunch.com/blog/bulk-prompt-editing",
+    "https://scrunch.com/blog/enterprise-ready",
+    "https://scrunch.com/blog/how-to-spot-the-bots-that-drive-revenue",
+    "https://scrunch.com/blog/openai-chatgpt-apps-sdk-explained",
+    "https://scrunch.com/blog/reaction-instant-checkout-in-chatgpt",
+    "https://scrunch.com/blog/strapi-customer-story",
+    "https://scrunch.com/blog/tag",
+    "https://scrunch.com/blog/tag/changelog",
+    "https://scrunch.com/blog/tag/customers",
+    "https://scrunch.com/blog/tag/guides",
+    "https://scrunch.com/blog/tag/product",
+    "https://scrunch.com/blog/tag/takes",
+    "https://scrunch.com/blog/tinybird-ai-search-case-study",
+    "https://scrunch.com/book",
+    "https://scrunch.com/consent",
+    "https://scrunch.com/contact",
+    "https://scrunch.com/enterprise",
+    "https://scrunch.com/faqs",
+    "https://scrunch.com/faqs/category/agencies",
+    "https://scrunch.com/faqs/category/customers",
+    "https://scrunch.com/faqs/category/features",
+    "https://scrunch.com/faqs/category/integrations",
+    "https://scrunch.com/faqs/category/pricing",
+    "https://scrunch.com/faqs/category/scrunch",
+    "https://scrunch.com/faqs/category/security",
+    "https://scrunch.com/faqs/does-scrunch-offer-a-free-trial",
+    "https://scrunch.com/faqs/does-scrunch-offer-special-pricing-for-agencies",
+    "https://scrunch.com/faqs/does-scrunch-pay-agencies-commissions-on-customer-referrals",
+    "https://scrunch.com/faqs/how-do-customers-describe-their-experience-with-scrunch",
+    "https://scrunch.com/faqs/how-do-i-create-and-use-customer-personas-in-scrunch",
+    "https://scrunch.com/faqs/how-does-scrunch-track-ai-search-visits-to-my-website",
+    "https://scrunch.com/faqs/how-long-does-scrunch-implementation-take",
+    "https://scrunch.com/faqs/is-scrunch-soc-2-type-ii-compliant-and-what-security-standards-does-it-meet",
+    "https://scrunch.com/faqs/what-apis-does-scrunch-offer-and-how-do-they-work",
+    "https://scrunch.com/faqs/what-business-outcomes-do-scrunch-customers-achieve",
+    "https://scrunch.com/faqs/what-features-are-included-in-scrunch-free-trial",
+    "https://scrunch.com/faqs/what-is-the-pricing-for-scrunch-plans",
+    "https://scrunch.com/faqs/what-methods-does-scrunch-use-to-collect-data-from-ai-platforms",
+    "https://scrunch.com/faqs/what-products-does-scrunch-offer-for-ai-search-optimization",
+    "https://scrunch.com/faqs/what-single-sign-on-sso-providers-does-scrunch-support",
+    "https://scrunch.com/faqs/what-types-of-data-can-i-access-through-the-scrunch-api",
+    "https://scrunch.com/faqs/what-user-roles-and-permissions-are-available-in-scrunch",
+    "https://scrunch.com/faqs/which-ai-platforms-and-llms-can-scrunch-track-and-monitor",
+    "https://scrunch.com/guides/ai-search-guide",
+    "https://scrunch.com/guides/ai-search-guide/aeo-geo-core-concepts",
+    "https://scrunch.com/guides/ai-search-guide/monitoring",
+    "https://scrunch.com/news/2025-04-navigating-the-future-of-search-insights-from-the-voices-of-search-podcast",
+    "https://scrunch.com/platform/agent-experience",
+    "https://scrunch.com/platform/monitoring-insights",
+    "https://scrunch.com/pricing",
+    "https://scrunch.com/privacy",
+    "https://scrunch.com/resources",
+    "https://scrunch.com/resources/guides/guide-to-ai-user-agents",
+    "https://scrunch.com/resources/guides/guide-to-boosting-brand-presence-in-ai-search",
+    "https://scrunch.com/resources/guides/top-5-ai-content-optimization-search-problems",
+    "https://scrunch.com/terms"
+  ],
+  "raw_result": [
+    {
+      "links": [
+        {
+          "url": "https://scrunch.com/enterprise",
+          "title": "Scrunch AI - Enterprise AI visibility. No compromise.",
+          "description": "Scrunch AI's enterprise platform combines world-class AI expertise with enterprise-grade security to help your brand dominate AI Search results safely and ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/enterprise-ready",
+          "title": "Enterprise-ready is a mindset, not a checklist",
+          "description": "Knowing what enterprises actually need is not. Flexibility—in product and people—is everything in the enterprise. Enterprise companies often ask ..."
+        },
+        {
+          "url": "https://scrunch.com",
+          "title": "Scrunch AI - Brand monitoring & optimization for the AI era",
+          "description": "Enterprises use Scrunch to manage and optimize across multiple brands, websites, regions, and languages. Role-based access control. RBAC gives team members the ..."
+        },
+        {
+          "url": "https://scrunch.com/pricing",
+          "title": "Pricing",
+          "description": "Enterprise is designed for larger organizations that need enhanced scale and support. In addition to everything in Pro, Enterprise customers get:."
+        },
+        {
+          "url": "https://scrunch.com/faqs/what-single-sign-on-sso-providers-does-scrunch-support",
+          "title": "What single sign-on (SSO) providers does Scrunch support?",
+          "description": "The Scrunch Enterprise plan supports single sign-on (SSO) with major identity providers, including Okta, Microsoft Entra ID (formerly Azure AD), and Google ..."
+        },
+        {
+          "url": "https://scrunch.com/faqs/what-products-does-scrunch-offer-for-ai-search-optimization",
+          "title": "What products does Scrunch offer for AI search optimization?",
+          "description": "Scrunch implementation is fast. Many Scrunch customers, including large enterprises, are deployed and collecting data within one day. Does Scrunch offer a free ..."
+        },
+        {
+          "url": "https://scrunch.com/agencies",
+          "title": "Scrunch AI - Agency Partner Program",
+          "description": "Scrunch AI's Agency Partner Program helps agencies navigate the shift to AI-first customer journeys with tools to monitor, optimize, and improve AI ..."
+        },
+        {
+          "url": "https://scrunch.com/platform/agent-experience",
+          "title": "Scrunch AI - Agent Experience Platform (AXP)",
+          "description": "Spin up a free account or see Scrunch in action today. Book a demo . Scrunch scales from fast growing startups to the enterprise. Find the right plan for you."
+        },
+        {
+          "url": "https://scrunch.com/faqs/how-long-does-scrunch-implementation-take",
+          "title": "How long does Scrunch implementation take?",
+          "description": "Scrunch implementation is fast. Many Scrunch customers, including large enterprises, are deployed and collecting data within one day."
+        },
+        {
+          "url": "https://scrunch.com/platform/monitoring-insights",
+          "title": "Scrunch AI - Monitoring & Insights for AI Search",
+          "description": "MONITORING & INSIGHTS. See how you show. Know how to grow. Uncover how your brand stacks up in AI results. Get actionable tips to grow brand presence."
+        },
+        {
+          "url": "https://scrunch.com/faqs/category/security",
+          "title": "Security - FAQ",
+          "description": "What single sign-on (SSO) providers does Scrunch support? The Scrunch Enterprise plan supports single sign-on (SSO) with major identity providers, including ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/author/robert-maccloy",
+          "title": "Robert MacCloy",
+          "description": "Resources for understanding how your brand appears inside of generative AI platforms like ChatGPT, Gemini, Perplexity, and more."
+        },
+        {
+          "url": "https://scrunch.com/blog",
+          "title": "Scrunch AI - Blog",
+          "description": "AI tools like ChatGPT are transforming vendor selection—from wedding planning to enterprise procurement—by delivering instant, side-by-side ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-03-scrunch-ai-welcomes-colleen-tuohy-as-head-of-marketing-&-growth",
+          "title": "Scrunch AI welcomes Colleen Tuohy as Head of Marketing",
+          "description": "Our approach to building with large enterprises and viewing LLMs as partners, not adversaries is helping us rewrite the marketing playbook and ..."
+        },
+        {
+          "url": "https://scrunch.com/faqs/category/scrunch",
+          "title": "Scrunch - FAQ",
+          "description": "Scrunch implementation is fast. Many Scrunch customers, including large enterprises, are deployed and collecting data within one day. More info ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-06-scrunch-ai-welcomes-andrew-sorensen-as-head-of-customer-success",
+          "title": "Scrunch AI welcomes Andrew Sorensen as Head of ...",
+          "description": "As we scale our platform and serve more enterprise clients, delivering exceptional outcomes and long-term value is more important than ever."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-07-july-2025-product-update",
+          "title": "July 2025 Product Update",
+          "description": "Google AI Mode, Google Gemini and enhancements to ChatGPT Shopping are rolling out now to Enterprise customers. All customers will be live ..."
+        },
+        {
+          "url": "https://scrunch.com/faqs/what-user-roles-and-permissions-are-available-in-scrunch",
+          "title": "What user roles and permissions are available in Scrunch?",
+          "description": "Four user roles are available in Scrunch: Admin, Editor, Viewer, and Guest. Admins have full organizational access, Editors can create and modify content, ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2024-11-launching-scrunchai",
+          "title": "Announcing Scrunch AI",
+          "description": "The Scrunch platform – a solution for understanding and optimizing your business presence across AI platforms like ChatGPT Search, Gemini, ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-05-april-2025-product-update",
+          "title": "April 2025 Product Update",
+          "description": "Plus, our new Enterprise Data API makes it easy to integrate Scrunch data into your stack. Key features and enhancements: New Prompt Totals and ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-09-why-people-are-turning-to-chatgpt-for-%27vendor-bake-offs%27",
+          "title": "Why people are turning to ChatGPT for 'vendor bake-offs'",
+          "description": "AI tools like ChatGPT are transforming vendor selection—from wedding planning to enterprise procurement—by delivering instant, side-by-side ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-07-introducing-expanded-coverage-for-google-ai-mode,-gemini,-and-chatgpt-shopping",
+          "title": "Introducing expanded coverage for Google AI Mode ...",
+          "description": "Google AI Mode, Google Gemini, and ChatGPT Shopping are available to enterprise customers. We'll be enabling enterprise customers next week ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-03-scrunch-ai-welcomes-adrian-del-busso-as-head-of-revenue",
+          "title": "Scrunch AI welcomes Adrian Del Busso as Head of Revenue",
+          "description": "With 25 years of enterprise sales experience ... Adrian brings his 25 years of experience as a world-class enterprise seller to Scrunch AI."
+        },
+        {
+          "url": "https://scrunch.com/book",
+          "title": "Get in contact with Scrunch AI",
+          "description": "Book a meeting, schedule an onboarding session, or send a note to the Scrunch AI team."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-12-suggested-competitors-auto-detect-competitive-brands-ai-search",
+          "title": "New in Scrunch: Auto-detect competitive brands in AI ...",
+          "description": "Scrunch's Suggested Competitors auto-detects hidden competitors in AI search and lets you track them and compare performance with a click."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-03-scrunch-ai-launches-out-of-beta-to-help-more-businesses-win-in-the-ai-search-era",
+          "title": "Scrunch AI launches out of beta to help more businesses ...",
+          "description": "Scrunch AI gives businesses the marketing platform they need to understand how they show up in AI-generated search results and retain control of ..."
+        },
+        {
+          "url": "https://scrunch.com/resources/guides/guide-to-boosting-brand-presence-in-ai-search",
+          "title": "Guide to Boosting Brand Presence in AI Search",
+          "description": "This guide provides a step-by-step approach to optimizing your brand for AI-powered search like ChatGPT, Perplexity and Gemini."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-09-how-chatgpt-is-quietly-replacing-review-sites",
+          "title": "How ChatGPT is quietly replacing review sites",
+          "description": "AI is reshaping the marketing landscape: discover how ChatGPT bypasses traditional review sites, changing how brands capture consumer ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-04-4-key-takeaways-from-scrunch%E2%80%99s-research-collaboration-with-bain-&-company",
+          "title": "4 key takeaways from Scrunch's research collaboration ...",
+          "description": "Scrunch AI partnered with Bain & Company to explore how AI agents like ChatGPT and Perplexity are reshaping brand discovery."
+        },
+        {
+          "url": "https://scrunch.com/terms",
+          "title": "Terms of Service",
+          "description": "Terms of Service for Scrunch AI, a platform for understanding how your brand appears inside of generative AI platforms like ChatGPT, Gemini, Perplexity, ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/ai-search-metrics-aeo",
+          "title": "From SEO to AEO: new metrics that matter in AI search",
+          "description": "The new goal is simple: when someone asks a relevant question, your brand shows up in the answer. That shift moves performance away from traffic ...See more"
+        },
+        {
+          "url": "https://scrunch.com/blog/ai-search-trends",
+          "title": "Introducing AI Search Trends",
+          "description": "Spot trending topics across AI platforms and where to focus next with AI Search Trends. Now generally available to all Scrunch customers!"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-04-march-2025-product-update",
+          "title": "March 2025 Product Update",
+          "description": "TL;DR: We're excited to launch a new GA4 integration, enabling you to analyze traffic and conversions from AI platforms.See more"
+        },
+        {
+          "url": "https://scrunch.com/contact",
+          "title": "Contact",
+          "description": "Contact Scrunch AI for press inquiries, partnership opportunities, or any other questions."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-07-agency-partner-spotlight:-meet-socius-marketing",
+          "title": "Agency Partner Spotlight: Meet Socius Marketing",
+          "description": "Founded in 2006 and based in Orlando, Florida, Socius Marketing is a marketing agency specializing in optimized websites, SEO, paid media, content, digital ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-07-june-2025-product-updates",
+          "title": "June 2025 Product Update",
+          "description": "Key features and enhancements: AI Bot Traffic Monitoring; Expanded Geo Support; Prompt UI Updates; Bulk Archive for Seed Prompts & Prompt ...See more"
+        },
+        {
+          "url": "https://scrunch.com/blog/strapi-customer-story",
+          "title": "How Strapi grew AI search citations 226% by marrying ...",
+          "description": "Enterprise · Agencies · Pricing. Company. About · Careers · Contact. © 2025 Scrunch AI; Terms of service · Privacy policy; Cookie consent. info@ ..."
+        },
+        {
+          "url": "https://scrunch.com/faqs",
+          "title": "Scrunch AI - FAQ",
+          "description": "Many Scrunch customers, including large enterprises, are deployed and collecting data within one day. More info · How do I create and use customer personas in ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/author/sage-stahmer",
+          "title": "By Sage Stahmer",
+          "description": "Enterprise · Agencies · Pricing. Company. About · Careers · Contact. © 2025 Scrunch AI; Terms of service · Privacy policy; Cookie consent. info@scrunchai.com."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-09-the-end-of-browsing:-how-chatgpt-is-collapsing-the-marketing-funnel",
+          "title": "The end of browsing: How ChatGPT is collapsing ...",
+          "description": "Enterprise · Agencies. Resources. Blog · Customers · Prompt Generator · FAQs. Company. About · Careers. Scrunch in action. 7-day free trial ..."
+        },
+        {
+          "url": "https://scrunch.com/news/2025-04-navigating-the-future-of-search-insights-from-the-voices-of-search-podcast",
+          "title": "Navigating the future of search: Insights from the Voices ...",
+          "description": "Enterprise · Agencies · Pricing. Company. About · Careers · Contact. © 2025 Scrunch AI; Terms of service · Privacy policy; Cookie consent. info@scrunchai.com."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-03-3-key-takeaways-from-cmo-summit-new-york-",
+          "title": "3 key takeaways from CMO Summit New York",
+          "description": "Enterprise · Agencies · Pricing. Company. About · Careers · Contact. © 2025 Scrunch AI; Terms of service · Privacy policy; Cookie consent. info@ ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/author/chris-andrew",
+          "title": "By Chris Andrew",
+          "description": "AI tools like ChatGPT are transforming vendor selection—from wedding planning to enterprise procurement—by delivering instant, side-by-side comparisons that ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-07-a-tale-of-two-webs:-cloudflare%E2%80%99s-pay-per-crawl-aims-to-save-content-creators-while-other-businesses-race-to-make-more-content-available",
+          "title": "A Tale of Two Webs: Cloudflare's Pay per crawl aims to ...",
+          "description": "Enterprise · Agencies. Resources. Blog · Customers · Prompt Generator · FAQs. Company. About · Careers. Scrunch in action. 7-day free trial ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-09-your-most-important-site-visitor-is-no-longer-human",
+          "title": "Your most important site visitor is no longer human",
+          "description": "Enterprise · Agencies. Resources. Blog · Customers · Prompt Generator · FAQs. Company. About · Careers. Scrunch in action. 7-day free trial ...See more"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-05-ai,-search-and-agents:-key-takeaways-from-google-i/o-and-microsoft-build-2025",
+          "title": "Key takeaways from Google I/O and Microsoft Build 2025",
+          "description": "Github Copilot coding agent: Now an asynchronous “peer” programmer with prompt management, lightweight evaluations, enterprise controls, and an ...See more"
+        },
+        {
+          "url": "https://scrunch.com/faqs/what-business-outcomes-do-scrunch-customers-achieve",
+          "title": "What business outcomes do Scrunch customers achieve?",
+          "description": "Enterprise AI visibility, insights, and action—any scale. Agencies Help your ... Scrunch measures business outcomes through automated monitoring across AI ...See more"
+        },
+        {
+          "url": "https://scrunch.com/blog/openai-chatgpt-apps-sdk-explained",
+          "title": "What OpenAI's ChatGPT Apps SDK means for developers ...",
+          "description": "Enterprise · Agencies. Resources. Blog · Customers · Prompt Generator · FAQs. Company. About · Careers. Scrunch in action. 7-day free trial ...See more"
+        },
+        {
+          "url": "https://scrunch.com/about",
+          "title": "About Scrunch",
+          "description": "AI platforms like ChatGPT are the fastest growing technologies in history. Over 3 billion people have already begun using AI for day-to-day questions and ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-02-open-ai-announces-deep-research",
+          "title": "OpenAI announces Deep Research",
+          "description": "Enterprise · Agencies · Pricing. Company. About · Careers · Contact. © 2025 Scrunch AI; Terms of service · Privacy policy; Cookie consent. info@ ...See more"
+        },
+        {
+          "url": "https://scrunch.com/resources/guides/guide-to-ai-user-agents",
+          "title": "Guide to AI User Agents",
+          "description": "Enterprise · Agencies. Resources. Blog · Customers · Prompt Generator · FAQs. Company. About · Careers. Scrunch in action. 7-day free trial · Book a demo · Log ...See more"
+        },
+        {
+          "url": "https://scrunch.com/privacy",
+          "title": "Privacy Policy",
+          "description": "Enterprise AI visibility, insights, and action—any scale. Agencies Help your ... We may collect information when you create an account, such as your full name, ...See more"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-01-chatgpt-launches-operator-web-browser-agent",
+          "title": "ChatGPT launches Operator web browser agent",
+          "description": "Enterprise · Agencies. Resources. Blog · Customers · Prompt Generator · FAQs. Company. About · Careers. Scrunch in action. 7-day free trial ...See more"
+        },
+        {
+          "url": "https://scrunch.com/blog/how-to-spot-the-bots-that-drive-revenue",
+          "title": "Not All AI Traffic is Equal: How to Spot the Bots That Drive ...",
+          "description": "Enterprise · Agencies. Resources. Blog · Customers · Prompt Generator · FAQs. Company. About · Careers. Scrunch in action. 7-day free trial ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-07-announcing-our-series-a",
+          "title": "Announcing our Series A",
+          "description": "Enterprise · Agencies. Resources. Blog · Customers · Prompt Generator · FAQs. Company. About · Careers. Scrunch in action. 7-day free trial ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-03-anthropic-has-released-web-search-for-claude",
+          "title": "Anthropic has released web search for Claude",
+          "description": "Enterprise · Agencies · Pricing. Company. About · Careers · Contact. © 2025 Scrunch AI; Terms of service · Privacy policy; Cookie consent. info@ ..."
+        },
+        {
+          "url": "https://scrunch.com/faqs/what-is-the-pricing-for-scrunch-plans",
+          "title": "What is the pricing for Scrunch plans?",
+          "description": "Scrunch offers three pricing tiers: Starter ($250 per month annually), Growth ($417 per month annually), and Enterprise (custom pricing)."
+        },
+        {
+          "url": "https://scrunch.com/faqs/is-scrunch-soc-2-type-ii-compliant-and-what-security-standards-does-it-meet",
+          "title": "Is Scrunch SOC 2 Type II compliant and what security ...",
+          "description": "Scrunch offers comprehensive audit logs to track all user actions, detailed analytics dashboards, enterprise support with guaranteed SLAs, and secure API ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-05-announcing-scrunch-ai's-agency-partnership-program",
+          "title": "Announcing Scrunch AI's Agency Partner Program",
+          "description": "Enterprise AI visibility, insights, and action—any scale. Agencies ... The program is built to help agencies lead the shift, deliver smart results ..."
+        },
+        {
+          "url": "https://scrunch.com/resources",
+          "title": "Guides",
+          "description": "Enterprise · Agencies. Resources. Blog · Customers · Prompt Generator · FAQs. Company. About · Careers. Scrunch in action. 7-day free trial · Book a demo · Log ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-12-competitors-ai-search-citations",
+          "title": "Why your competitors are winning in AI search (and how ...",
+          "description": "Enterprise · Agencies. Resources. Blog · Customers · Prompt Generator · FAQs. Company. About · Careers. Scrunch in action. 7-day free trial ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/agent-traffic-monitoring",
+          "title": "Reintroducing Agent Traffic Monitoring",
+          "description": "Enterprise AI visibility, insights, and action—any scale. Agencies ... AI platforms are increasingly the front door to your business, fielding ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/2024-11-19-cmo-confidential",
+          "title": "CEO Chris Andrew interviewed on CMO Confidential",
+          "description": "Use Cases. Enterprise · Agencies. Resources. Blog · Customers · Prompt Generator · FAQs. Company. About · Careers. Scrunch in action. 7-day free ..."
+        },
+        {
+          "url": "https://scrunch.com/blog/tag/customers",
+          "title": "Customers",
+          "description": "Enterprise · Agencies. Resources. Blog · Customers · Prompt Generator · FAQs. Company. About · Careers. Scrunch in action. 7-day free trial · Book a demo · Log ..."
+        },
+        {
+          "url": "https://scrunch.com/faqs/which-ai-platforms-and-llms-can-scrunch-track-and-monitor",
+          "title": "Which AI platforms and LLMs can Scrunch track and monitor?",
+          "description": "Enterprise · Agencies. Resources. Blog · Customers · Prompt Generator · FAQs. Company. About · Careers. Scrunch in action. 7-day free trial · Book a demo · Log ..."
+        },
+        {
+          "url": "https://scrunch.com/faqs/does-scrunch-offer-a-free-trial",
+          "title": "Does Scrunch offer a free trial?",
+          "description": "Yes, Scrunch offers a 7-day free trial of the self-serve Starter plan. Users can sign up instantly without speaking to sales."
+        },
+        {
+          "url": "https://scrunch.com/basic-template"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-03-significant-updates-to-chatgpt-search-are-coming"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-04-from-underdog-to-powerhouse-bairesdevs-78-ai-search-surge"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-04-navigating-the-future-of-search-insights-from-the-voices-of-search-podcast"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-05-introducing-scrunchable-week-in-review"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-05-is-your-best-new-customer-an-ai-bot"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-06-agency-partner-spotlight:-meet-clapping-dog-media"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-06-may-2025-product-update"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-06-publishers-vs.-platforms:-the-battle-for-visibility-heats-up-in-1h%E2%80%992025"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-06-the-ai-powered-agency:-how-collaboration-is-being-rewired-in-2025"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-07-how-runpod-leveraged-the-scrunch-ai-platform-to-achieve-4x-growth,-turning-chatgpt-into-a-top-performing-acquisition-channel-"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-07-the-crawl-is-coming-from-inside-the-house"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-08-how-a-power-user-built-a-high-velocity-content-flywheel-with-scrunch-ai"
+        },
+        {
+          "url": "https://scrunch.com/blog/2025-09-why-people-are-turning-to-chatgpt-for-'vendor-bake-offs'"
+        },
+        {
+          "url": "https://scrunch.com/blog/aeo-buyers-guide"
+        },
+        {
+          "url": "https://scrunch.com/blog/ai-overviews-vs-ai-platforms"
+        },
+        {
+          "url": "https://scrunch.com/blog/ai-search-competitive-insights"
+        },
+        {
+          "url": "https://scrunch.com/blog/author"
+        },
+        {
+          "url": "https://scrunch.com/blog/author/andrew-sorensen"
+        },
+        {
+          "url": "https://scrunch.com/blog/author/colleen-tuohy"
+        },
+        {
+          "url": "https://scrunch.com/blog/author/kevin-white"
+        },
+        {
+          "url": "https://scrunch.com/blog/author/michael-iannelli"
+        },
+        {
+          "url": "https://scrunch.com/blog/author/tony-posselli"
+        },
+        {
+          "url": "https://scrunch.com/blog/author/wil-armstrong"
+        },
+        {
+          "url": "https://scrunch.com/blog/big-leap-customer-story"
+        },
+        {
+          "url": "https://scrunch.com/blog/bulk-prompt-editing"
+        },
+        {
+          "url": "https://scrunch.com/blog/reaction-instant-checkout-in-chatgpt"
+        },
+        {
+          "url": "https://scrunch.com/blog/tag"
+        },
+        {
+          "url": "https://scrunch.com/blog/tag/changelog"
+        },
+        {
+          "url": "https://scrunch.com/blog/tag/guides"
+        },
+        {
+          "url": "https://scrunch.com/blog/tag/product"
+        },
+        {
+          "url": "https://scrunch.com/blog/tag/takes"
+        },
+        {
+          "url": "https://scrunch.com/blog/tinybird-ai-search-case-study"
+        },
+        {
+          "url": "https://scrunch.com/consent"
+        },
+        {
+          "url": "https://scrunch.com/faqs/category/agencies"
+        },
+        {
+          "url": "https://scrunch.com/faqs/category/customers"
+        },
+        {
+          "url": "https://scrunch.com/faqs/category/features"
+        },
+        {
+          "url": "https://scrunch.com/faqs/category/integrations"
+        },
+        {
+          "url": "https://scrunch.com/faqs/category/pricing"
+        },
+        {
+          "url": "https://scrunch.com/faqs/does-scrunch-offer-special-pricing-for-agencies"
+        },
+        {
+          "url": "https://scrunch.com/faqs/does-scrunch-pay-agencies-commissions-on-customer-referrals"
+        },
+        {
+          "url": "https://scrunch.com/faqs/how-do-customers-describe-their-experience-with-scrunch"
+        },
+        {
+          "url": "https://scrunch.com/faqs/how-do-i-create-and-use-customer-personas-in-scrunch"
+        },
+        {
+          "url": "https://scrunch.com/faqs/how-does-scrunch-track-ai-search-visits-to-my-website"
+        },
+        {
+          "url": "https://scrunch.com/faqs/what-apis-does-scrunch-offer-and-how-do-they-work"
+        },
+        {
+          "url": "https://scrunch.com/faqs/what-features-are-included-in-scrunch-free-trial"
+        },
+        {
+          "url": "https://scrunch.com/faqs/what-methods-does-scrunch-use-to-collect-data-from-ai-platforms"
+        },
+        {
+          "url": "https://scrunch.com/faqs/what-types-of-data-can-i-access-through-the-scrunch-api"
+        },
+        {
+          "url": "https://scrunch.com/guides/ai-search-guide"
+        },
+        {
+          "url": "https://scrunch.com/guides/ai-search-guide/aeo-geo-core-concepts"
+        },
+        {
+          "url": "https://scrunch.com/guides/ai-search-guide/monitoring"
+        },
+        {
+          "url": "https://scrunch.com/resources/guides/top-5-ai-content-optimization-search-problems"
+        }
+      ]
+    }
+  ]
+}
