@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Scrape one or more specific URLs into Markdown and save them under `companies/<domain>/`.
+Scrape one or more specific URLs into Markdown and save them under `company/<domain>/`.
 
 This uses:
   - DataGen Python SDK (datagen_sdk)
@@ -115,8 +115,8 @@ def main() -> int:
     parser.add_argument(
         "--companies-dir",
         type=str,
-        default="companies",
-        help="Root folder where company subfolders are created (e.g. companies/scrunch.com/pages/...).",
+        default="company",
+        help="Root folder where company subfolders are created (e.g. company/scrunch.com/pages/...).",
     )
     parser.add_argument("--max-workers", type=int, default=4, help="Parallelism across URLs.")
     parser.add_argument("--datagen-base-url", type=str, default="https://api.datagen.dev", help="DataGen API base URL.")

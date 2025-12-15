@@ -125,8 +125,8 @@ def main() -> int:
     parser.add_argument(
         "--companies-dir",
         type=str,
-        default="companies",
-        help="Root folder where company subfolders are created (e.g. companies/scrunch.com/site-map/...).",
+        default="company",
+        help="Root folder where company subfolders are created (e.g. company/scrunch.com/site-map/...).",
     )
     parser.add_argument("--limit", type=int, default=200, help="Max URLs to return (Firecrawl map limit).")
     parser.add_argument("--search", type=str, default="", help="Optional Firecrawl map 'search' filter.")

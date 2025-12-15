@@ -25,11 +25,15 @@ Salesforce CRM platform - core sales entities:
 - **accounts.md** - Companies and organizations
 - **opportunities.md** - Sales deals and pipeline
 
-### supabase-neon/
-PostgreSQL-based data warehouse:
-- **setup.md** - Installation and configuration
-- **schema.md** - Database schema design
-- **mcp-integration.md** - MCP server integration for DataGen
+### supabase/
+Supabase (PostgreSQL + Auth/Storage) as an application database and/or operational data layer.
+
+See: `crm/supabase/README.md`
+
+### neon/
+Neon (serverless Postgres) as a Postgres backend for warehouses, environments, or sync targets.
+
+See: `crm/neon/README.md`
 
 ### file-metadata/
 Additional CRM data sources and metadata enrichment

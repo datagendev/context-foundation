@@ -2,3 +2,11 @@
 .venv/
 .uv-cache/
 __pycache__/
+
+# Local transcript artifacts (raw + curated)
+crm/transcripts/*
+!crm/transcripts/README.md
+!crm/transcripts/summarization-guideline.md
+
+# Local helper outputs
+.latest-transcript-id

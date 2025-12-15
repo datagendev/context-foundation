@@ -11,6 +11,13 @@ CSV/JSON enrichment with CRM integration
 - **business-logic.md** - Core prospecting algorithms and rules
 - **examples/** - Real customer examples (e.g., Scrunch.com)
 
+### proposal-automation/
+One-click proposal generation (Notion → PowerPoint) for mixed offers
+- **overview.md** - What problem does this solve?
+- **crm-integration.md** - Notion database design and data mapping
+- **business-logic.md** - Pricing rules, bundling, and content selection
+- **examples/** - Mock proposals and datasets
+
 ### lead-routing/
 Real-time lead intake, deduplication, and intelligent routing
 - **overview.md** - Lead routing workflow

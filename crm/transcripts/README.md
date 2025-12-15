@@ -21,6 +21,16 @@ YYYY-MM-DD_company-name_call-type.md
 
 Example: `2024-03-15_acme-corp_discovery.md`
 
+### Fireflies raw downloads
+
+When downloading from Fireflies via `integration/download_fireflies_transcript.py`, the file is saved as:
+
+```
+<transcript_id>.md
+```
+
+This keeps the raw artifact stable and de-duplicated; rename or transform it into the standard convention when you curate it into a canonical transcript.
+
 ## Template
 
 ```markdown
@@ -70,3 +80,7 @@ Example: `2024-03-15_acme-corp_discovery.md`
 2. **Extract**: AI extracts pain points, objections, MEDDPIC
 3. **Synthesize**: Roll up to `/synthesis/` docs
 4. **Push to CRM**: Update contact/deal records with extracted data
+
+## Summarization Guideline
+
+Use the company-aware guideline here: `crm/transcripts/summarization-guideline.md`
