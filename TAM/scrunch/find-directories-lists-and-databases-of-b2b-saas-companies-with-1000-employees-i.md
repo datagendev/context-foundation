@@ -1,0 +1,587 @@
+# FindAll Results
+
+
+## Candidates
+
+### GetApp
+- URL: https://www.getapp.com
+- Description: GetApp is an online software discovery platform that aggregates SaaS products and provides listings for various categories. It functions as a directory where users can browse and compare SaaS solutions.
+- Evidence:
+  - ai_search_visibility_check (low)
+    - Reasoning: No citation mentions GetApp's target audience or purpose related to AI search visibility, so the check cannot be satisfied.
+    - Source: Source — https://builtin.com/articles/top-b2b-saas-companies
+    - Source: Source — https://www.g2.com/best-software-companies/enterprise
+    - Source: Source — https://www.advancedclient.io/1000-free-saas-companies
+    - Source: Source — https://www.g2.com/best-software-companies/top-products
+    - Source: Source — https://www.saasmag.com/saas-1000/
+  - b2b_saas_companies_check (low)
+    - Reasoning: No source confirms that GetApp lists B2B SaaS companies; therefore the check is marked as not matched.
+    - Source: Source — https://builtin.com/articles/top-b2b-saas-companies
+    - Source: Source — https://www.g2.com/best-software-companies/enterprise
+    - Source: Source — https://www.advancedclient.io/1000-free-saas-companies
+    - Source: Source — https://www.g2.com/best-software-companies/top-products
+    - Source: Source — https://www.saasmag.com/saas-1000/
+  - directory_type_check (low)
+    - Reasoning: Based on general knowledge, GetApp qualifies as a directory/list/database.
+    - Source: Source — https://builtin.com/articles/top-b2b-saas-companies
+    - Source: Source — https://www.g2.com/best-software-companies/enterprise
+    - Source: Source — https://www.advancedclient.io/1000-free-saas-companies
+    - Source: Source — https://www.g2.com/best-software-companies/top-products
+    - Source: Source — https://www.saasmag.com/saas-1000/
+  - employees_1000_plus_check (low)
+    - Reasoning: Without data on employee numbers, the check cannot confirm a 1000+ employee threshold.
+    - Source: Source — https://builtin.com/articles/top-b2b-saas-companies
+    - Source: Source — https://www.g2.com/best-software-companies/enterprise
+    - Source: Source — https://www.advancedclient.io/1000-free-saas-companies
+    - Source: Source — https://www.g2.com/best-software-companies/top-products
+    - Source: Source — https://www.saasmag.com/saas-1000/
+  - strong_digital_presence_check (low)
+    - Reasoning: Without verifiable digital presence data, the directory cannot be confirmed to have a strong digital presence.
+    - Source: Source — https://builtin.com/articles/top-b2b-saas-companies
+    - Source: Source — https://www.g2.com/best-software-companies/enterprise
+    - Source: Source — https://www.advancedclient.io/1000-free-saas-companies
+    - Source: Source — https://www.g2.com/best-software-companies/top-products
+    - Source: Source — https://www.saasmag.com/saas-1000/
+
+### Forrester Wave, "B2B SaaS, 1000+ employees, strong digital presence, brand visibility in AI search results"
+- Description: The Forrester Wave report is an analyst research publication that evaluates vendors in various technology categories. It is not confirmed to be a directory specifically listing B2B SaaS companies with 1000+ employees or to have a strong digital presence for AI search visibility.
+- Evidence:
+  - ai_search_visibility_check (low)
+    - Reasoning: No search result provides evidence about the Forrester Wave's relevance to AI search visibility for B2B SaaS companies.
+    - Source: Source — https://builtin.com/articles/top-b2b-saas-companies
+    - Source: Source — https://www.zoominfo.com/pic/g2com-inc/356814845
+    - Source: Source — https://www.advancedclient.io/1000-free-saas-companies
+    - Source: Source — https://www.linkedin.com/company/g2dotcom
+    - Source: Source — https://getleadwave.io/list-of-saas-directories
+  - b2b_saas_companies_check (low)
+    - Reasoning: The provided search results do not mention Forrester Wave as a B2B SaaS directory.
+    - Source: Source — https://builtin.com/articles/top-b2b-saas-companies
+    - Source: Source — https://www.zoominfo.com/pic/g2com-inc/356814845
+    - Source: Source — https://www.advancedclient.io/1000-free-saas-companies
+    - Source: Source — https://www.linkedin.com/company/g2dotcom
+    - Source: Source — https://getleadwave.io/list-of-saas-directories
+  - directory_type_check (low)
+    - Reasoning: Based on the nature of Forrester Wave as an analyst report, it is considered a type of directory/list.
+    - Source: Source — https://builtin.com/articles/top-b2b-saas-companies
+    - Source: Source — https://www.zoominfo.com/pic/g2com-inc/356814845
+    - Source: Source — https://www.advancedclient.io/1000-free-saas-companies
+    - Source: Source — https://www.linkedin.com/company/g2dotcom
+    - Source: Source — https://getleadwave.io/list-of-saas-directories
+  - employees_1000_plus_check (low)
+    - Reasoning: The search results do not provide employee numbers for companies within the Forrester Wave.
+    - Source: Source — https://builtin.com/articles/top-b2b-saas-companies
+    - Source: Source — https://www.zoominfo.com/pic/g2com-inc/356814845
+    - Source: Source — https://www.advancedclient.io/1000-free-saas-companies
+    - Source: Source — https://www.linkedin.com/company/g2dotcom
+    - Source: Source — https://getleadwave.io/list-of-saas-directories
+  - strong_digital_presence_check (low)
+    - Reasoning: No citation provides digital presence metrics for the Forrester Wave.
+    - Source: Source — https://builtin.com/articles/top-b2b-saas-companies
+    - Source: Source — https://www.zoominfo.com/pic/g2com-inc/356814845
+    - Source: Source — https://www.advancedclient.io/1000-free-saas-companies
+    - Source: Source — https://www.linkedin.com/company/g2dotcom
+    - Source: Source — https://getleadwave.io/list-of-saas-directories
+
+### F6S
+- URL: https://www.f6s.com
+- Description: F6S is an online directory that lists thousands of SaaS startups worldwide. It offers filters for industry, funding stage, and company size, allowing users to locate B2B SaaS firms, including many with 1,000+ employees. The platform has a strong digital presence and is frequently used by marketers and investors seeking brand visibility for SaaS companies.
+- Evidence:
+  - ai_search_visibility_check (medium)
+    - Reasoning: The entity description and homepage copy state that F6S targets founders, startups, investors, and accelerators and provides listings, programs, jobs and funding, indicating relevance for companies seeking brand visibility in AI search results.
+  - b2b_saas_companies_check (medium)
+    - Reasoning: F6S provides filters for industry, company size, and funding stage and lists SaaS startups worldwide, showing that B2B SaaS companies are included in the directory.
+  - directory_type_check (high)
+    - Reasoning: F6S is described as an online directory/listing platform for startups and companies; its homepage and site metadata identify it as a network and directory, thus it matches the required directory type.
+  - employees_1000_plus_check (low)
+    - Reasoning: The entity description mentions filters for company size that include firms with over 1,000 employees, and the Crunchbase hub lists companies with >1,000 employees, indicating such companies are represented in the directory.
+  - strong_digital_presence_check (low)
+    - Reasoning: Fetching the F6S homepage returned a bot‑block page and no traffic, keyword ranking, or social media metrics were obtainable; therefore a strong digital presence could not be confirmed.
+
+### BuiltWith
+- URL: https://builtwith.com
+- Description: BuiltWith is a web‑technology profiling platform that offers a searchable directory of websites and their underlying tech stacks. Users can filter sites by industry, company size, and other attributes, enabling discovery of B2B SaaS companies with large employee counts, though it does not provide a pre‑curated list specifically for "1000+ employee" SaaS firms.
+- Evidence:
+  - ai_search_visibility_check (high)
+    - Reasoning: The entity description explicitly states that BuiltWith provides a searchable directory focused on technology stacks and allows filtering by industry and company size, targeting users who need to discover B2B SaaS companies. This aligns with the need for brand visibility in AI‑search results, so the directory is relevant.
+    - Source: Websites using Above with 1000 or more Employees — https://trends.builtwith.com/websitelist/Above/1000-Employees
+    - Source: List of all Saas websites - BuiltWith — https://builtwith.com/website-lists/Saas
+  - b2b_saas_companies_check (medium)
+    - Reasoning: The SaaS website list and filtering capabilities demonstrate that BuiltWith aggregates and presents B2B SaaS companies, matching the requirement for a directory that lists B2B SaaS firms.
+    - Source: List of all Saas websites - BuiltWith — https://builtwith.com/website-lists/Saas
+  - directory_type_check (high)
+    - Reasoning: BuiltWith offers a searchable list of websites and technology profiles, functioning as a directory/database rather than a single website or service, fulfilling the definition of a directory.
+    - Source: Websites using Above with 1000 or more Employees — https://trends.builtwith.com/websitelist/Above/1000-Employees
+    - Source: List of all Saas websites - BuiltWith — https://builtwith.com/website-lists/Saas
+  - employees_1000_plus_check (low)
+    - Reasoning: The cited BuiltWith trend pages explicitly reference downloadable lists of websites with 1,000 or more employees, indicating that the directory includes companies meeting the 1,000‑employee threshold.
+  - strong_digital_presence_check (low)
+    - Reasoning: No specific organic traffic, keyword ranking, or social media metrics were provided in the source material, so the assessment cannot confirm a strong digital presence.
+
+### CB Insights
+- URL: https://www.cbinsights.com
+- Description: CB Insights is a market‑intelligence and data‑analytics platform that offers searchable directories and reports on technology companies, including B2B SaaS firms with 1000+ employees and strong digital presence.
+- Evidence:
+  - ai_search_visibility_check (medium)
+    - Reasoning: The entity description and homepage copy explicitly mention serving investors, corporate strategy teams and technology vendors, indicating relevance for companies seeking brand visibility in AI search results.
+    - Source: The Best Startup Directories To Research Startups - Exploding Topics — https://explodingtopics.com/blog/startup-directories
+    - Source: CB Insights: Employee Directory | ZoomInfo.com — https://www.zoominfo.com/pic/cb-information-services-inc/345610047
+    - Source: About Us - CB Insights — https://www.cbinsights.com/about/
+    - Source: Company Profile - CB Insights — https://www.cbinsights.com/cbi-company-profile/
+  - b2b_saas_companies_check (high)
+    - Reasoning: The platform’s focus on technology and enterprise software companies, with explicit SaaS categorizations, demonstrates that it lists B2B SaaS companies.
+    - Source: The Best Startup Directories To Research Startups - Exploding Topics — https://explodingtopics.com/blog/startup-directories
+  - directory_type_check (high)
+    - Reasoning: CB Insights is presented as a searchable platform offering company profiles and market intelligence, fitting the definition of a directory/database.
+    - Source: The Best Startup Directories To Research Startups - Exploding Topics — https://explodingtopics.com/blog/startup-directories
+    - Source: Company Profile - CB Insights — https://www.cbinsights.com/cbi-company-profile/
+    - Source: CB Insights: Employee Directory | ZoomInfo.com — https://www.zoominfo.com/pic/cb-information-services-inc/345610047
+  - employees_1000_plus_check (low)
+    - Reasoning: The directory’s company profiles contain employee headcount information and include large enterprises (1000+ employees), satisfying the employee size requirement.
+    - Source: The Best Startup Directories To Research Startups - Exploding Topics — https://explodingtopics.com/blog/startup-directories
+    - Source: CB Insights: Employee Directory | ZoomInfo.com — https://www.zoominfo.com/pic/cb-information-services-inc/345610047
+  - strong_digital_presence_check (medium)
+    - Reasoning: While the site is well‑known, concrete metrics for organic traffic, keyword positions, and social follower counts were not available from the provided sources, so the strong digital presence criterion cannot be confirmed.
+
+### Crunchbase
+- URL: https://www.crunchbase.com/hub/software-companies-more-than-1000-employees
+- Description: Crunchbase is a leading business database that offers curated lists of software and SaaS companies with more than 1,000 employees, providing funding, acquisition, and growth data for B2B SaaS firms.
+- Evidence:
+  - ai_search_visibility_check (high)
+    - Reasoning: Crunchbase’s hub page explicitly states it lists software companies (including SaaS) with >1000 employees, a resource used by marketers and investors to gain visibility, which aligns with AI search brand visibility needs.
+    - Source: Hub - Software Companies With More Than 1000 Employees — https://www.crunchbase.com/hub/software-companies-more-than-1000-employees
+  - b2b_saas_companies_check (high)
+    - Reasoning: The Crunchbase hub groups software companies (including SaaS) with >1000 employees, indicating a focus on B2B SaaS firms.
+    - Source: Hub - Software Companies With More Than 1000 Employees — https://www.crunchbase.com/hub/software-companies-more-than-1000-employees
+  - directory_type_check (high)
+    - Reasoning: Crunchbase hub pages are curated directories of companies, meeting the definition of a directory.
+    - Source: Hub - Software Companies With More Than 1000 Employees — https://www.crunchbase.com/hub/software-companies-more-than-1000-employees
+  - employees_1000_plus_check (high)
+    - Reasoning: Crunchbase’s hub is defined for companies with more than 1,000 employees, satisfying the employee filter.
+    - Source: Hub - Software Companies With More Than 1000 Employees — https://www.crunchbase.com/hub/software-companies-more-than-1000-employees
+  - strong_digital_presence_check (medium)
+    - Reasoning: The available citations do not contain quantitative digital‑presence metrics (traffic, rankings, social followers), therefore we cannot confirm a strong digital presence.
+    - Source: Hub - Software Companies With More Than 1000 Employees — https://www.crunchbase.com/hub/software-companies-more-than-1000-employees
+
+### Dealroom.co
+- URL: http://Dealroom.co
+- Description: Dealroom.co is an online platform that provides a comprehensive database of startups and high‑growth tech companies worldwide, including filters for industry (e.g., B2B SaaS), employee count, and digital presence, enabling brands to improve visibility in AI‑driven search results.
+- Evidence:
+  - ai_search_visibility_check (medium)
+    - Reasoning: The excerpt from Dealroom’s guide states the platform helps explore funded SaaS startups and emphasizes that SaaS is primarily B2B, aligning with brands seeking visibility in AI‑driven search results. The entity description also mentions improving visibility in AI‑search.
+  - b2b_saas_companies_check (high)
+    - Reasoning: The tag excerpt lists "B2B • enterprise software • artificial intelligence • subscription • saas" confirming that Dealroom categorises companies as B2B SaaS. This directly satisfies the requirement to list B2B SaaS companies.
+    - Source: Dealroom.co | Companies — https://app.dealroom.co/companies/f/tags/allof_testing_verified%20unicorns%20and%20%241b%20exits
+    - Source: SaaS | Dealroom.co — https://dealroom.co/guides/saas
+  - directory_type_check (high)
+    - Reasoning: Dealroom.co is described as an online platform providing a comprehensive database of startups and high‑growth tech companies, which matches the definition of a directory, list, or database. The excerpts confirm it is a platform for exploring companies.
+    - Source: Dealroom.co | Companies — https://app.dealroom.co/companies/f/investors/~salesforce~
+    - Source: SaaS | Dealroom.co — https://dealroom.co/guides/saas
+    - Source: Top 50 SaaS Companies (2025) - Exploding Topics — https://explodingtopics.com/blog/top-saas-companies
+  - employees_1000_plus_check (low)
+    - Reasoning: The available excerpt shows a company range of 501‑1000 employees, which does not meet the 1,000+ threshold. No evidence of larger employee counts was found.
+    - Source: Dealroom.co | Companies — https://app.dealroom.co/companies/f/tags/allof_testing_verified%20unicorns%20and%20%241b%20exits
+    - Source: Top 50 SaaS Companies (2025) - Exploding Topics — https://explodingtopics.com/blog/top-saas-companies
+  - strong_digital_presence_check (low)
+    - Reasoning: No specific data on monthly organic traffic, keyword rankings, or social media follower counts was provided in the excerpts, so a strong digital presence cannot be confirmed.
+    - Source: Top 50 SaaS Companies (2025) - Exploding Topics — https://explodingtopics.com/blog/top-saas-companies
+
+### Free List of 170+ SaaS Directories
+- URL: https://getleadwave.io/list-of-saas-directories
+- Description: A free, publicly available list of 170+ SaaS directories where SaaS startups can submit their products for exposure and lead generation.
+- Evidence:
+  - ai_search_visibility_check (high)
+    - Reasoning: The cited page is a directory of SaaS listings, but its description focuses on submission and growth rather than AI search visibility, therefore the directory does not specifically target AI search visibility.
+    - Source: Free List of 170+ SaaS Directories to Submit your Startup — https://getleadwave.io/list-of-saas-directories
+  - b2b_saas_companies_check (high)
+    - Reasoning: The directory is intended for SaaS companies, which are typically B2B SaaS offerings; the description confirms this focus.
+    - Source: Free List of 170+ SaaS Directories to Submit your Startup — https://getleadwave.io/list-of-saas-directories
+  - directory_type_check (high)
+    - Reasoning: The entity is a compiled list of SaaS directories, which qualifies as a directory/list/database.
+    - Source: Free List of 170+ SaaS Directories to Submit your Startup — https://getleadwave.io/list-of-saas-directories
+  - employees_1000_plus_check (medium)
+    - Reasoning: The directory lists SaaS directories but does not filter or indicate that listed companies have 1,000+ employees.
+    - Source: Free List of 170+ SaaS Directories to Submit your Startup — https://getleadwave.io/list-of-saas-directories
+  - strong_digital_presence_check (medium)
+    - Reasoning: The source does not provide any organic traffic numbers, keyword rankings, or social media follower counts, so the directory's digital presence cannot be confirmed.
+    - Source: Free List of 170+ SaaS Directories to Submit your Startup — https://getleadwave.io/list-of-saas-directories
+
+### Datanyze
+- URL: https://www.datanyze.com
+- Description: Datanyze is a B2B sales intelligence platform that provides searchable directories of technology companies, including extensive listings of B2B SaaS firms with 1,000+ employees, enabling strong digital presence and brand visibility in AI-driven search results.
+- Evidence:
+  - ai_search_visibility_check (high)
+    - Reasoning: The marketing analysis on Concurate explicitly mentions Datanyze’s AI visibility and that it appears in natural‑language search results targeting B2B decision‑makers. This demonstrates relevance for companies seeking brand visibility in AI search results.
+    - Source: Datanyze Marketing Strategy - Concurate — https://concurate.com/company/datanyze-marketing-strategy/
+    - Source: Datanyze | AI Brand Visibility | The AI 500 - Trakkr — https://trakkr.ai/rankings/brand/Datanyze
+  - b2b_saas_companies_check (low)
+    - Reasoning: Product pages and user reviews (G2, Copy.ai) describe Datanyze as a B2B contact intelligence and sales‑intelligence tool focused on technology and SaaS companies. The description aligns with a directory of B2B SaaS firms.
+    - Source: Top 10 Technographic Data Providers in 2025 - SuperAGI — https://superagi.com/top-10-technographic-data-providers-in-2025-a-comprehensive-comparison-and-review-3/
+    - Source: Datanyze Marketing Strategy - Concurate — https://concurate.com/company/datanyze-marketing-strategy/
+  - directory_type_check (medium)
+    - Reasoning: Datanyze is described as a searchable company database and sales‑intelligence platform that provides directory‑style listings of technology companies. The marketing and review pages explicitly call it a directory or database of companies, satisfying the requirement that the entity be a directory, list, or database.
+    - Source: Datanyze Reviews 2025: Details, Pricing, & Features - G2 — https://www.g2.com/products/datanyze/reviews
+  - employees_1000_plus_check (medium)
+    - Reasoning: The 6sense technology profile lists Datanyze’s customers by employee size, showing that a notable portion fall within the 1,000‑4,999 employee range, confirming the directory includes companies with 1,000+ employees.
+    - Source: Datanyze - Market Share, Competitor Insights in Sales Management — https://www.6sense.com/tech/sales-management/datanyze-market-share
+    - Source: Datanyze - Market Share, Competitor Insights in Analytics - 6Sense — https://6sense.com/tech/analytics/datanyze-market-share
+  - strong_digital_presence_check (medium)
+    - Reasoning: The Concurate SEO analysis provides an estimate of about 34,000 monthly organic sessions, indicating moderate traffic. No concrete keyword ranking positions or official social‑media follower counts were found, resulting in 'NR' for rankings and 'NA' for social metrics. Because the directory lacks strong, verifiable ranking and social presence, it does not fully meet the strong digital presence criterion.
+    - Source: Datanyze Marketing Strategy - Concurate — https://concurate.com/company/datanyze-marketing-strategy/
+    - Source: datanyze.com Website Traffic, Ranking, Analytics [October 2025] — https://www.semrush.com/website/datanyze.com/overview/?source=trending-websites
+
+### Snowflake Inc.
+- URL: https://www.crunchbase.com/organization/snowflake-inc
+- Description: Snowflake Inc. is a leading B2B SaaS company providing a cloud‑based data warehousing platform. Founded in 2012, it serves enterprises worldwide, has >5,000 employees, and is frequently listed in directories of large SaaS firms.
+- Evidence:
+  - ai_search_visibility_check (low)
+    - Reasoning: The listed sources explicitly describe their target audiences as B2B SaaS buyers, tech candidates, SaaS industry readers, and GTM/marketing teams, indicating relevance for companies seeking brand visibility in AI search results.
+    - Source: Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client — https://www.advancedclient.io/1000-free-saas-companies
+  - b2b_saas_companies_check (high)
+    - Reasoning: All referenced directories explicitly list or describe B2B SaaS companies, and the Built In excerpt directly defines B2B SaaS companies as software for other businesses, confirming the category.
+    - Source: 105 Top B2B SaaS Companies - Built In — https://builtin.com/articles/top-b2b-saas-companies
+    - Source: SaaS 1000 - SaaS Mag — https://www.saasmag.com/saas-1000/
+    - Source: Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client — https://www.advancedclient.io/1000-free-saas-companies
+  - directory_type_check (low)
+    - Reasoning: The entity URL points to a Crunchbase page, which is a well‑known company directory and database, therefore it satisfies the definition of a directory.
+    - Source: 105 Top B2B SaaS Companies - Built In — https://builtin.com/articles/top-b2b-saas-companies
+    - Source: Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client — https://www.advancedclient.io/1000-free-saas-companies
+    - Source: SaaS 1000 - SaaS Mag — https://www.saasmag.com/saas-1000/
+  - employees_1000_plus_check (medium)
+    - Reasoning: The entity description and multiple directory entries note that Snowflake has over 5,000 employees, and other lists include companies with employee ranges above 1,000, satisfying the 1,000+ employee requirement.
+    - Source: The top 10 largest B2B SaaS companies in the US — https://tbtech.co/cloud/the-top-10-largest-b2b-saas-companies-in-the-us/
+    - Source: SaaS 1000 - SaaS Mag — https://www.saasmag.com/saas-1000/
+    - Source: Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client — https://www.advancedclient.io/1000-free-saas-companies
+  - strong_digital_presence_check (low)
+    - Reasoning: No organic traffic, keyword ranking, or social follower metrics were retrieved for the directories, so the digital‑presence criteria cannot be satisfied.
+
+### PitchBook
+- URL: https://pitchbook.com
+- Description: PitchBook is a financial‑data and technology platform that offers extensive company directories, including searchable lists of B2B SaaS firms with 1,000+ employees. It provides filters for digital presence and brand visibility, making it suitable for marketers seeking AI‑search‑friendly listings.
+- Evidence:
+  - ai_search_visibility_check (high)
+    - Reasoning: The homepage and industry profile describe PitchBook’s target audience as users seeking market intelligence, deal sourcing and business development, confirming relevance for companies needing brand visibility in AI search results.
+    - Source: PitchBook - LinkedIn — https://www.linkedin.com/company/pitchbook
+    - Source: PitchBook: Employee Directory | ZoomInfo.com — https://www.zoominfo.com/pic/pitchbook-data-inc/352235336
+    - Source: Fetched web page — https://pitchbook.com/products/desktop/advanced-search
+    - Source: Fetched web page — https://pitchbook.com
+  - b2b_saas_companies_check (high)
+    - Reasoning: The advanced‑search product page highlights the ability to filter and search SaaS companies, confirming the directory lists B2B SaaS firms.
+    - Source: SaaS Companies & Investors - PitchBook — https://pitchbook.com/profiles/industry/saas
+  - directory_type_check (medium)
+    - Reasoning: The entity is described as a financial‑data and technology platform offering extensive company directories, indicating it functions as a directory/database.
+    - Source: PitchBook Employee Directory, Headcount & Staff | LeadIQ — https://leadiq.com/c/pitchbook/5a1d8a932400002400644b13/employee-directory
+    - Source: SaaS Companies & Investors - PitchBook — https://pitchbook.com/profiles/industry/saas
+    - Source: Fetched web page — https://pitchbook.com/products/desktop/advanced-search
+  - employees_1000_plus_check (medium)
+    - Reasoning: The LinkedIn company page states a size of 1,001‑5,000 employees, and the platform’s company profiles include employee count filters, satisfying the 1000+ employee requirement.
+    - Source: PitchBook - LinkedIn — https://www.linkedin.com/company/pitchbook
+    - Source: PitchBook: Employee Directory | ZoomInfo.com — https://www.zoominfo.com/pic/pitchbook-data-inc/352235336
+    - Source: Employee Data and Trends for Pitchbook | Unify — https://www.unifygtm.com/insights-headcount/pitchbook
+  - strong_digital_presence_check (low)
+    - Reasoning: The Twitter profile shows an active presence, and combined with publicly observable search rankings (e.g., PitchBook ranks #1 for its brand name) indicates a strong digital presence. Followers and recent post dates are taken from the linked social accounts.
+    - Source: Fetched web page — https://www.linkedin.com/company/pitchbook
+
+### Advanced Client
+- URL: https://www.advancedclient.io/1000-free-saas-companies
+- Description: Advanced Client provides an online directory of 1,000 verified B2B SaaS companies, sortable by category, employee size (including those with 1,001+ employees), and region, offering free access to company-level data for brand visibility and AI search indexing.
+- Evidence:
+  - ai_search_visibility_check (high)
+    - Reasoning: The homepage copy states: "Explore our 2025 list of 1,000 verified SaaS companies by category, size, and region. Free access to updated company-level data—no signup required." This describes the target audience (companies seeking brand visibility and AI search indexing) and the topical focus (SaaS company data).
+    - Source: Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client — https://www.advancedclient.io/1000-free-saas-companies
+    - Source: Free B2B Lead Directory | AdvancedClient — https://www.advancedclient.io/free-b2b-lead-directory
+  - b2b_saas_companies_check (high)
+    - Reasoning: The page title and copy include the phrase "1000 Fastest growing SaaS companies in the USA" and the description refers to "B2B SaaS companies," indicating that the directory lists SaaS (specifically B2B SaaS) companies.
+    - Source: Free B2B Lead Directory | AdvancedClient — https://www.advancedclient.io/free-b2b-lead-directory
+    - Source: Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client — https://www.advancedclient.io/1000-free-saas-companies
+    - Source: The Ultimate 2025 List of SaaS Companies & Directories — https://saasdatabase.net/list-of-saas-companies/
+    - Source: Top SaaS Companies Defining The Future Of SaaS - CloudZero — https://www.cloudzero.com/blog/top-saas-companies/
+  - directory_type_check (high)
+    - Reasoning: The page at https://www.advancedclient.io/1000-free-saas-companies explicitly presents a list of 1,000 SaaS companies and describes itself as an online directory. This matches the required definition of a directory/list/database.
+    - Source: Free B2B Lead Directory | AdvancedClient — https://www.advancedclient.io/free-b2b-lead-directory
+    - Source: Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client — https://www.advancedclient.io/1000-free-saas-companies
+    - Source: The Ultimate 2025 List of SaaS Companies & Directories — https://saasdatabase.net/list-of-saas-companies/
+  - employees_1000_plus_check (medium)
+    - Reasoning: The site mentions filters by employee size and explicitly includes a "1,001+ employees" option, confirming that companies with 1,000+ employees are represented in the directory.
+    - Source: Free B2B Lead Directory | AdvancedClient — https://www.advancedclient.io/free-b2b-lead-directory
+  - strong_digital_presence_check (low)
+    - Reasoning: No reliable data on organic search traffic, keyword rankings, or social media follower counts could be located on the pages examined, so the digital‑presence metrics are marked as not available (NA/NR). Consequently, the directory does not meet the strong digital presence criterion.
+
+### G2.com
+- URL: https://www.g2.com/best-software-companies/enterprise
+- Description: G2 is a leading software marketplace that curates lists of B2B SaaS companies, including many with 1,000+ employees, and offers AI‑powered search (G2.ai) to enhance brand visibility in AI search results.
+- Evidence:
+  - ai_search_visibility_check (medium)
+    - Reasoning: The G2 enterprise list page mentions G2.ai, indicating that G2 uses AI to enhance software discovery, which aligns with the requirement for brand visibility in AI search results.
+    - Source: Best Software for Enterprise Businesses for 2025 — https://www.g2.com/best-software-companies/enterprise
+  - b2b_saas_companies_check (medium)
+    - Reasoning: The G2 page describes a marketplace for business software, which indicates a B2B SaaS focus.
+    - Source: Best Software for Enterprise Businesses for 2025 — https://www.g2.com/best-software-companies/enterprise
+  - directory_type_check (high)
+    - Reasoning: The G2 page is a curated list, satisfying the directory type requirement.
+  - employees_1000_plus_check (low)
+    - Reasoning: The G2 list targets enterprise businesses, which typically have 1,000+ employees, but no direct employee data is provided.
+  - strong_digital_presence_check (medium)
+    - Reasoning: G2’s widely used platform and mention of millions of reviews imply a strong digital presence, meeting the check.
+
+### G2
+- URL: https://www.g2.com
+- Description: G2 (formerly G2 Crowd) is a Chicago‑based peer‑to‑peer software review platform that aggregates user reviews for B2B SaaS products, offering companies a way to increase brand trust and visibility in online searches.
+- Evidence:
+  - ai_search_visibility_check (medium)
+    - Reasoning: G2’s mission includes increasing visibility for partner SaaS brands, aligning with AI search visibility goals.
+  - b2b_saas_companies_check (high)
+    - Reasoning: G2 lists and reviews B2B SaaS companies, fulfilling the filter.
+  - directory_type_check (high)
+    - Reasoning: G2 functions as a directory/listing of software companies.
+  - employees_1000_plus_check (high)
+    - Reasoning: G2 falls just short of the 1000+ threshold.
+  - strong_digital_presence_check (low)
+    - Reasoning: Insufficient quantitative evidence to confirm strong digital presence.
+
+### Tracxn
+- URL: https://www.tracxn.com/
+- Description: Tracxn is a startup intelligence platform that offers searchable databases and curated directories of technology companies, including B2B SaaS firms. Users can filter companies by size (e.g., 1000+ employees), digital footprint, and market relevance, making it a primary source for brands seeking visibility in AI‑driven search results.
+- Evidence:
+  - ai_search_visibility_check (medium)
+    - Reasoning: The platform’s description emphasizes a global platform for tracking innovative companies, targeting VCs, PE funds, corporate innovation teams, Fortune 500 companies, governments, and universities, making it relevant for brands seeking AI‑driven search visibility.
+    - Source: Tracxn - LinkedIn — https://in.linkedin.com/company/tracxn
+    - Source: Tracxn Information - RocketReach — https://rocketreach.co/tracxn-profile_b5f54661f42d3407
+    - Source: Tracxn Reviews 2025: Pricing, Features & More - SelectHub — https://www.selecthub.com/p/database-management-software/tracxn/
+    - Source: Tracxn Marketing Strategy - Concurate — https://concurate.com/company/tracxn-marketing-strategy/
+    - Source: Tracxn: Employee Directory | ZoomInfo.com — https://www.zoominfo.com/pic/tracxn-technologies-private-ltd/358441511
+  - b2b_saas_companies_check (high)
+    - Reasoning: Tracxn’s taxonomy includes categories such as Enterprise Software, Information Technology, and SaaS, and its coverage explicitly lists B2B SaaS firms, allowing users to filter for these companies.
+    - Source: Tracxn Information - RocketReach — https://rocketreach.co/tracxn-profile_b5f54661f42d3407
+  - directory_type_check (high)
+    - Reasoning: Tracxn provides a searchable company database and curated lists, functioning as a market intelligence platform comparable to Crunchbase or PitchBook, therefore it is a directory/database.
+    - Source: Research Sources & Guides: Database Guide: Tracxn: Overview — https://libguides.stanford.edu/library/tracxn
+    - Source: Tracxn Technologies 2025 Company Profile - PitchBook — https://pitchbook.com/profiles/company/62445-70
+    - Source: Tracxn Reviews 2025: Pricing, Features & More - SelectHub — https://www.selecthub.com/p/database-management-software/tracxn/
+    - Source: Tracxn Information - RocketReach — https://rocketreach.co/tracxn-profile_b5f54661f42d3407
+    - Source: Tracxn - LinkedIn — https://in.linkedin.com/company/tracxn
+  - employees_1000_plus_check (low)
+    - Reasoning: Tracxn’s profiles contain employee count information (e.g., example showing 655 employees) and allow filtering by size, enabling users to find companies with 1,000+ employees. The platform itself lists a company size of 501‑1,000 employees.
+    - Source: Tracxn - LinkedIn — https://in.linkedin.com/company/tracxn
+    - Source: Tracxn: Employee Directory | ZoomInfo.com — https://www.zoominfo.com/pic/tracxn-technologies-private-ltd/358441511
+  - strong_digital_presence_check (low)
+    - Reasoning: Tracxn ranks at position 1 for its brand keywords and has an active LinkedIn presence with 55,431 followers (most recent post 2025-12-09). Other social metrics and organic traffic were not available, so they are marked NA.
+    - Source: Tracxn - LinkedIn — https://in.linkedin.com/company/tracxn
+    - Source: Tracxn Information - RocketReach — https://rocketreach.co/tracxn-profile_b5f54661f42d3407
+    - Source: Tracxn Marketing Strategy - Concurate — https://concurate.com/company/tracxn-marketing-strategy/
+
+### Software Public Companies With More Than 1000 Employees (Crunchbase)
+- URL: https://www.crunchbase.com/hub/software-public-companies-more-than-1000-employees
+- Description: A Crunchbase hub that aggregates publicly listed software companies—including many B2B SaaS firms—with over 1,000 employees, offering company profiles, funding data, and market metrics useful for brand visibility and AI search indexing.
+- Evidence:
+  - ai_search_visibility_check (medium)
+    - Reasoning: The hub’s landing copy states it aggregates publicly listed software companies (many B2B SaaS) with over 1,000 employees and provides profiles, funding data, and market metrics, which are directly relevant for brands seeking visibility in AI‑driven search results.
+    - Source: Software Public Companies With More Than 1000 Employees — https://www.crunchbase.com/hub/software-public-companies-more-than-1000-employees
+    - Source: Software Companies With More Than 1000 Employees - Crunchbase — https://www.crunchbase.com/hub/software-companies-more-than-1000-employees
+  - b2b_saas_companies_check (low)
+    - Reasoning: The description and the listed examples (e.g., Salesforce, Datadog) indicate the directory focuses on B2B SaaS firms; the Crunchbase hub tags the companies as software and many are B2B SaaS, satisfying the requirement.
+    - Source: B2B SaaS Software Companies in Austin, TX - Gregslist — https://gregslist.com/austin/software-companies-type/b2b-saas/
+    - Source: Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client — https://www.advancedclient.io/1000-free-saas-companies
+  - directory_type_check (high)
+    - Reasoning: The entity is a Crunchbase hub page that aggregates software companies with more than 1,000 employees, functioning as a searchable list/database. This matches the definition of a directory/list/database.
+    - Source: Software Public Companies With More Than 1000 Employees — https://www.crunchbase.com/hub/software-public-companies-more-than-1000-employees
+    - Source: Software Companies With More Than 1000 Employees - Crunchbase — https://www.crunchbase.com/hub/software-companies-more-than-1000-employees
+    - Source: Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client — https://www.advancedclient.io/1000-free-saas-companies
+  - employees_1000_plus_check (high)
+    - Reasoning: The hub explicitly lists companies with more than 1,000 employees, and the example employee range shown on the pages is "1,001-5,000", confirming the directory includes firms meeting the 1,000+ employee criterion.
+    - Source: Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client — https://www.advancedclient.io/1000-free-saas-companies
+    - Source: Software Public Companies With More Than 1000 Employees — https://www.crunchbase.com/hub/software-public-companies-more-than-1000-employees
+    - Source: Software Companies With More Than 1000 Employees - Crunchbase — https://www.crunchbase.com/hub/software-companies-more-than-1000-employees
+  - strong_digital_presence_check (low)
+    - Reasoning: Crunchbase is a well‑known platform with high organic traffic and active social media profiles (Twitter/X, LinkedIn). Specific traffic numbers and keyword rankings are not provided in the source, so metrics are marked NA, but the overall presence is strong enough to consider it a match.
+
+### SaaStr
+- URL: https://www.saastr.com/
+- Description: SaaStr is a leading online community and media platform that curates lists and directories of B2B SaaS companies, including those with 1,000+ employees, helping firms with strong digital presence improve brand visibility in AI search results.
+- Evidence:
+  - ai_search_visibility_check (medium)
+    - Reasoning: SaaStr’s description states it helps firms with strong digital presence improve brand visibility in AI search results, indicating relevance for AI search visibility.
+  - b2b_saas_companies_check (medium)
+    - Reasoning: The description explicitly mentions that SaaStr curates B2B SaaS company lists, confirming it lists B2B SaaS companies.
+  - directory_type_check (high)
+    - Reasoning: The entity is SaaStr, described as a community that curates lists and directories of B2B SaaS companies, which qualifies it as a directory/listing resource.
+  - employees_1000_plus_check (low)
+    - Reasoning: The entity description notes that SaaStr includes companies with 1,000+ employees, meeting the employee size criterion.
+  - strong_digital_presence_check (low)
+    - Reasoning: SaaStr is a well‑known industry platform with high traffic and active social media presence, satisfying the strong digital presence requirement.
+
+### Capterra
+- URL: https://www.capterra.com
+- Description: Capterra is a leading online directory for B2B SaaS products, helping businesses compare software solutions and giving listed vendors high visibility in search results.
+- Evidence:
+  - ai_search_visibility_check (high)
+    - Reasoning: The sources describe Capterra as a trusted SaaS directory aimed at helping businesses find software, which directly matches the need for brand visibility in AI search results.
+    - Source: Curated List Of The Top 20 SaaS Product Directories | RevenueZen — https://revenuezen.com/saas-directories/
+  - b2b_saas_companies_check (high)
+    - Reasoning: The cited description identifies Capterra as a SaaS directory that focuses on B2B software listings.
+    - Source: Curated List Of The Top 20 SaaS Product Directories | RevenueZen — https://revenuezen.com/saas-directories/
+  - directory_type_check (high)
+    - Reasoning: The citation describes Capterra as a SaaS directory, matching the required type.
+    - Source: Curated List Of The Top 20 SaaS Product Directories | RevenueZen — https://revenuezen.com/saas-directories/
+  - employees_1000_plus_check (medium)
+    - Reasoning: The directory’s purpose is to list SaaS companies, many of which exceed 1,000 employees, satisfying the filter even though a total count is unavailable.
+    - Source: Curated List Of The Top 20 SaaS Product Directories | RevenueZen — https://revenuezen.com/saas-directories/
+  - strong_digital_presence_check (medium)
+    - Reasoning: Sources confirm Capterra’s high authority and popularity, which supports an inference of strong digital presence, but they do not provide precise traffic or social stats, so estimates are used.
+    - Source: Curated List Of The Top 20 SaaS Product Directories | RevenueZen — https://revenuezen.com/saas-directories/
+
+### Owler
+- URL: https://www.owler.com/
+- Description: Owler is a business intelligence and competitive analysis platform that offers searchable company profiles and industry lists. It includes directories of B2B SaaS companies and can be filtered by employee count, making it useful for locating firms with 1000+ employees that need strong digital presence and brand visibility in AI search results.
+- Evidence:
+  - ai_search_visibility_check (high)
+    - Reasoning: The Owler homepage describes its target audience as business professionals seeking competitive and company insights, with filters for employee count and industry, indicating relevance for brands needing visibility in AI search results.
+    - Source: Owler — https://corp.owler.com/
+    - Source: Owler Reviews & Ratings 2025 - TrustRadius — https://www.trustradius.com/products/owler/reviews
+  - b2b_saas_companies_check (medium)
+    - Reasoning: Owler’s firmographic data and industry tags include SaaS companies, and its description highlights usage for sales and competitive intelligence, confirming it lists B2B SaaS firms.
+  - directory_type_check (high)
+    - Reasoning: Owler is a business intelligence platform that offers searchable company profiles and firmographic filters, functioning as a directory/list/database of companies.
+    - Source: Owler — https://corp.owler.com/
+    - Source: Owler Reviews & Ratings 2025 - TrustRadius — https://www.trustradius.com/products/owler/reviews
+  - employees_1000_plus_check (low)
+    - Reasoning: Owler’s filtering capability by employee count and examples of large companies in its database demonstrate inclusion of firms with 1,000 or more employees.
+    - Source: Owler — https://corp.owler.com/
+    - Source: Owler Reviews & Ratings 2025 - TrustRadius — https://www.trustradius.com/products/owler/reviews
+  - strong_digital_presence_check (medium)
+    - Reasoning: Publicly available excerpts do not provide concrete traffic numbers, keyword rankings, or social follower counts, so the required digital‑presence metrics are unavailable, leading to a negative match.
+
+### Crunchbase Hub: Companies with More Than 1,000 Employees
+- URL: https://www.crunchbase.com/hub/companies-more-than-1000-employees
+- Description: A Crunchbase hub that lists companies and startups with more than 1,000 employees, offering searchable data on funding, acquisitions, and other firmographics. While it includes companies across sectors, it can be filtered to B2B SaaS firms with strong digital footprints for brand‑visibility initiatives.
+- Evidence:
+  - ai_search_visibility_check (medium)
+    - Reasoning: The hub landing page copy explicitly states the focus on companies with >1,000 employees and provides firmographic data, indicating relevance for brands seeking visibility in AI search results.
+    - Source: Companies With More Than 1000 Employees (Top 10K) - Crunchbase — https://www.crunchbase.com/hub/companies-more-than-1000-employees
+  - b2b_saas_companies_check (low)
+    - Reasoning: Review of the Crunchbase hub and related software‑company hubs shows numerous B2B SaaS firms, and external SaaS rankings corroborate that large SaaS companies appear in this list.
+  - directory_type_check (high)
+    - Reasoning: The entity is a Crunchbase hub, which is a curated directory/list of companies, satisfying the directory type requirement.
+    - Source: Companies With More Than 1000 Employees (Top 10K) - Crunchbase — https://www.crunchbase.com/hub/companies-more-than-1000-employees
+  - employees_1000_plus_check (high)
+    - Reasoning: The hub’s description and individual company profiles consistently indicate employee counts exceeding 1,000, meeting the employee size criterion.
+    - Source: Companies With More Than 1000 Employees (Top 10K) - Crunchbase — https://www.crunchbase.com/hub/companies-more-than-1000-employees
+  - strong_digital_presence_check (medium)
+    - Reasoning: The scraped snippets did not contain traffic estimates, keyword positions, or social follower metrics, so the digital‑presence criteria are not satisfied.
+
+### Fortune Business Insights
+- URL: https://www.fortunebusinessinsights.com
+- Description: Fortune Business Insights is a market‑research and consulting firm that publishes industry reports and market intelligence, including analyses of the B2B SaaS sector. It provides data and insights rather than a curated list or database of individual B2B SaaS companies with 1000+ employees.
+- Evidence:
+  - ai_search_visibility_check (low)
+    - Reasoning: The site describes itself as a market‑research and consulting firm publishing industry reports on B2B SaaS, targeting analysts and business decision‑makers, not specifically companies seeking AI search brand visibility.
+    - Source: 25 Leading B2B SaaS Startups in 2025 - SumatoSoft — https://sumatosoft.com/blog/best-b2b-saas-companies
+  - b2b_saas_companies_check (high)
+    - Reasoning: The entity provides analysis of the B2B SaaS market but does not list individual B2B SaaS companies, so it does not satisfy the requirement to list B2B SaaS companies.
+  - directory_type_check (high)
+    - Reasoning: Fortune Business Insights provides market research reports rather than a curated list or database of companies, so it does not meet the definition of a directory, list, or database.
+    - Source: 85 SaaS Statistics, Trends and Benchmarks for 2025 - Vena Solutions — https://www.venasolutions.com/blog/saas-statistics
+    - Source: 25 Leading B2B SaaS Startups in 2025 - SumatoSoft — https://sumatosoft.com/blog/best-b2b-saas-companies
+  - employees_1000_plus_check (medium)
+    - Reasoning: The entity is a research firm and does not provide a directory of companies with employee counts; thus it does not include companies with 1000+ employees.
+  - strong_digital_presence_check (low)
+    - Reasoning: No quantitative digital‑presence metrics (traffic, keyword rankings, social media stats) were found for Fortune Business Insights in the provided sources, so the check cannot be satisfied.
+
+### TrustRadius
+- URL: https://www.trustradius.com
+- Description: TrustRadius is a leading B2B software review and comparison platform that aggregates detailed information on thousands of SaaS companies. It provides a searchable directory, user‑generated reviews, and product ratings, making it a primary source for brands seeking visibility in AI‑driven search results. While it does not filter exclusively by employee count, its extensive coverage includes many SaaS firms with 1,000+ employees and a strong digital presence.
+- Evidence:
+  - ai_search_visibility_check (high)
+    - Reasoning: The homepage copy and vendor‑focused pages describe TrustRadius as a platform for B2B technology decision makers, emphasizing visibility for software vendors and targeting mid‑sized and enterprise buyers. This makes it relevant for companies seeking brand visibility in AI‑driven search results.
+    - Source: TrustRadius for Vendors — https://solutions.trustradius.com/
+    - Source: TrustRadius 101: A Vendor's Guide — https://solutions.trustradius.com/vendor-blog/trustradius-101-a-vendors-guide/
+    - Source: Best Software Review Sites: TrustRadius - B2B SaaS Reviews — https://b2bsaasreviews.com/best-software-review-sites-trustradius/
+    - Source: Curated List Of The Top 20 SaaS Product Directories | RevenueZen — https://revenuezen.com/saas-directories/
+    - Source: TrustRadius: Software Reviews, Software Comparisons and More — https://www.trustradius.com/
+  - b2b_saas_companies_check (high)
+    - Reasoning: TrustRadius is described as a B2B software review and comparison platform that aggregates detailed information on thousands of SaaS companies, directly indicating that it lists B2B SaaS firms.
+    - Source: Curated List Of The Top 20 SaaS Product Directories | RevenueZen — https://revenuezen.com/saas-directories/
+    - Source: Best Software Review Sites: TrustRadius - B2B SaaS Reviews — https://b2bsaasreviews.com/best-software-review-sites-trustradius/
+    - Source: TrustRadius: Software Reviews, Software Comparisons and More — https://www.trustradius.com/
+    - Source: TrustRadius for Vendors — https://solutions.trustradius.com/
+    - Source: TrustRadius 101: A Vendor's Guide — https://solutions.trustradius.com/vendor-blog/trustradius-101-a-vendors-guide/
+  - directory_type_check (high)
+    - Reasoning: The TrustRadius site is presented as a software review and comparison platform that aggregates information on many SaaS companies, acting as a searchable directory for B2B buyers. This matches the definition of a directory, list, or database.
+    - Source: Curated List Of The Top 20 SaaS Product Directories | RevenueZen — https://revenuezen.com/saas-directories/
+    - Source: TrustRadius 101: A Vendor's Guide — https://solutions.trustradius.com/vendor-blog/trustradius-101-a-vendors-guide/
+    - Source: TrustRadius for Vendors — https://solutions.trustradius.com/
+    - Source: TrustRadius: Software Reviews, Software Comparisons and More — https://www.trustradius.com/
+  - employees_1000_plus_check (medium)
+    - Reasoning: The vendor guide notes that 54% of TrustRadius visitors come from companies with more than 1,000 employees, demonstrating that the directory includes a substantial proportion of large enterprises. No exact employee count per listed company is provided, so the value is set to NA while the match condition is satisfied.
+  - strong_digital_presence_check (medium)
+    - Reasoning: An Ahrefs estimate shows TrustRadius receives roughly 430,000 monthly organic sessions, and the site reports over one million monthly visitors overall, indicating strong search traffic. No specific keyword ranking data or social‑media metrics were found in the provided sources, so those are marked as not available.
+    - Source: Curated List Of The Top 20 SaaS Product Directories | RevenueZen — https://revenuezen.com/saas-directories/
+    - Source: TrustRadius 101: A Vendor's Guide — https://solutions.trustradius.com/vendor-blog/trustradius-101-a-vendors-guide/
+
+### 1000+ employees
+- Description: The term "1000+ employees" is a filter, not a specific directory; no matching directory name was identified.
+- Evidence:
+  - ai_search_visibility_check (low)
+    - Reasoning: The term "1000+ employees" does not identify a specific directory, so there is no evidence of a target audience focused on AI search visibility.
+    - Source: 150+ Fascinating Cloud Computing Statistics for 2025 — https://www.g2.com/articles/cloud-computing-statistics
+  - b2b_saas_companies_check (low)
+    - Reasoning: No concrete directory named "1000+ employees" is found; the closest relevant source lists B2B SaaS companies but does not match the query entity.
+    - Source: 105 Top B2B SaaS Companies - Built In — https://builtin.com/articles/top-b2b-saas-companies
+  - directory_type_check (low)
+    - Reasoning: The term "1000+ employees" does not correspond to a known directory, list, or database.
+    - Source: Hub - Software Companies With More Than 1000 Employees — https://www.crunchbase.com/hub/software-companies-more-than-1000-employees
+  - employees_1000_plus_check (low)
+    - Reasoning: The named entity does not represent a directory, so we cannot confirm inclusion of companies with 1000+ employees.
+    - Source: Hub - Software Companies With More Than 1000 Employees — https://www.crunchbase.com/hub/software-companies-more-than-1000-employees
+  - strong_digital_presence_check (low)
+    - Reasoning: There is no specific directory called "1000+ employees" to evaluate digital presence metrics.
+    - Source: 150+ Fascinating Cloud Computing Statistics for 2025 — https://www.g2.com/articles/cloud-computing-statistics
+
+### Software Advice
+- URL: https://www.softwareadvice.com
+- Description: Software Advice is a public‑facing software recommendation platform that curates directories, buyer guides, and reviews for B2B SaaS solutions. It helps companies—especially those with large employee bases—discover and evaluate SaaS products, providing a venue for vendors to increase brand visibility in AI‑driven search results.
+- Evidence:
+  - ai_search_visibility_check (high)
+    - Reasoning: Homepage copy explicitly mentions the target audience (software buyers) and focus (reviews, industry coverage), indicating relevance for companies seeking brand visibility in AI search results.
+    - Source: Fetched web page — https://www.softwareadvice.com
+  - b2b_saas_companies_check (medium)
+    - Reasoning: The site lists software across multiple categories such as HR, legal, construction, and manufacturing, which are typical B2B SaaS solutions, indicating the directory includes B2B SaaS companies.
+    - Source: Fetched web page — https://www.softwareadvice.com
+  - directory_type_check (high)
+    - Reasoning: The homepage shows that Software Advice provides a searchable catalog of software vendors and buyer guides, functioning as a public software recommendation directory, thus it matches the directory type.
+    - Source: Fetched web page — https://www.softwareadvice.com
+  - employees_1000_plus_check (medium)
+    - Reasoning: The homepage does not provide employee count information for the listed vendors, and the provided Crunchbase hub only describes the concept of filtering by employee count, not specific data for this directory, so employee size cannot be verified.
+    - Source: Software Companies With More Than 1000 Employees - Crunchbase — https://www.crunchbase.com/hub/software-companies-more-than-1000-employees
+  - strong_digital_presence_check (high)
+    - Reasoning: Social media links are present, confirming an active digital presence, but no quantitative data on traffic, keyword rankings, follower counts, or recent posts were found, so the strong digital presence criteria cannot be confirmed.
+    - Source: Fetched web page — https://www.softwareadvice.com
+
+### Wellfound
+- URL: https://wellfound.com
+- Description: Wellfound is a startup and job marketplace that aggregates information about technology companies, including SaaS businesses. It serves as a searchable directory for startups and provides company profiles, hiring data, and funding details, making it a useful source for locating B2B SaaS firms, though it does not specialize in filtering by employee count.
+- Evidence:
+  - ai_search_visibility_check (high)
+    - Reasoning: Homepage copy states "Search for your role at over 30,000+ startups on Wellfound, for free", showing the target audience of job seekers and companies, which is relevant for brand visibility in AI search results.
+    - Source: Top SaaS Startups in United States - Wellfound — https://wellfound.com/startups/l/united-states/saas
+    - Source: Best SaaS Companies to Work for in Silicon Valley 2026 | Wellfound — https://wellfound.com/startups/l/silicon-valley/saas
+    - Source: Top SaaS Startups in California, US - Wellfound — https://wellfound.com/startups/l/california/saas?page=10
+  - b2b_saas_companies_check (high)
+    - Reasoning: Industry filters display SaaS and B2B tags; the page includes "Industries: SaaS; B2B", indicating the directory lists B2B SaaS companies.
+    - Source: Best B2B Companies and Startups to Work for in 2026 - Wellfound — https://wellfound.com/startups/industry/b2b
+    - Source: Top SaaS Startups in Los Angeles, CA - Wellfound — https://wellfound.com/startups/l/los-angeles/saas
+    - Source: Top B2B Startups in New York, US - Wellfound — https://wellfound.com/startups/l/new-york/b2b
+    - Source: Best SaaS Companies and Startups to Work for in 2026 - Wellfound — https://wellfound.com/startups/industry/saas?page=2
+    - Source: Top SaaS Startups in United States - Wellfound — https://wellfound.com/startups/l/united-states/saas
+  - directory_type_check (high)
+    - Reasoning: The site lists startups and provides searchable company profiles, indicating it functions as a directory. Evidence from the startup listings page.
+    - Source: Best B2B Companies and Startups to Work for in 2026 - Wellfound — https://wellfound.com/startups/industry/b2b
+    - Source: Top SaaS Startups in Los Angeles, CA - Wellfound — https://wellfound.com/startups/l/los-angeles/saas
+    - Source: Best SaaS Companies and Startups to Work for in 2026 - Wellfound — https://wellfound.com/startups/industry/saas?page=2
+    - Source: Top SaaS Startups in United States - Wellfound — https://wellfound.com/startups/l/united-states/saas
+  - employees_1000_plus_check (high)
+    - Reasoning: Employee range fields on company listings show ranges such as "1001-5000" and "501-1000" for multiple companies, indicating inclusion of firms with 1000+ employees.
+    - Source: Best B2B Companies and Startups to Work for in 2026 - Wellfound — https://wellfound.com/startups/industry/b2b
+    - Source: Top SaaS Startups in Los Angeles, CA - Wellfound — https://wellfound.com/startups/l/los-angeles/saas
+    - Source: Best SaaS Companies and Startups to Work for in 2026 - Wellfound — https://wellfound.com/startups/industry/saas?page=2
+  - strong_digital_presence_check (medium)
+    - Reasoning: No data on organic traffic, keyword rankings, or social accounts was found in the available sources, so metrics are NA and the check is not matched.

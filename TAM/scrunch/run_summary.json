@@ -1,0 +1,9 @@
+{
+  "out_dir": "/Users/yu-shengkuo/projects/datagendev/context-foundation/TAM/scrunch",
+  "results": {
+    "find-directories-lists-and-databases-of-b2b-saas-companies-with-1000-employees-i": "ok"
+  },
+  "objectives": {
+    "find-directories-lists-and-databases-of-b2b-saas-companies-with-1000-employees-i": "Find directories, lists, and databases of B2B SaaS companies with 1000+ employees. Include Crunchbase, G2, industry reports, and startup databases. Focus on companies with strong digital presence that need brand visibility in AI search results."
+  }
+}

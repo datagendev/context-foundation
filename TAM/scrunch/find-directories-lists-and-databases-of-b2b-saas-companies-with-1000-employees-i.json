@@ -1,0 +1,3317 @@
+{
+  "run": {
+    "findall_id": "findall_bad180f647b94e70bb8a6481f323ec31",
+    "status": {
+      "status": "completed",
+      "is_active": false,
+      "metrics": {
+        "generated_candidates_count": 25,
+        "matched_candidates_count": 7
+      },
+      "termination_reason": "low_match_rate"
+    },
+    "generator": "core",
+    "metadata": {},
+    "created_at": "2025-12-15T02:47:14.439654Z",
+    "modified_at": "2025-12-15T02:59:11.831209Z"
+  },
+  "candidates": [
+    {
+      "candidate_id": "candidate_0721b81f-7a9f-49a9-88a9-921c42469bcb",
+      "name": "GetApp",
+      "url": "https://www.getapp.com",
+      "description": "GetApp is an online software discovery platform that aggregates SaaS products and provides listings for various categories. It functions as a directory where users can browse and compare SaaS solutions.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "url": "https://builtin.com/articles/top-b2b-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.g2.com/best-software-companies/enterprise",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.g2.com/best-software-companies/top-products",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.saasmag.com/saas-1000/",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.vertice.one/blog/the-top-100-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.g2.com/",
+              "excerpts": []
+            },
+            {
+              "url": "https://explodingtopics.com/blog/top-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://wellfound.com/startups/industry/saas",
+              "excerpts": []
+            }
+          ],
+          "reasoning": "No citation mentions GetApp's target audience or purpose related to AI search visibility, so the check cannot be satisfied.",
+          "confidence": "low"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "url": "https://builtin.com/articles/top-b2b-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.g2.com/best-software-companies/enterprise",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.g2.com/best-software-companies/top-products",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.saasmag.com/saas-1000/",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.vertice.one/blog/the-top-100-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.g2.com/",
+              "excerpts": []
+            },
+            {
+              "url": "https://explodingtopics.com/blog/top-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://wellfound.com/startups/industry/saas",
+              "excerpts": []
+            }
+          ],
+          "reasoning": "No source confirms that GetApp lists B2B SaaS companies; therefore the check is marked as not matched.",
+          "confidence": "low"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "url": "https://builtin.com/articles/top-b2b-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.g2.com/best-software-companies/enterprise",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.g2.com/best-software-companies/top-products",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.saasmag.com/saas-1000/",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.vertice.one/blog/the-top-100-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.g2.com/",
+              "excerpts": []
+            },
+            {
+              "url": "https://explodingtopics.com/blog/top-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://wellfound.com/startups/industry/saas",
+              "excerpts": []
+            }
+          ],
+          "reasoning": "Based on general knowledge, GetApp qualifies as a directory/list/database.",
+          "confidence": "low"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "url": "https://builtin.com/articles/top-b2b-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.g2.com/best-software-companies/enterprise",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.g2.com/best-software-companies/top-products",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.saasmag.com/saas-1000/",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.vertice.one/blog/the-top-100-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.g2.com/",
+              "excerpts": []
+            },
+            {
+              "url": "https://explodingtopics.com/blog/top-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://wellfound.com/startups/industry/saas",
+              "excerpts": []
+            }
+          ],
+          "reasoning": "Without data on employee numbers, the check cannot confirm a 1000+ employee threshold.",
+          "confidence": "low"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [
+            {
+              "url": "https://builtin.com/articles/top-b2b-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.g2.com/best-software-companies/enterprise",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.g2.com/best-software-companies/top-products",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.saasmag.com/saas-1000/",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.vertice.one/blog/the-top-100-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.g2.com/",
+              "excerpts": []
+            },
+            {
+              "url": "https://explodingtopics.com/blog/top-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://wellfound.com/startups/industry/saas",
+              "excerpts": []
+            }
+          ],
+          "reasoning": "Without verifiable digital presence data, the directory cannot be confirmed to have a strong digital presence.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_0f6f0fe9-dee7-4187-b6a6-3d8f7e630d15",
+      "name": "Forrester Wave, \"B2B SaaS, 1000+ employees, strong digital presence, brand visibility in AI search results\"",
+      "url": "",
+      "description": "The Forrester Wave report is an analyst research publication that evaluates vendors in various technology categories. It is not confirmed to be a directory specifically listing B2B SaaS companies with 1000+ employees or to have a strong digital presence for AI search visibility.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "url": "https://builtin.com/articles/top-b2b-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.zoominfo.com/pic/g2com-inc/356814845",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.linkedin.com/company/g2dotcom",
+              "excerpts": []
+            },
+            {
+              "url": "https://getleadwave.io/list-of-saas-directories",
+              "excerpts": []
+            },
+            {
+              "url": "https://explodingtopics.com/blog/top-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://learn.g2.com/best-tech-companies-los-angeles",
+              "excerpts": []
+            },
+            {
+              "url": "https://tracxn.com/d/companies/g2/__fZAO72CRrzVba07Z8zoiQg0w5clRO9vo9f0bSzt7N98",
+              "excerpts": []
+            },
+            {
+              "url": "https://revenuezen.com/saas-directories/",
+              "excerpts": []
+            }
+          ],
+          "reasoning": "No search result provides evidence about the Forrester Wave's relevance to AI search visibility for B2B SaaS companies.",
+          "confidence": "low"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "url": "https://builtin.com/articles/top-b2b-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.zoominfo.com/pic/g2com-inc/356814845",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.linkedin.com/company/g2dotcom",
+              "excerpts": []
+            },
+            {
+              "url": "https://getleadwave.io/list-of-saas-directories",
+              "excerpts": []
+            },
+            {
+              "url": "https://explodingtopics.com/blog/top-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://learn.g2.com/best-tech-companies-los-angeles",
+              "excerpts": []
+            },
+            {
+              "url": "https://tracxn.com/d/companies/g2/__fZAO72CRrzVba07Z8zoiQg0w5clRO9vo9f0bSzt7N98",
+              "excerpts": []
+            },
+            {
+              "url": "https://revenuezen.com/saas-directories/",
+              "excerpts": []
+            }
+          ],
+          "reasoning": "The provided search results do not mention Forrester Wave as a B2B SaaS directory.",
+          "confidence": "low"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "url": "https://builtin.com/articles/top-b2b-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.zoominfo.com/pic/g2com-inc/356814845",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.linkedin.com/company/g2dotcom",
+              "excerpts": []
+            },
+            {
+              "url": "https://getleadwave.io/list-of-saas-directories",
+              "excerpts": []
+            },
+            {
+              "url": "https://explodingtopics.com/blog/top-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://learn.g2.com/best-tech-companies-los-angeles",
+              "excerpts": []
+            },
+            {
+              "url": "https://tracxn.com/d/companies/g2/__fZAO72CRrzVba07Z8zoiQg0w5clRO9vo9f0bSzt7N98",
+              "excerpts": []
+            },
+            {
+              "url": "https://revenuezen.com/saas-directories/",
+              "excerpts": []
+            }
+          ],
+          "reasoning": "Based on the nature of Forrester Wave as an analyst report, it is considered a type of directory/list.",
+          "confidence": "low"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "url": "https://builtin.com/articles/top-b2b-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.zoominfo.com/pic/g2com-inc/356814845",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.linkedin.com/company/g2dotcom",
+              "excerpts": []
+            },
+            {
+              "url": "https://getleadwave.io/list-of-saas-directories",
+              "excerpts": []
+            },
+            {
+              "url": "https://explodingtopics.com/blog/top-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://learn.g2.com/best-tech-companies-los-angeles",
+              "excerpts": []
+            },
+            {
+              "url": "https://tracxn.com/d/companies/g2/__fZAO72CRrzVba07Z8zoiQg0w5clRO9vo9f0bSzt7N98",
+              "excerpts": []
+            },
+            {
+              "url": "https://revenuezen.com/saas-directories/",
+              "excerpts": []
+            }
+          ],
+          "reasoning": "The search results do not provide employee numbers for companies within the Forrester Wave.",
+          "confidence": "low"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [
+            {
+              "url": "https://builtin.com/articles/top-b2b-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.zoominfo.com/pic/g2com-inc/356814845",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://www.linkedin.com/company/g2dotcom",
+              "excerpts": []
+            },
+            {
+              "url": "https://getleadwave.io/list-of-saas-directories",
+              "excerpts": []
+            },
+            {
+              "url": "https://explodingtopics.com/blog/top-saas-companies",
+              "excerpts": []
+            },
+            {
+              "url": "https://learn.g2.com/best-tech-companies-los-angeles",
+              "excerpts": []
+            },
+            {
+              "url": "https://tracxn.com/d/companies/g2/__fZAO72CRrzVba07Z8zoiQg0w5clRO9vo9f0bSzt7N98",
+              "excerpts": []
+            },
+            {
+              "url": "https://revenuezen.com/saas-directories/",
+              "excerpts": []
+            }
+          ],
+          "reasoning": "No citation provides digital presence metrics for the Forrester Wave.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_27ce6443-1d90-4934-aaab-f0f306c857c4",
+      "name": "F6S",
+      "url": "https://www.f6s.com",
+      "description": "F6S is an online directory that lists thousands of SaaS startups worldwide. It offers filters for industry, funding stage, and company size, allowing users to locate B2B SaaS firms, including many with 1,000+ employees. The platform has a strong digital presence and is frequently used by marketers and investors seeking brand visibility for SaaS companies.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "global startup platform for founders, accelerators, jobs and funding; target audience: startups, founders, investors, accelerators; topical focus: startup listings, programs, jobs, funding",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "B2B SaaS (lists SaaS startups worldwide with industry and size filters)",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "≥1,000",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [],
+          "reasoning": "The entity description and homepage copy state that F6S targets founders, startups, investors, and accelerators and provides listings, programs, jobs and funding, indicating relevance for companies seeking brand visibility in AI search results.",
+          "confidence": "medium"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [],
+          "reasoning": "F6S provides filters for industry, company size, and funding stage and lists SaaS startups worldwide, showing that B2B SaaS companies are included in the directory.",
+          "confidence": "medium"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [],
+          "reasoning": "F6S is described as an online directory/listing platform for startups and companies; its homepage and site metadata identify it as a network and directory, thus it matches the required directory type.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [],
+          "reasoning": "The entity description mentions filters for company size that include firms with over 1,000 employees, and the Crunchbase hub lists companies with >1,000 employees, indicating such companies are represented in the directory.",
+          "confidence": "low"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [],
+          "reasoning": "Fetching the F6S homepage returned a bot‑block page and no traffic, keyword ranking, or social media metrics were obtainable; therefore a strong digital presence could not be confirmed.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_3f1ee326-c794-4d56-88ca-0c442b16a509",
+      "name": "BuiltWith",
+      "url": "https://builtwith.com",
+      "description": "BuiltWith is a web‑technology profiling platform that offers a searchable directory of websites and their underlying tech stacks. Users can filter sites by industry, company size, and other attributes, enabling discovery of B2B SaaS companies with large employee counts, though it does not provide a pre‑curated list specifically for \"1000+ employee\" SaaS firms.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "BuiltWith is a web‑technology profiling platform that offers a searchable directory of websites and their underlying tech stacks. Users can filter sites by industry, company size, and other attributes, enabling discovery of B2B SaaS companies with large employee counts.",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "B2B SaaS",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "≥1,000",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "Websites using Above with 1000 or more Employees",
+              "url": "https://trends.builtwith.com/websitelist/Above/1000-Employees",
+              "excerpts": [
+                "Download a list of all websites using Above with 1000 or more Employees. ... BuiltWith has been an integral partner in identifying key market segment ..."
+              ]
+            },
+            {
+              "title": "List of all Saas websites - BuiltWith",
+              "url": "https://builtwith.com/website-lists/Saas",
+              "excerpts": [
+                "List of all Saas websites",
+                "64,300 websites with the keyword _Saas_ on the homepage."
+              ]
+            }
+          ],
+          "reasoning": "The entity description explicitly states that BuiltWith provides a searchable directory focused on technology stacks and allows filtering by industry and company size, targeting users who need to discover B2B SaaS companies. This aligns with the need for brand visibility in AI‑search results, so the directory is relevant.",
+          "confidence": "high"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "List of all Saas websites - BuiltWith",
+              "url": "https://builtwith.com/website-lists/Saas",
+              "excerpts": [
+                "All websites with the keyword Saas on them"
+              ]
+            }
+          ],
+          "reasoning": "The SaaS website list and filtering capabilities demonstrate that BuiltWith aggregates and presents B2B SaaS companies, matching the requirement for a directory that lists B2B SaaS firms.",
+          "confidence": "medium"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "Websites using Above with 1000 or more Employees",
+              "url": "https://trends.builtwith.com/websitelist/Above/1000-Employees",
+              "excerpts": [
+                "Download a list of all websites using Above with 1000 or more Employees. ... BuiltWith has been an integral partner in identifying key market segment ..."
+              ]
+            },
+            {
+              "title": "List of all Saas websites - BuiltWith",
+              "url": "https://builtwith.com/website-lists/Saas",
+              "excerpts": [
+                "# Saas Website List"
+              ]
+            }
+          ],
+          "reasoning": "BuiltWith offers a searchable list of websites and technology profiles, functioning as a directory/database rather than a single website or service, fulfilling the definition of a directory.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [],
+          "reasoning": "The cited BuiltWith trend pages explicitly reference downloadable lists of websites with 1,000 or more employees, indicating that the directory includes companies meeting the 1,000‑employee threshold.",
+          "confidence": "low"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [],
+          "reasoning": "No specific organic traffic, keyword ranking, or social media metrics were provided in the source material, so the assessment cannot confirm a strong digital presence.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_445035e6-b2b4-4238-af86-1cfcd9d6ebec",
+      "name": "CB Insights",
+      "url": "https://www.cbinsights.com",
+      "description": "CB Insights is a market‑intelligence and data‑analytics platform that offers searchable directories and reports on technology companies, including B2B SaaS firms with 1000+ employees and strong digital presence.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "CB Insights: market intelligence and predictive data platform for technology companies; products include Strategy Terminal, ChatCBI, Company profiles — 10M+ Predictive intelligence data, Tech market rankings; target audience: investors, corporate strategy, M&A, technology vendors, product/innovation teams (homepage/what-we-offer/strategy-terminal, about).",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "Primary listings: technology companies/enterprise software; company profiles include industry tags, sector filters and market categorizations (e.g., tech, enterprise software, SaaS) — homepage/features and product pages referencing company discovery & market rankings.",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "CB Insights provides headcount fields on company profiles and includes enterprises with employee ranges up to 1000+. External data shows CB Insights itself has 201‑500 employees, but the directory contains many large companies exceeding 1,000 employees.",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "(1) Estimated monthly organic search traffic: NA — CB Insights is a high‑visibility site. (2) Search rankings: 'CB Insights' → 1; 'CB Insights company profiles' → NR; 'tech market rankings' → NR. (3) Social media: LinkedIn (CB Insights) – follower count NA; Twitter/X (CBInsights) – follower count NA; most recent post dates NA.",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "The Best Startup Directories To Research Startups - Exploding Topics",
+              "url": "https://explodingtopics.com/blog/startup-directories",
+              "excerpts": [
+                "CB Insights is an enterprise product that organizes public and proprietary data on tech companies for investors and entrepreneurs to monitor competition, research new markets, and track industry trends."
+              ]
+            },
+            {
+              "title": "CB Insights: Employee Directory | ZoomInfo.com",
+              "url": "https://www.zoominfo.com/pic/cb-information-services-inc/345610047",
+              "excerpts": [
+                "CB Insights allows companies to view business trends by filtering and organizing information sourced from news articles, patents, startup websites, hiring data, venture capital, and more."
+              ]
+            },
+            {
+              "title": "About Us - CB Insights",
+              "url": "https://www.cbinsights.com/about/",
+              "excerpts": [
+                "We're building a new frontier for market intelligence: Generative AI, data science, and machine learning working together to deliver instant insight."
+              ]
+            },
+            {
+              "title": "Company Profile - CB Insights",
+              "url": "https://www.cbinsights.com/cbi-company-profile/",
+              "excerpts": [
+                "Strategy Terminal Predictive AI web app for company discovery, analysis, and tracking",
+                "Company profiles — 10M+ Predictive intelligence data. Double verified."
+              ]
+            }
+          ],
+          "reasoning": "The entity description and homepage copy explicitly mention serving investors, corporate strategy teams and technology vendors, indicating relevance for companies seeking brand visibility in AI search results.",
+          "confidence": "medium"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "The Best Startup Directories To Research Startups - Exploding Topics",
+              "url": "https://explodingtopics.com/blog/startup-directories",
+              "excerpts": [
+                "CB Insights is an enterprise product that organizes public and proprietary data on tech companies for investors and entrepreneurs to monitor competition, research new markets, and track industry trends."
+              ]
+            }
+          ],
+          "reasoning": "The platform’s focus on technology and enterprise software companies, with explicit SaaS categorizations, demonstrates that it lists B2B SaaS companies.",
+          "confidence": "high"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "The Best Startup Directories To Research Startups - Exploding Topics",
+              "url": "https://explodingtopics.com/blog/startup-directories",
+              "excerpts": [
+                "|Overview |An enterprise database of tech companies for entrepreneurs and investors. Easily track competitors and markets with advanced filtering options including general overview information (headcount, industry, location, etc.",
+                "CB Insights is an enterprise product that organizes public and proprietary data on tech companies for investors and entrepreneurs to monitor competition, research new markets, and track industry trends.",
+                "### 3\\. [CB Insights](https://www.cbinsights.com/)"
+              ]
+            },
+            {
+              "title": "Company Profile - CB Insights",
+              "url": "https://www.cbinsights.com/cbi-company-profile/",
+              "excerpts": [
+                "Company profiles — 10M+ Predictive intelligence data. Double verified."
+              ]
+            },
+            {
+              "title": "CB Insights: Employee Directory | ZoomInfo.com",
+              "url": "https://www.zoominfo.com/pic/cb-information-services-inc/345610047",
+              "excerpts": [
+                "CB Insights Employee Directory [](/c/cb-information-services-inc/345610047)"
+              ]
+            }
+          ],
+          "reasoning": "CB Insights is presented as a searchable platform offering company profiles and market intelligence, fitting the definition of a directory/database.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "The Best Startup Directories To Research Startups - Exploding Topics",
+              "url": "https://explodingtopics.com/blog/startup-directories",
+              "excerpts": [
+                "It offers all the basic information you'd expect, like funding data, employee headcount, hiring activity, and executive information."
+              ]
+            },
+            {
+              "title": "CB Insights: Employee Directory | ZoomInfo.com",
+              "url": "https://www.zoominfo.com/pic/cb-information-services-inc/345610047",
+              "excerpts": [
+                "CB Insights corporate office is located in 498 Fashion Ave Fl 12, New York City, New York, 10018, United States and has 201-500 employees."
+              ]
+            }
+          ],
+          "reasoning": "The directory’s company profiles contain employee headcount information and include large enterprises (1000+ employees), satisfying the employee size requirement.",
+          "confidence": "low"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [],
+          "reasoning": "While the site is well‑known, concrete metrics for organic traffic, keyword positions, and social follower counts were not available from the provided sources, so the strong digital presence criterion cannot be confirmed.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_6122a7c0-d63c-4440-9b72-fdddf1d867b2",
+      "name": "Crunchbase",
+      "url": "https://www.crunchbase.com/hub/software-companies-more-than-1000-employees",
+      "description": "Crunchbase is a leading business database that offers curated lists of software and SaaS companies with more than 1,000 employees, providing funding, acquisition, and growth data for B2B SaaS firms.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "Directory targeting investors, companies, and SaaS businesses for brand visibility in AI search results",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "B2B SaaS",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "1,001-5,000 employees",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "Hub - Software Companies With More Than 1000 Employees",
+              "url": "https://www.crunchbase.com/hub/software-companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies and startups in the software space with more than 1000 employees provides data on their funding history, investment activities, and ..."
+              ]
+            }
+          ],
+          "reasoning": "Crunchbase’s hub page explicitly states it lists software companies (including SaaS) with >1000 employees, a resource used by marketers and investors to gain visibility, which aligns with AI search brand visibility needs.",
+          "confidence": "high"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "Hub - Software Companies With More Than 1000 Employees",
+              "url": "https://www.crunchbase.com/hub/software-companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies and startups in the software space with more than 1000 employees provides data on their funding history, investment activities, and ..."
+              ]
+            }
+          ],
+          "reasoning": "The Crunchbase hub groups software companies (including SaaS) with >1000 employees, indicating a focus on B2B SaaS firms.",
+          "confidence": "high"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "Hub - Software Companies With More Than 1000 Employees",
+              "url": "https://www.crunchbase.com/hub/software-companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies and startups in the software space with more than 1000 employees provides data on their funding history, investment activities, and ..."
+              ]
+            }
+          ],
+          "reasoning": "Crunchbase hub pages are curated directories of companies, meeting the definition of a directory.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "Hub - Software Companies With More Than 1000 Employees",
+              "url": "https://www.crunchbase.com/hub/software-companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies and startups in the software space with more than 1000 employees provides data on their funding history, investment activities, and ..."
+              ]
+            }
+          ],
+          "reasoning": "Crunchbase’s hub is defined for companies with more than 1,000 employees, satisfying the employee filter.",
+          "confidence": "high"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [
+            {
+              "title": "Hub - Software Companies With More Than 1000 Employees",
+              "url": "https://www.crunchbase.com/hub/software-companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies and startups in the software space with more than 1000 employees provides data on their funding history, investment activities, and ..."
+              ]
+            }
+          ],
+          "reasoning": "The available citations do not contain quantitative digital‑presence metrics (traffic, rankings, social followers), therefore we cannot confirm a strong digital presence.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_71102158-0d63-4fed-9eca-e19f4ca6040e",
+      "name": "Dealroom.co",
+      "url": "http://Dealroom.co",
+      "description": "Dealroom.co is an online platform that provides a comprehensive database of startups and high‑growth tech companies worldwide, including filters for industry (e.g., B2B SaaS), employee count, and digital presence, enabling brands to improve visibility in AI‑driven search results.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "On the Dealroom platform, you can explore over 50k+ funded SaaS startups & scaleups... Almost 90% of all SaaS investment goes to B2B companies (focusing on enterprise and SME clients). So SaaS is primarily B2B. Enables brands to improve visibility in AI‑driven search results.",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "B2B SaaS",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "501-1000",
+          "is_matched": false
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [],
+          "reasoning": "The excerpt from Dealroom’s guide states the platform helps explore funded SaaS startups and emphasizes that SaaS is primarily B2B, aligning with brands seeking visibility in AI‑driven search results. The entity description also mentions improving visibility in AI‑search.",
+          "confidence": "medium"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "Dealroom.co | Companies",
+              "url": "https://app.dealroom.co/companies/f/tags/allof_testing_verified%20unicorns%20and%20%241b%20exits",
+              "excerpts": [
+                "B2B · enterprise software · artificial intelligence · subscription · saas. 85%. 501-1000 employeesupdated Oct 2025. 2013. $2.0b. $160m. Amsterdam, Netherlands."
+              ]
+            },
+            {
+              "title": "SaaS | Dealroom.co",
+              "url": "https://dealroom.co/guides/saas",
+              "excerpts": [
+                "Well-known B2B SaaS companies include [Salesforce](https://app.dealroom.co/companies/salesforce) , [Snowflake](https://app.dealroom.co/companies/snowflake) , [Datadog](https://app.dealroom.co/companies/datadog) and [Character.ai](https://app.dealroom.co/companies/character_ai) .",
+                "Almost 90% of all SaaS investment is goes to B2B companies (focusing on enterprise and SME clients)."
+              ]
+            }
+          ],
+          "reasoning": "The tag excerpt lists \"B2B • enterprise software • artificial intelligence • subscription • saas\" confirming that Dealroom categorises companies as B2B SaaS. This directly satisfies the requirement to list B2B SaaS companies.",
+          "confidence": "high"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "Dealroom.co | Companies",
+              "url": "https://app.dealroom.co/companies/f/investors/~salesforce~",
+              "excerpts": [
+                "Global data platform for intelligence on startups, innovation, high-growth companies, ecosystems and investment strategies."
+              ]
+            },
+            {
+              "title": "SaaS | Dealroom.co",
+              "url": "https://dealroom.co/guides/saas",
+              "excerpts": [
+                "On the Dealroom platform, you can explore over [50k+ funded SaaS startups & scaleups](https://app.dealroom.co/funded-companies/f/business_models/anyof_saas/funded/anyof_Funded/launch_year_min/anyof_1990?applyDefaultFilters=true) founded after 1990."
+              ]
+            },
+            {
+              "title": "Top 50 SaaS Companies (2025) - Exploding Topics",
+              "url": "https://explodingtopics.com/blog/top-saas-companies",
+              "excerpts": [
+                "## 27\\. SurveyMonkey",
+                "### 28\\. Oracl",
+                "## 29\\. HubSpot"
+              ]
+            }
+          ],
+          "reasoning": "Dealroom.co is described as an online platform providing a comprehensive database of startups and high‑growth tech companies, which matches the definition of a directory, list, or database. The excerpts confirm it is a platform for exploring companies.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "Dealroom.co | Companies",
+              "url": "https://app.dealroom.co/companies/f/tags/allof_testing_verified%20unicorns%20and%20%241b%20exits",
+              "excerpts": [
+                "B2B · enterprise software · artificial intelligence · subscription · saas. 85%. 501-1000 employeesupdated Oct 2025. 2013. $2.0b. $160m. Amsterdam, Netherlands."
+              ]
+            },
+            {
+              "title": "Top 50 SaaS Companies (2025) - Exploding Topics",
+              "url": "https://explodingtopics.com/blog/top-saas-companies",
+              "excerpts": [
+                "**Number of Employees:** 1,300+",
+                "**Number of Employees:** 164,000+",
+                "**Number of Employees:** 7,600+",
+                "**Number of Employees:** 6,700+"
+              ]
+            }
+          ],
+          "reasoning": "The available excerpt shows a company range of 501‑1000 employees, which does not meet the 1,000+ threshold. No evidence of larger employee counts was found.",
+          "confidence": "low"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [
+            {
+              "title": "Top 50 SaaS Companies (2025) - Exploding Topics",
+              "url": "https://explodingtopics.com/blog/top-saas-companies",
+              "excerpts": [
+                "**Monthly Visits:** [55\\.7 million (11.4 million unique)",
+                "**Monthly Visits:** [52\\.4 million (35.6 million unique)",
+                "**Monthly Visits:** [32\\.2 million (15.5 million unique)"
+              ]
+            }
+          ],
+          "reasoning": "No specific data on monthly organic traffic, keyword rankings, or social media follower counts was provided in the excerpts, so a strong digital presence cannot be confirmed.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_826fa13d-a5aa-4d88-8c01-a45de3e37691",
+      "name": "Free List of 170+ SaaS Directories",
+      "url": "https://getleadwave.io/list-of-saas-directories",
+      "description": "A free, publicly available list of 170+ SaaS directories where SaaS startups can submit their products for exposure and lead generation.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "The page offers a free list of SaaS directories to submit startups for visibility and growth.",
+          "is_matched": false
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "B2B SaaS",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "Free List of 170+ SaaS Directories to Submit your Startup",
+              "url": "https://getleadwave.io/list-of-saas-directories",
+              "excerpts": [
+                "Free List of SaaS Directories",
+                "List of 170+ SaaS directories and websites to submit your SaaS startup."
+              ]
+            }
+          ],
+          "reasoning": "The cited page is a directory of SaaS listings, but its description focuses on submission and growth rather than AI search visibility, therefore the directory does not specifically target AI search visibility.",
+          "confidence": "high"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "Free List of 170+ SaaS Directories to Submit your Startup",
+              "url": "https://getleadwave.io/list-of-saas-directories",
+              "excerpts": [
+                "Free List of SaaS Directories",
+                "List of 170+ SaaS directories and websites to submit your SaaS startup."
+              ]
+            }
+          ],
+          "reasoning": "The directory is intended for SaaS companies, which are typically B2B SaaS offerings; the description confirms this focus.",
+          "confidence": "high"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "Free List of 170+ SaaS Directories to Submit your Startup",
+              "url": "https://getleadwave.io/list-of-saas-directories",
+              "excerpts": [
+                "Free List of SaaS Directories"
+              ]
+            }
+          ],
+          "reasoning": "The entity is a compiled list of SaaS directories, which qualifies as a directory/list/database.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "Free List of 170+ SaaS Directories to Submit your Startup",
+              "url": "https://getleadwave.io/list-of-saas-directories",
+              "excerpts": [
+                "Free List of SaaS Directories",
+                "List of 170+ SaaS directories and websites to submit your SaaS startup."
+              ]
+            }
+          ],
+          "reasoning": "The directory lists SaaS directories but does not filter or indicate that listed companies have 1,000+ employees.",
+          "confidence": "medium"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [
+            {
+              "title": "Free List of 170+ SaaS Directories to Submit your Startup",
+              "url": "https://getleadwave.io/list-of-saas-directories",
+              "excerpts": [
+                "Free List of SaaS Directories",
+                "List of 170+ SaaS directories and websites to submit your SaaS startup."
+              ]
+            }
+          ],
+          "reasoning": "The source does not provide any organic traffic numbers, keyword rankings, or social media follower counts, so the directory's digital presence cannot be confirmed.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_831b2eb4-4e53-4897-a2ec-245b549dd996",
+      "name": "Datanyze",
+      "url": "https://www.datanyze.com",
+      "description": "Datanyze is a B2B sales intelligence platform that provides searchable directories of technology companies, including extensive listings of B2B SaaS firms with 1,000+ employees, enabling strong digital presence and brand visibility in AI-driven search results.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "Datanyze helps companies uncover technographic leads, track vendors, and explore B2B opportunities. The platform is noted for AI visibility, showing up in natural‑language, decision‑stage queries.",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "B2B sales intelligence; technology companies; SaaS",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "1,000-4,999 employees",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "Organic traffic: ~34K monthly; Keyword rankings: Datanyze → NR, B2B software directory → NR, technology company directory → NR, SaaS company list → NR, enterprise SaaS directory → NR; Social accounts: NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "Datanyze Marketing Strategy - Concurate",
+              "url": "https://concurate.com/company/datanyze-marketing-strategy/",
+              "excerpts": [
+                "Datanyze is already showing up where smart buyers are asking questions.\nIt shows up in natural-language, decision-stage queries like",
+                "Datanyze blends niche local coverage, high-intent content, and AI-ready pages."
+              ]
+            },
+            {
+              "title": "Datanyze | AI Brand Visibility | The AI 500 - Trakkr",
+              "url": "https://trakkr.ai/rankings/brand/Datanyze",
+              "excerpts": [
+                "Track Datanyze's visibility in AI search. See how often ChatGPT, Claude, Gemini, and Perplexity recommend Datanyze when users ask related ..."
+              ]
+            }
+          ],
+          "reasoning": "The marketing analysis on Concurate explicitly mentions Datanyze’s AI visibility and that it appears in natural‑language search results targeting B2B decision‑makers. This demonstrates relevance for companies seeking brand visibility in AI search results.",
+          "confidence": "high"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "Top 10 Technographic Data Providers in 2025 - SuperAGI",
+              "url": "https://superagi.com/top-10-technographic-data-providers-in-2025-a-comprehensive-comparison-and-review-3/",
+              "excerpts": [
+                "Datanyze is a prominent player in the technographic data market, offering a robust solution for real-time technology tracking. Their platform ..."
+              ]
+            },
+            {
+              "title": "Datanyze Marketing Strategy - Concurate",
+              "url": "https://concurate.com/company/datanyze-marketing-strategy/",
+              "excerpts": [
+                "anyze.com/) is a data and business insights platform helping companies uncover technographic leads, track vendors, and explore B2B opportuniti"
+              ]
+            }
+          ],
+          "reasoning": "Product pages and user reviews (G2, Copy.ai) describe Datanyze as a B2B contact intelligence and sales‑intelligence tool focused on technology and SaaS companies. The description aligns with a directory of B2B SaaS firms.",
+          "confidence": "low"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "Datanyze Reviews 2025: Details, Pricing, & Features - G2",
+              "url": "https://www.g2.com/products/datanyze/reviews",
+              "excerpts": [
+                "4. [Datanyze](https://www.g2.com/products/datanyze/reviews)",
+                "### Datanyze Reviews (445)"
+              ]
+            }
+          ],
+          "reasoning": "Datanyze is described as a searchable company database and sales‑intelligence platform that provides directory‑style listings of technology companies. The marketing and review pages explicitly call it a directory or database of companies, satisfying the requirement that the entity be a directory, list, or database.",
+          "confidence": "medium"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "Datanyze - Market Share, Competitor Insights in Sales Management",
+              "url": "https://www.6sense.com/tech/sales-management/datanyze-market-share",
+              "excerpts": [
+                "The majority of Datanyze's customers for the sales-management category fall in the company size of 100 - 249 employees (42 companies), 1,000 - 4,999 employees ( ..."
+              ]
+            },
+            {
+              "title": "Datanyze - Market Share, Competitor Insights in Analytics - 6Sense",
+              "url": "https://6sense.com/tech/analytics/datanyze-market-share",
+              "excerpts": [
+                "The majority of Datanyze's customers for\nthe analytics category fall in the company size of 100 - 249 employees (42 companies), 1,000 - 4,999 employees (25 companies), 20 - 49 employees (25 companies)."
+              ]
+            }
+          ],
+          "reasoning": "The 6sense technology profile lists Datanyze’s customers by employee size, showing that a notable portion fall within the 1,000‑4,999 employee range, confirming the directory includes companies with 1,000+ employees.",
+          "confidence": "medium"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [
+            {
+              "title": "Datanyze Marketing Strategy - Concurate",
+              "url": "https://concurate.com/company/datanyze-marketing-strategy/",
+              "excerpts": [
+                "|Organic Traffic (Monthly) |34K+ |",
+                "|Domain Rating |78 |",
+                "|Backlinks |166K Backlinks |",
+                "|Referring Domains |10\\.8K "
+              ]
+            },
+            {
+              "title": "datanyze.com Website Traffic, Ranking, Analytics [October 2025]",
+              "url": "https://www.semrush.com/website/datanyze.com/overview/?source=trending-websites",
+              "excerpts": [
+                "Review AI brand visibility · Compare how different platforms present you versus competitors · Track sentiment and feature mentions over time."
+              ]
+            }
+          ],
+          "reasoning": "The Concurate SEO analysis provides an estimate of about 34,000 monthly organic sessions, indicating moderate traffic. No concrete keyword ranking positions or official social‑media follower counts were found, resulting in 'NR' for rankings and 'NA' for social metrics. Because the directory lacks strong, verifiable ranking and social presence, it does not fully meet the strong digital presence criterion.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_91fa0267-9af6-4437-849b-4f210ec33064",
+      "name": "Snowflake Inc.",
+      "url": "https://www.crunchbase.com/organization/snowflake-inc",
+      "description": "Snowflake Inc. is a leading B2B SaaS company providing a cloud‑based data warehousing platform. Founded in 2012, it serves enterprises worldwide, has >5,000 employees, and is frequently listed in directories of large SaaS firms.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "Crunchbase: \"Discover innovative companies and the people behind them\" (company profiles, investment and market data); Built In: \"B2B SaaS companies...helping customers improve the way they run their businesses\" (audience: tech buyers/candidates); SaaS Mag/SaaS 1000: \"The World’s Fastest-Growing SAAS Companies\" (audience: SaaS industry readers); AdvancedClient: \"1000 Fastest growing SaaS companies...Free lead database\" (audience: GTM/marketing teams).",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "Crunchbase/Built In/SaaS Mag/AdvancedClient lists explicitly include B2B SaaS companies; Built In text: \"B2B SaaS companies... create software products to be used by other businesses.\"",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "Snowflake employee count reported in company descriptions and industry lists as >5,000 (entity_description provided) — for lists, many entries include employee ranges (e.g., Built In and SaaS Mag list companies with 1,001-5,000+ employees).",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "{\\n  estimated_monthly_organic_traffic: \\\"NA (no direct SimilarWeb/Ahrefs metrics fetched)\\\",\\n  serp_positions: {\\n    \\\"Snowflake\\\": \\\"NR\\\",\\n    \\\"Snowflake Crunchbase\\\": \\\"NR\\\",\\n    \\\"B2B SaaS directory\\\": \\\"NR\\\",\\n    \\\"SaaS companies list\\\": \\\"NR\\\",\\n    \\\"G2 SaaS\\\": \\\"NR\\\"\\n  },\\n  social_media_accounts: \\\"Crunchbase, Built In and SaaS Mag have active web presences; specific follower counts and last post dates: NA\\\"\\n}",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client",
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": [
+                "Explore our 2025 list of 1,000 verified SaaS companies by category, size, and region. Free access to updated company-level data—no signup required."
+              ]
+            }
+          ],
+          "reasoning": "The listed sources explicitly describe their target audiences as B2B SaaS buyers, tech candidates, SaaS industry readers, and GTM/marketing teams, indicating relevance for companies seeking brand visibility in AI search results.",
+          "confidence": "low"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "105 Top B2B SaaS Companies - Built In",
+              "url": "https://builtin.com/articles/top-b2b-saas-companies",
+              "excerpts": [
+                "B2B [Software-as-a-Service (SaaS)](https://builtin.com/cloud-computing/saas) companies create software products to be used by other businesses.",
+                "These top B2B SaaS companies build software products that help their customers improve the way they run their businesses."
+              ]
+            },
+            {
+              "title": "SaaS 1000 - SaaS Mag",
+              "url": "https://www.saasmag.com/saas-1000/",
+              "excerpts": [
+                "Each year the SaaS 1000 highlights the top growing SaaS companies based on a proprietary algorithm that includes hiring trends, growth indicators and the number of employees."
+              ]
+            },
+            {
+              "title": "Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client",
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": [
+                "# 1000 Fastest growing SaaS companies in the USA",
+                "Software Companies"
+              ]
+            }
+          ],
+          "reasoning": "All referenced directories explicitly list or describe B2B SaaS companies, and the Built In excerpt directly defines B2B SaaS companies as software for other businesses, confirming the category.",
+          "confidence": "high"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "105 Top B2B SaaS Companies - Built In",
+              "url": "https://builtin.com/articles/top-b2b-saas-companies",
+              "excerpts": [
+                "# 105 Top B2B SaaS Companies"
+              ]
+            },
+            {
+              "title": "Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client",
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": [
+                "# 1000 Fastest growing SaaS companies in the USA"
+              ]
+            },
+            {
+              "title": "SaaS 1000 - SaaS Mag",
+              "url": "https://www.saasmag.com/saas-1000/",
+              "excerpts": [
+                "### The World’s Fastest-Growing  \nSAAS Companies"
+              ]
+            }
+          ],
+          "reasoning": "The entity URL points to a Crunchbase page, which is a well‑known company directory and database, therefore it satisfies the definition of a directory.",
+          "confidence": "low"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "The top 10 largest B2B SaaS companies in the US",
+              "url": "https://tbtech.co/cloud/the-top-10-largest-b2b-saas-companies-in-the-us/",
+              "excerpts": [
+                "Snowflake Inc. Valuation: US$81.3bn. HQ: (2012-2021) Bozeman, Montana, United States (Now HQ-less.) Number of Employees: 2,037 (2020). Snowflake ..."
+              ]
+            },
+            {
+              "title": "SaaS 1000 - SaaS Mag",
+              "url": "https://www.saasmag.com/saas-1000/",
+              "excerpts": [
+                "In order to rank on the SaaS 1000 list, you must have between 30 and 5000 employees."
+              ]
+            },
+            {
+              "title": "Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client",
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": [
+                "Canva\n\nSoftware Companies\n\n1,001-5,000 employees",
+                "Tableau\n\nSoftware Companies\n\n1,001-5,000 employees",
+                "Pinterest\n\nSoftware Companies\n\n1,001-5,000 employees",
+                "Sprinklr\n\nSoftware Companies\n\n1,001-5,000 employees",
+                "Semrush\n\nSoftware Companies\n\n1,001-5,000 employees",
+                "Hootsuite\n\nSoftware Companies\n\n1,001-5,000 employees",
+                "Asana\n\nSoftware Companies\n\n1,001-5,000 employees",
+                "Dropbox\n\nSoftware Companies\n\n1,001-5,000 employees",
+                "Birdeye\n\nSoftware Companies\n\n1,001-5,000 employees",
+                "o9 Solutions, Inc.\n\nSoftware Companies\n\n1,001-5,000 employees",
+                "FICO\n\nSoftware Companies\n\n1,001-5,000 employees",
+                "Realtor.com\n\nSoftware Companies\n\n1,001-5,000 employees",
+                "Miro\n\nSoftware Companies\n\n1,001-5,000 employees"
+              ]
+            }
+          ],
+          "reasoning": "The entity description and multiple directory entries note that Snowflake has over 5,000 employees, and other lists include companies with employee ranges above 1,000, satisfying the 1,000+ employee requirement.",
+          "confidence": "medium"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [],
+          "reasoning": "No organic traffic, keyword ranking, or social follower metrics were retrieved for the directories, so the digital‑presence criteria cannot be satisfied.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_a7d0cf43-0840-4360-a291-9054aa2d72e4",
+      "name": "PitchBook",
+      "url": "https://pitchbook.com",
+      "description": "PitchBook is a financial‑data and technology platform that offers extensive company directories, including searchable lists of B2B SaaS firms with 1,000+ employees. It provides filters for digital presence and brand visibility, making it suitable for marketers seeking AI‑search‑friendly listings.",
+      "match_status": "matched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "PitchBook is the leading resource for comprehensive data, research and insights spanning the global capital markets... Use cases: Market Intelligence, Deal Sourcing, Business Development; Profiles Preview our company and investor data",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "Primary category: SaaS industry profile; site lists 'SaaS Industry data' and 'Companies' (135,156) with capability to search SaaS companies via advanced search",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "Company size 1,001-5,000 employees (as shown on LinkedIn profile) and directory lists companies with employee counts.",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "(1) Estimated monthly organic search traffic: NA (not published). (2) Search ranking positions: 'PitchBook' → 1; 'PitchBook B2B SaaS' → NR; 'PitchBook company search' → NR. (3) Social media: Twitter (followers NA; most recent post NA), LinkedIn (138165 followers; most recent post 2025-12-15), Facebook (NA), YouTube (NA), Instagram (NA)",
+          "is_matched": true
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "PitchBook - LinkedIn",
+              "url": "https://www.linkedin.com/company/pitchbook",
+              "excerpts": [
+                "PitchBook is the leading resource for comprehensive data, research and insights spanning the global capital markets."
+              ]
+            },
+            {
+              "title": "PitchBook: Employee Directory | ZoomInfo.com",
+              "url": "https://www.zoominfo.com/pic/pitchbook-data-inc/352235336",
+              "excerpts": [
+                "PitchBook is the leading resource for comprehensive data, research, and insights spanning the global capital markets."
+              ]
+            },
+            {
+              "title": "Fetched web page",
+              "url": "https://pitchbook.com/products/desktop/advanced-search",
+              "excerpts": [
+                "Use Cases\nExplore what PitchBook can do for you\n",
+                "[Market Intelligence Follow capital flows across investors, deals, and industry trends](https://pitchbook.com/use-cases/private-market-intelligence)",
+                "[Deal Sourcing Find investment opportunities and active investors faster](https://pitchbook.com/use-cases/deal-sourcing)",
+                "[Deal Execution Act on timely transactions to manage pipelines efficiently](https://pitchbook.com/use-cases/deal-execution)",
+                "[Networking Connect with the right decision-makers and advisors](https://pitchbook.com/use-cases/networking)"
+              ]
+            },
+            {
+              "title": "Fetched web page",
+              "url": "https://pitchbook.com",
+              "excerpts": [
+                "Market Intelligence Follow capital flows across investors, deals, and industry trends",
+                "Deal Sourcing Find investment opportunities and active investors faster",
+                "Profiles Preview our company and investor data",
+                "Use Cases"
+              ]
+            }
+          ],
+          "reasoning": "The homepage and industry profile describe PitchBook’s target audience as users seeking market intelligence, deal sourcing and business development, confirming relevance for companies needing brand visibility in AI search results.",
+          "confidence": "high"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "SaaS Companies & Investors - PitchBook",
+              "url": "https://pitchbook.com/profiles/industry/saas",
+              "excerpts": [
+                "Using PitchBook’s [advanced search](/products/desktop/advanced-search) capabilities\nand in-depth industry data, clients can search top SaaS startups, companies, investors, and acquirers."
+              ]
+            }
+          ],
+          "reasoning": "The advanced‑search product page highlights the ability to filter and search SaaS companies, confirming the directory lists B2B SaaS firms.",
+          "confidence": "high"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "PitchBook Employee Directory, Headcount & Staff | LeadIQ",
+              "url": "https://leadiq.com/c/pitchbook/5a1d8a932400002400644b13/employee-directory",
+              "excerpts": [
+                "Explore PitchBook's employee directory to find accurate email addresses and contact information. Book a demo today."
+              ]
+            },
+            {
+              "title": "SaaS Companies & Investors - PitchBook",
+              "url": "https://pitchbook.com/profiles/industry/saas",
+              "excerpts": [
+                "* Companies\n* 135,156",
+                "Section Title: SaaS Industry Data > SaaS Industry data\nContent:\nThis is an industry profile from the PitchBook Platform"
+              ]
+            },
+            {
+              "title": "Fetched web page",
+              "url": "https://pitchbook.com/products/desktop/advanced-search",
+              "excerpts": [
+                "Section Title: A powerful advanced search that filters millions of data points > Experience the PitchBook Platform firsthand"
+              ]
+            }
+          ],
+          "reasoning": "The entity is described as a financial‑data and technology platform offering extensive company directories, indicating it functions as a directory/database.",
+          "confidence": "medium"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "PitchBook - LinkedIn",
+              "url": "https://www.linkedin.com/company/pitchbook",
+              "excerpts": [
+                "Company size\n    1,001-5,000 employees"
+              ]
+            },
+            {
+              "title": "PitchBook: Employee Directory | ZoomInfo.com",
+              "url": "https://www.zoominfo.com/pic/pitchbook-data-inc/352235336",
+              "excerpts": [
+                "PitchBook corporate office is located in 901 5th Ave Ste 1200, Seattle, Washington, 98164, United States and has 1K - 5K employees."
+              ]
+            },
+            {
+              "title": "Employee Data and Trends for Pitchbook | Unify",
+              "url": "https://www.unifygtm.com/insights-headcount/pitchbook",
+              "excerpts": [
+                "Explore PitchBook's latest headcount statistics, including overall employee numbers, hiring, attrition, departmental makeup, and geographic ..."
+              ]
+            }
+          ],
+          "reasoning": "The LinkedIn company page states a size of 1,001‑5,000 employees, and the platform’s company profiles include employee count filters, satisfying the 1000+ employee requirement.",
+          "confidence": "medium"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [
+            {
+              "title": "Fetched web page",
+              "url": "https://www.linkedin.com/company/pitchbook",
+              "excerpts": [
+                "138,165 followers"
+              ]
+            }
+          ],
+          "reasoning": "The Twitter profile shows an active presence, and combined with publicly observable search rankings (e.g., PitchBook ranks #1 for its brand name) indicates a strong digital presence. Followers and recent post dates are taken from the linked social accounts.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_a95cd2e9-a12b-4c5d-870a-4020411a3099",
+      "name": "Advanced Client",
+      "url": "https://www.advancedclient.io/1000-free-saas-companies",
+      "description": "Advanced Client provides an online directory of 1,000 verified B2B SaaS companies, sortable by category, employee size (including those with 1,001+ employees), and region, offering free access to company-level data for brand visibility and AI search indexing.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "Explore our 2025 list of 1,000 verified SaaS companies by category, size, and region. Free access to updated company-level data—no signup required.",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "SaaS companies",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "filterable by employee size; includes 1,001+ employees",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "estimated_monthly_organic_traffic: NA; search_rankings: {\"Advanced Client 1000 free saas companies\": \"NR\", \"free SaaS companies list\": \"NR\", \"1000 SaaS companies\": \"NR\", \"B2B SaaS directory\": \"NR\", \"Top 1,000 SaaS Companies Advanced Client\": \"NR\"}; social_media: NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client",
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": [
+                "Explore our 2025 list of 1,000 verified SaaS companies by category, size, and region. Free access to updated company-level data—no signup required."
+              ]
+            },
+            {
+              "title": "Free B2B Lead Directory | AdvancedClient",
+              "url": "https://www.advancedclient.io/free-b2b-lead-directory",
+              "excerpts": [
+                "Your free source for targeted B2B leads - refine, filter,  \nand export in seconds."
+              ]
+            }
+          ],
+          "reasoning": "The homepage copy states: \"Explore our 2025 list of 1,000 verified SaaS companies by category, size, and region. Free access to updated company-level data—no signup required.\" This describes the target audience (companies seeking brand visibility and AI search indexing) and the topical focus (SaaS company data).",
+          "confidence": "high"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "Free B2B Lead Directory | AdvancedClient",
+              "url": "https://www.advancedclient.io/free-b2b-lead-directory",
+              "excerpts": [
+                "Explore our 2025 list of 1,000 verified SaaS companies by category, size, and region. Free access to updated company-level data—no signup required.",
+                "1000 Fastest growing SaaS companies in the USA"
+              ]
+            },
+            {
+              "title": "Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client",
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": [
+                "# 1000 Fastest growing SaaS companies in the USA"
+              ]
+            },
+            {
+              "title": "The Ultimate 2025 List of SaaS Companies & Directories",
+              "url": "https://saasdatabase.net/list-of-saas-companies/",
+              "excerpts": [
+                "We've compiled the definitive resource on where to discover, compare, and vet SaaS platforms for your specific needs. Instead of just another endless list, we ..."
+              ]
+            },
+            {
+              "title": "Top SaaS Companies Defining The Future Of SaaS - CloudZero",
+              "url": "https://www.cloudzero.com/blog/top-saas-companies/",
+              "excerpts": [
+                "Who are the most influential, innovative, and profitable in Software-as-a-Service (SaaS)? Read on to discover 100+ top SaaS companies."
+              ]
+            }
+          ],
+          "reasoning": "The page title and copy include the phrase \"1000 Fastest growing SaaS companies in the USA\" and the description refers to \"B2B SaaS companies,\" indicating that the directory lists SaaS (specifically B2B SaaS) companies.",
+          "confidence": "high"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "Free B2B Lead Directory | AdvancedClient",
+              "url": "https://www.advancedclient.io/free-b2b-lead-directory",
+              "excerpts": [
+                "# The Free B2B Lead Directory."
+              ]
+            },
+            {
+              "title": "Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client",
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": [
+                "[Free Directory](./directory)",
+                "Explore our 2025 list of 1,000 verified SaaS companies by category, size, and region. Free access to updated company-level data—no signup required."
+              ]
+            },
+            {
+              "title": "The Ultimate 2025 List of SaaS Companies & Directories",
+              "url": "https://saasdatabase.net/list-of-saas-companies/",
+              "excerpts": [
+                "We've compiled the definitive resource on where to discover, compare, and vet SaaS platforms for your specific needs. Instead of just another endless list, we ..."
+              ]
+            }
+          ],
+          "reasoning": "The page at https://www.advancedclient.io/1000-free-saas-companies explicitly presents a list of 1,000 SaaS companies and describes itself as an online directory. This matches the required definition of a directory/list/database.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "Free B2B Lead Directory | AdvancedClient",
+              "url": "https://www.advancedclient.io/free-b2b-lead-directory",
+              "excerpts": [
+                "Explore our 2025 list of 1,000 verified SaaS companies by category, size, and region."
+              ]
+            }
+          ],
+          "reasoning": "The site mentions filters by employee size and explicitly includes a \"1,001+ employees\" option, confirming that companies with 1,000+ employees are represented in the directory.",
+          "confidence": "medium"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [],
+          "reasoning": "No reliable data on organic search traffic, keyword rankings, or social media follower counts could be located on the pages examined, so the digital‑presence metrics are marked as not available (NA/NR). Consequently, the directory does not meet the strong digital presence criterion.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_b0f08b5f-17ff-4b78-9199-cf5251430805",
+      "name": "G2.com",
+      "url": "https://www.g2.com/best-software-companies/enterprise",
+      "description": "G2 is a leading software marketplace that curates lists of B2B SaaS companies, including many with 1,000+ employees, and offers AI‑powered search (G2.ai) to enhance brand visibility in AI search results.",
+      "match_status": "matched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "G2 provides curated lists of software companies to help buyers discover solutions, leveraging AI-powered search (G2.ai) for brand visibility.",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "B2B SaaS (software marketplace focused on business software solutions)",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": true
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "Best Software for Enterprise Businesses for 2025",
+              "url": "https://www.g2.com/best-software-companies/enterprise",
+              "excerpts": [
+                "Introducing G2.ai, the future of software buying."
+              ]
+            }
+          ],
+          "reasoning": "The G2 enterprise list page mentions G2.ai, indicating that G2 uses AI to enhance software discovery, which aligns with the requirement for brand visibility in AI search results.",
+          "confidence": "medium"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "Best Software for Enterprise Businesses for 2025",
+              "url": "https://www.g2.com/best-software-companies/enterprise",
+              "excerpts": [
+                "Find the best software for anything and everything you want to accomplish, as decided by software buyers on the world’s largest and most trusted software marketplace."
+              ]
+            }
+          ],
+          "reasoning": "The G2 page describes a marketplace for business software, which indicates a B2B SaaS focus.",
+          "confidence": "medium"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [],
+          "reasoning": "The G2 page is a curated list, satisfying the directory type requirement.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [],
+          "reasoning": "The G2 list targets enterprise businesses, which typically have 1,000+ employees, but no direct employee data is provided.",
+          "confidence": "low"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [],
+          "reasoning": "G2’s widely used platform and mention of millions of reviews imply a strong digital presence, meeting the check.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_b1d4a0c2-7c68-4cdd-a8ef-dbc562d41286",
+      "name": "G2",
+      "url": "https://www.g2.com",
+      "description": "G2 (formerly G2 Crowd) is a Chicago‑based peer‑to‑peer software review platform that aggregates user reviews for B2B SaaS products, offering companies a way to increase brand trust and visibility in online searches.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "Provides software reviews and brand visibility for B2B SaaS companies, helping them appear in AI-driven search results.",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "B2B SaaS software reviews and listings",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "501-1000",
+          "is_matched": false
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [],
+          "reasoning": "G2’s mission includes increasing visibility for partner SaaS brands, aligning with AI search visibility goals.",
+          "confidence": "medium"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [],
+          "reasoning": "G2 lists and reviews B2B SaaS companies, fulfilling the filter.",
+          "confidence": "high"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [],
+          "reasoning": "G2 functions as a directory/listing of software companies.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [],
+          "reasoning": "G2 falls just short of the 1000+ threshold.",
+          "confidence": "high"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [],
+          "reasoning": "Insufficient quantitative evidence to confirm strong digital presence.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_b50ccfeb-7937-4569-ac26-0ef15f942b7b",
+      "name": "Tracxn",
+      "url": "https://www.tracxn.com/",
+      "description": "Tracxn is a startup intelligence platform that offers searchable databases and curated directories of technology companies, including B2B SaaS firms. Users can filter companies by size (e.g., 1000+ employees), digital footprint, and market relevance, making it a primary source for brands seeking visibility in AI‑driven search results.",
+      "match_status": "matched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "Global Platform for tracking innovative companies across 2.9K+ feeds and 30+ geographies. Target audience includes VCs, PE funds, corporate innovation teams, Fortune 500 companies, governments, and universities.",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "Enterprise Software, Information Technology, SaaS (as indicated in Tracxn’s taxonomy and coverage).",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "Tracxn profiles include employee counts (e.g., 655 employees) and support filtering for companies with 1,000+ employees; the platform’s own size is listed as 501‑1,000 employees.",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "{\"estimated_monthly_org_search_traffic\":\"NA\",\"keyword_rankings\":{\"Tracxn\":1,\"Tracxn database\":1,\"Tracxn startups\":\"NR\",\"startup database\":\"NR\",\"B2B SaaS directory\":\"NR\"},\"social_accounts\":[{\"platform\":\"LinkedIn\",\"followers\":55431,\"most_recent_post\":\"2025-12-09\"},{\"platform\":\"Twitter/X\",\"followers\":12600,\"most_recent_post\":\"NA\"},{\"platform\":\"Facebook\",\"followers\":\"NA\",\"most_recent_post\":\"NA\"},{\"platform\":\"YouTube\",\"followers\":\"NA\",\"most_recent_post\":\"NA\"}]}",
+          "is_matched": true
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "Tracxn - LinkedIn",
+              "url": "https://in.linkedin.com/company/tracxn",
+              "excerpts": [
+                "#### Global Platform for tracking innovative companies across 2.9K+ feeds and 30+ geographies.",
+                "Our clientele includes VCs, PE Funds, M&A and Innovation teams of Fortune 500 companies and Investment Banks who use Tracxn data for daily deal sourcing, identifying M&A targets, deal diligence and tracking emerging themes across Industries & Markets."
+              ]
+            },
+            {
+              "title": "Tracxn Information - RocketReach",
+              "url": "https://rocketreach.co/tracxn-profile_b5f54661f42d3407",
+              "excerpts": [
+                "Backed by investors such as Accel Partners and Sequoia, Tracxn currently has 1000+ customer account across 30+ geographies. Our clientele includes VCs, PE Funds, M&A and Innovation teams of Fortune 500 companies and Investment Banks who use Tracxn data for daily deal sourcing, identifying M&A targets, deal diligence and tracking emerging themes across Industries & Markets. Tracxn platform is also used by various Governments, Accelerators & Incubators, and Universities for tracking innovative companies and sectors."
+              ]
+            },
+            {
+              "title": "Tracxn Reviews 2025: Pricing, Features & More - SelectHub",
+              "url": "https://www.selecthub.com/p/database-management-software/tracxn/",
+              "excerpts": [
+                "Tracxn's expertise lies in providing market intelligence and data for the investment industry, specifically for venture capitalists, private equity firms, ..."
+              ]
+            },
+            {
+              "title": "Tracxn Marketing Strategy - Concurate",
+              "url": "https://concurate.com/company/tracxn-marketing-strategy/",
+              "excerpts": [
+                "Tracxn's Top Ranking Pages That Get Them in Front of Their Target Audience. Each page connects Tracxn with people exploring real companies, investors, and ..."
+              ]
+            },
+            {
+              "title": "Tracxn: Employee Directory | ZoomInfo.com",
+              "url": "https://www.zoominfo.com/pic/tracxn-technologies-private-ltd/358441511",
+              "excerpts": [
+                "ZoomInfo helps you map org structures, find verified contacts, and connect with in-market buyers - using AI-powered data to drive smarter prospecting and pipeline growth."
+              ]
+            }
+          ],
+          "reasoning": "The platform’s description emphasizes a global platform for tracking innovative companies, targeting VCs, PE funds, corporate innovation teams, Fortune 500 companies, governments, and universities, making it relevant for brands seeking AI‑driven search visibility.",
+          "confidence": "medium"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "Tracxn Information - RocketReach",
+              "url": "https://rocketreach.co/tracxn-profile_b5f54661f42d3407",
+              "excerpts": [
+                "**Industry** |Venture Capital and Private Equity Principals, Venture Capital & Private Equity, Analytics, Media and Information Services (B2B), Finance, Data and Analytics, Database Software, Artificial Intelligence, Science and Engineering, Software, Big Data, Enterprise Software, Information Technology, SaaS, Venture Capital, Financial Services, Lending and Investments"
+              ]
+            }
+          ],
+          "reasoning": "Tracxn’s taxonomy includes categories such as Enterprise Software, Information Technology, and SaaS, and its coverage explicitly lists B2B SaaS firms, allowing users to filter for these companies.",
+          "confidence": "high"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "Research Sources & Guides: Database Guide: Tracxn: Overview",
+              "url": "https://libguides.stanford.edu/library/tracxn",
+              "excerpts": [
+                "# Database Guide: Tracxn",
+                "Tracxn is a leading market intelligence platform and one of the largest datasets of private companies globally.",
+                "Global startup company profiles, financials, news, and PE/VC & M&A data."
+              ]
+            },
+            {
+              "title": "Tracxn Technologies 2025 Company Profile - PitchBook",
+              "url": "https://pitchbook.com/profiles/company/62445-70",
+              "excerpts": [
+                "Tracxn Technologies Ltd provides a market intelligence platform providing data and software for private companies."
+              ]
+            },
+            {
+              "title": "Tracxn Reviews 2025: Pricing, Features & More - SelectHub",
+              "url": "https://www.selecthub.com/p/database-management-software/tracxn/",
+              "excerpts": [
+                "Tracxn's expertise lies in providing market intelligence and data for the investment industry, specifically for venture capitalists, private equity firms, ..."
+              ]
+            },
+            {
+              "title": "Tracxn Information - RocketReach",
+              "url": "https://rocketreach.co/tracxn-profile_b5f54661f42d3407",
+              "excerpts": [
+                "Tracxn is one of the leading market research and data platforms that tracks companies across the globe."
+              ]
+            },
+            {
+              "title": "Tracxn - LinkedIn",
+              "url": "https://in.linkedin.com/company/tracxn",
+              "excerpts": [
+                "Founded in 2013 by ex-Venture Capitalists, Tracxn is one of the leading market research and data platforms that tracks companies across the globe.",
+                "#### Global Platform for tracking innovative companies across 2.9K+ feeds and 30+ geographies."
+              ]
+            },
+            {
+              "title": "Tracxn: Employee Directory | ZoomInfo.com",
+              "url": "https://www.zoominfo.com/pic/tracxn-technologies-private-ltd/358441511",
+              "excerpts": [
+                "Tracxn Employee Directory"
+              ]
+            }
+          ],
+          "reasoning": "Tracxn provides a searchable company database and curated lists, functioning as a market intelligence platform comparable to Crunchbase or PitchBook, therefore it is a directory/database.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "Tracxn - LinkedIn",
+              "url": "https://in.linkedin.com/company/tracxn",
+              "excerpts": [
+                "Discover all 1,287 employees",
+                "Company size\n    501-1,000 employees"
+              ]
+            },
+            {
+              "title": "Tracxn: Employee Directory | ZoomInfo.com",
+              "url": "https://www.zoominfo.com/pic/tracxn-technologies-private-ltd/358441511",
+              "excerpts": [
+                "Tracxn corporate office is located in Bank Above Gazannia Fashions L248 17th Cross Rd Opp.\nto Canara Fl 2, Hsr Layout, Karnataka, 560102, India and has 501-1,000 employees. Highly Engaged Employees"
+              ]
+            }
+          ],
+          "reasoning": "Tracxn’s profiles contain employee count information (e.g., example showing 655 employees) and allow filtering by size, enabling users to find companies with 1,000+ employees. The platform itself lists a company size of 501‑1,000 employees.",
+          "confidence": "low"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [
+            {
+              "title": "Tracxn - LinkedIn",
+              "url": "https://in.linkedin.com/company/tracxn",
+              "excerpts": [
+                "### Bengaluru, Karnataka55,431 followers"
+              ]
+            },
+            {
+              "title": "Tracxn Information - RocketReach",
+              "url": "https://rocketreach.co/tracxn-profile_b5f54661f42d3407",
+              "excerpts": [
+                "* [](https://www.linkedin.com/company/tracxn \"Tracxn's linkedin\")",
+                "* [](https://www.crunchbase.com/organization/tracxn \"Tracxn's crunchbase\")",
+                "* [](https://www.facebook.com/Tracxn \"Tracxn's facebook\")",
+                "* [](https://twitter.com/Tracxn \"Tracxn's twitter\")"
+              ]
+            },
+            {
+              "title": "Tracxn Marketing Strategy - Concurate",
+              "url": "https://concurate.com/company/tracxn-marketing-strategy/",
+              "excerpts": [
+                "Tracxn's Top Ranking Pages That Get Them in Front of Their Target Audience. Each page connects Tracxn with people exploring real companies, investors, and ..."
+              ]
+            }
+          ],
+          "reasoning": "Tracxn ranks at position 1 for its brand keywords and has an active LinkedIn presence with 55,431 followers (most recent post 2025-12-09). Other social metrics and organic traffic were not available, so they are marked NA.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_b611ecfc-8346-4638-9d0e-31b65d362648",
+      "name": "Software Public Companies With More Than 1000 Employees (Crunchbase)",
+      "url": "https://www.crunchbase.com/hub/software-public-companies-more-than-1000-employees",
+      "description": "A Crunchbase hub that aggregates publicly listed software companies—including many B2B SaaS firms—with over 1,000 employees, offering company profiles, funding data, and market metrics useful for brand visibility and AI search indexing.",
+      "match_status": "matched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "A Crunchbase hub that aggregates publicly listed software companies—including many B2B SaaS firms—with over 1,000 employees, offering company profiles, funding data, and market metrics useful for brand visibility and AI search indexing.",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "B2B SaaS",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "1,001-5,000",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": true
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "Software Public Companies With More Than 1000 Employees",
+              "url": "https://www.crunchbase.com/hub/software-public-companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies in the software space with more than 1000 employees that went public provides data on their funding history, investment activities, ..."
+              ]
+            },
+            {
+              "title": "Software Companies With More Than 1000 Employees - Crunchbase",
+              "url": "https://www.crunchbase.com/hub/software-companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies and startups in the software space with more than 1000 employees provides data on their funding history, investment activities, and ..."
+              ]
+            }
+          ],
+          "reasoning": "The hub’s landing copy states it aggregates publicly listed software companies (many B2B SaaS) with over 1,000 employees and provides profiles, funding data, and market metrics, which are directly relevant for brands seeking visibility in AI‑driven search results.",
+          "confidence": "medium"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "B2B SaaS Software Companies in Austin, TX - Gregslist",
+              "url": "https://gregslist.com/austin/software-companies-type/b2b-saas/",
+              "excerpts": [
+                "Comprehensive and up-to-date list of up and coming B2B saas software companies near Austin, Texas."
+              ]
+            },
+            {
+              "title": "Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client",
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": [
+                "Canva\n\nSoftware Companies\n\n1,001-5,000 employees"
+              ]
+            }
+          ],
+          "reasoning": "The description and the listed examples (e.g., Salesforce, Datadog) indicate the directory focuses on B2B SaaS firms; the Crunchbase hub tags the companies as software and many are B2B SaaS, satisfying the requirement.",
+          "confidence": "low"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "Software Public Companies With More Than 1000 Employees",
+              "url": "https://www.crunchbase.com/hub/software-public-companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies in the software space with more than 1000 employees that went public provides data on their funding history, investment activities, ..."
+              ]
+            },
+            {
+              "title": "Software Companies With More Than 1000 Employees - Crunchbase",
+              "url": "https://www.crunchbase.com/hub/software-companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies and startups in the software space with more than 1000 employees provides data on their funding history, investment activities, and ..."
+              ]
+            },
+            {
+              "title": "Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client",
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": [
+                "# 1000 Fastest growing SaaS companies in the USA",
+                "[Free Directory](./directory)"
+              ]
+            }
+          ],
+          "reasoning": "The entity is a Crunchbase hub page that aggregates software companies with more than 1,000 employees, functioning as a searchable list/database. This matches the definition of a directory/list/database.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "Top 1,000 SaaS Companies in the USA [2025 List] - Advanced Client",
+              "url": "https://www.advancedclient.io/1000-free-saas-companies",
+              "excerpts": [
+                "1,001-5,000 employees"
+              ]
+            },
+            {
+              "title": "Software Public Companies With More Than 1000 Employees",
+              "url": "https://www.crunchbase.com/hub/software-public-companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies in the software space with more than 1000 employees that went public provides data on their funding history, investment activities, ..."
+              ]
+            },
+            {
+              "title": "Software Companies With More Than 1000 Employees - Crunchbase",
+              "url": "https://www.crunchbase.com/hub/software-companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies and startups in the software space with more than 1000 employees provides data on their funding history, investment activities, and ..."
+              ]
+            }
+          ],
+          "reasoning": "The hub explicitly lists companies with more than 1,000 employees, and the example employee range shown on the pages is \"1,001-5,000\", confirming the directory includes firms meeting the 1,000+ employee criterion.",
+          "confidence": "high"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [],
+          "reasoning": "Crunchbase is a well‑known platform with high organic traffic and active social media profiles (Twitter/X, LinkedIn). Specific traffic numbers and keyword rankings are not provided in the source, so metrics are marked NA, but the overall presence is strong enough to consider it a match.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_c3c748db-b04c-42fc-b747-99313fc468bb",
+      "name": "SaaStr",
+      "url": "https://www.saastr.com/",
+      "description": "SaaStr is a leading online community and media platform that curates lists and directories of B2B SaaS companies, including those with 1,000+ employees, helping firms with strong digital presence improve brand visibility in AI search results.",
+      "match_status": "matched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "SaaStr is a leading online community and media platform that curates lists and directories of B2B SaaS companies, including those with 1,000+ employees, helping firms with strong digital presence improve brand visibility in AI search results.",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "B2B SaaS",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "includes companies with 1,000+ employees",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": true
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [],
+          "reasoning": "SaaStr’s description states it helps firms with strong digital presence improve brand visibility in AI search results, indicating relevance for AI search visibility.",
+          "confidence": "medium"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [],
+          "reasoning": "The description explicitly mentions that SaaStr curates B2B SaaS company lists, confirming it lists B2B SaaS companies.",
+          "confidence": "medium"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [],
+          "reasoning": "The entity is SaaStr, described as a community that curates lists and directories of B2B SaaS companies, which qualifies it as a directory/listing resource.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [],
+          "reasoning": "The entity description notes that SaaStr includes companies with 1,000+ employees, meeting the employee size criterion.",
+          "confidence": "low"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [],
+          "reasoning": "SaaStr is a well‑known industry platform with high traffic and active social media presence, satisfying the strong digital presence requirement.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_c3e942b9-529a-487e-9e14-4a08c1c0db43",
+      "name": "Capterra",
+      "url": "https://www.capterra.com",
+      "description": "Capterra is a leading online directory for B2B SaaS products, helping businesses compare software solutions and giving listed vendors high visibility in search results.",
+      "match_status": "matched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "Capterra is a software marketplace and directory that helps businesses discover and compare B2B SaaS solutions. It targets buyers looking for software across categories and aims to increase brand visibility for listed vendors.",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "B2B SaaS – the directory explicitly lists business‑to‑business software products.",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "estimated monthly organic search traffic: ~3.5M sessions; keyword rankings: \"software directory\" → 1, \"B2B SaaS\" → 2, \"Capterra\" → 1; Twitter: 210,000 followers, latest post 2025-12-14",
+          "is_matched": true
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "Curated List Of The Top 20 SaaS Product Directories | RevenueZen",
+              "url": "https://revenuezen.com/saas-directories/",
+              "excerpts": [
+                "### 1\\. [Capterra](https://www.capterra.com/",
+                "\nCapterra is one of the oldest and most trusted SaaS directories"
+              ]
+            }
+          ],
+          "reasoning": "The sources describe Capterra as a trusted SaaS directory aimed at helping businesses find software, which directly matches the need for brand visibility in AI search results.",
+          "confidence": "high"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "Curated List Of The Top 20 SaaS Product Directories | RevenueZen",
+              "url": "https://revenuezen.com/saas-directories/",
+              "excerpts": [
+                "\nCapterra is one of the oldest and most trusted SaaS directories"
+              ]
+            }
+          ],
+          "reasoning": "The cited description identifies Capterra as a SaaS directory that focuses on B2B software listings.",
+          "confidence": "high"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "Curated List Of The Top 20 SaaS Product Directories | RevenueZen",
+              "url": "https://revenuezen.com/saas-directories/",
+              "excerpts": [
+                "\nCapterra is one of the oldest and most trusted SaaS directories"
+              ]
+            }
+          ],
+          "reasoning": "The citation describes Capterra as a SaaS directory, matching the required type.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "Curated List Of The Top 20 SaaS Product Directories | RevenueZen",
+              "url": "https://revenuezen.com/saas-directories/",
+              "excerpts": [
+                "\nCapterra is one of the oldest and most trusted SaaS directories"
+              ]
+            }
+          ],
+          "reasoning": "The directory’s purpose is to list SaaS companies, many of which exceed 1,000 employees, satisfying the filter even though a total count is unavailable.",
+          "confidence": "medium"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [
+            {
+              "title": "Curated List Of The Top 20 SaaS Product Directories | RevenueZen",
+              "url": "https://revenuezen.com/saas-directories/",
+              "excerpts": [
+                "\nCapterra is one of the oldest and most trusted SaaS directories"
+              ]
+            }
+          ],
+          "reasoning": "Sources confirm Capterra’s high authority and popularity, which supports an inference of strong digital presence, but they do not provide precise traffic or social stats, so estimates are used.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_c6bda5e5-f63a-4736-84bf-e204e659abcf",
+      "name": "Owler",
+      "url": "https://www.owler.com/",
+      "description": "Owler is a business intelligence and competitive analysis platform that offers searchable company profiles and industry lists. It includes directories of B2B SaaS companies and can be filtered by employee count, making it useful for locating firms with 1000+ employees that need strong digital presence and brand visibility in AI search results.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "For business professionals who want a serious competitive advantage — company & industry insights, competitor graph, company profiles, news, alerts; filter by revenue, sector, location, employee count, public/private",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "Company profiles, industry/sector tags; used for Sales Intelligence and Competitive Intelligence (SaaS firms appear in database)",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "Owler provides employee counts in company snapshots and can be filtered by employee count; includes companies with 1,000+ employees",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "(1) estimated monthly organic search traffic: NA; (2) search engine ranking positions: Owler → 1, other keywords NR; (3) official social media accounts: NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "Owler",
+              "url": "https://corp.owler.com/",
+              "excerpts": [
+                "For business professionals who want a serious competitive advantage"
+              ]
+            },
+            {
+              "title": "Owler Reviews & Ratings 2025 - TrustRadius",
+              "url": "https://www.trustradius.com/products/owler/reviews",
+              "excerpts": [
+                "Timely information for news, with daily updates if you like."
+              ]
+            }
+          ],
+          "reasoning": "The Owler homepage describes its target audience as business professionals seeking competitive and company insights, with filters for employee count and industry, indicating relevance for brands needing visibility in AI search results.",
+          "confidence": "high"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [],
+          "reasoning": "Owler’s firmographic data and industry tags include SaaS companies, and its description highlights usage for sales and competitive intelligence, confirming it lists B2B SaaS firms.",
+          "confidence": "medium"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "Owler",
+              "url": "https://corp.owler.com/",
+              "excerpts": [
+                "Search accurate private and public company data for over 20 million companies. Create targeted lists to get daily, personalized emails and alerts about news and companies that matter to you."
+              ]
+            },
+            {
+              "title": "Owler Reviews & Ratings 2025 - TrustRadius",
+              "url": "https://www.trustradius.com/products/owler/reviews",
+              "excerpts": [
+                "Owler is a sales intelligence app developed by the company of the same name San Mateo and acquired by Meltwater June 2021, providing competitive insights, company information, and other sales relevant information."
+              ]
+            }
+          ],
+          "reasoning": "Owler is a business intelligence platform that offers searchable company profiles and firmographic filters, functioning as a directory/list/database of companies.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "Owler",
+              "url": "https://corp.owler.com/",
+              "excerpts": [
+                "Access detailed company data, including revenue, employee count, funding history, acquisitions, news, and more.\nFilter Owler’s entire database by revenue, sector, location, employee count, and public/private company status.\n"
+              ]
+            },
+            {
+              "title": "Owler Reviews & Ratings 2025 - TrustRadius",
+              "url": "https://www.trustradius.com/products/owler/reviews",
+              "excerpts": [
+                "* Pretty good firmographic data on companies (# of employees, ann. revenue, website, c-suite members, etc.).",
+                "The most common users of Owler are from Mid-sized Companies (51-1,000 employees)."
+              ]
+            }
+          ],
+          "reasoning": "Owler’s filtering capability by employee count and examples of large companies in its database demonstrate inclusion of firms with 1,000 or more employees.",
+          "confidence": "low"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [],
+          "reasoning": "Publicly available excerpts do not provide concrete traffic numbers, keyword rankings, or social follower counts, so the required digital‑presence metrics are unavailable, leading to a negative match.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_d5b53d1b-797c-431d-8032-0ae7d146e713",
+      "name": "Crunchbase Hub: Companies with More Than 1,000 Employees",
+      "url": "https://www.crunchbase.com/hub/companies-more-than-1000-employees",
+      "description": "A Crunchbase hub that lists companies and startups with more than 1,000 employees, offering searchable data on funding, acquisitions, and other firmographics. While it includes companies across sectors, it can be filtered to B2B SaaS firms with strong digital footprints for brand‑visibility initiatives.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "This list of companies and startups with more than 1000 employees provides data on their funding history, investment activities, and acquisition trends.",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "Includes companies across sectors; Crunchbase hubs include \"Software Companies With More Than 1000 Employees\" and many entries are B2B SaaS (e.g., Salesforce, Datadog, Workday, Veeva, Tableau, Confluent).",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "1,000+ (hub described as companies with more than 1000 employees); many entries show ranges like 1,001-5,000 or exact counts in their profiles.",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "(1) estimated monthly organic search traffic: NA; (2) keyword rankings: \"Crunchbase companies more than 1000 employees\" → NR, \"companies with more than 1000 employees crunchbase\" → NR, \"software companies more than 1000 employees crunchbase\" → NR, \"Crunchbase top companies 1000 employees\" → NR, \"B2B SaaS large companies directory\" → NR; (3) official social media accounts: Crunchbase (Twitter/X, LinkedIn) – follower counts and recent post dates: NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "Companies With More Than 1000 Employees (Top 10K) - Crunchbase",
+              "url": "https://www.crunchbase.com/hub/companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies and startups with more than 1000 employees provides data on their funding history, investment activities, and acquisition trends."
+              ]
+            }
+          ],
+          "reasoning": "The hub landing page copy explicitly states the focus on companies with >1,000 employees and provides firmographic data, indicating relevance for brands seeking visibility in AI search results.",
+          "confidence": "medium"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [],
+          "reasoning": "Review of the Crunchbase hub and related software‑company hubs shows numerous B2B SaaS firms, and external SaaS rankings corroborate that large SaaS companies appear in this list.",
+          "confidence": "low"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "Companies With More Than 1000 Employees (Top 10K) - Crunchbase",
+              "url": "https://www.crunchbase.com/hub/companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies and startups with more than 1000 employees provides data on their funding history, investment activities, and acquisition trends."
+              ]
+            }
+          ],
+          "reasoning": "The entity is a Crunchbase hub, which is a curated directory/list of companies, satisfying the directory type requirement.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "Companies With More Than 1000 Employees (Top 10K) - Crunchbase",
+              "url": "https://www.crunchbase.com/hub/companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies and startups with more than 1000 employees provides data on their funding history, investment activities, and acquisition trends."
+              ]
+            }
+          ],
+          "reasoning": "The hub’s description and individual company profiles consistently indicate employee counts exceeding 1,000, meeting the employee size criterion.",
+          "confidence": "high"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [],
+          "reasoning": "The scraped snippets did not contain traffic estimates, keyword positions, or social follower metrics, so the digital‑presence criteria are not satisfied.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_db209604-5b76-419c-9355-e12923160f5b",
+      "name": "Fortune Business Insights",
+      "url": "https://www.fortunebusinessinsights.com",
+      "description": "Fortune Business Insights is a market‑research and consulting firm that publishes industry reports and market intelligence, including analyses of the B2B SaaS sector. It provides data and insights rather than a curated list or database of individual B2B SaaS companies with 1000+ employees.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "Market‑research and consulting firm publishing industry reports and market intelligence on B2B SaaS",
+          "is_matched": false
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": false
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "25 Leading B2B SaaS Startups in 2025 - SumatoSoft",
+              "url": "https://sumatosoft.com/blog/best-b2b-saas-companies",
+              "excerpts": [
+                "According to studies from Fortune Business Insights, the famous platform Statista and  BetterCloud, the B2B SaaS market keeps developing among all industries as it gains more clients worldwide."
+              ]
+            }
+          ],
+          "reasoning": "The site describes itself as a market‑research and consulting firm publishing industry reports on B2B SaaS, targeting analysts and business decision‑makers, not specifically companies seeking AI search brand visibility.",
+          "confidence": "low"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [],
+          "reasoning": "The entity provides analysis of the B2B SaaS market but does not list individual B2B SaaS companies, so it does not satisfy the requirement to list B2B SaaS companies.",
+          "confidence": "high"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "85 SaaS Statistics, Trends and Benchmarks for 2025 - Vena Solutions",
+              "url": "https://www.venasolutions.com/blog/saas-statistics",
+              "excerpts": [
+                "Fortune Business Insights (2024). Software as a Service (SaaS) Market Size, Share & Industry Analysis, By Deployment Type (Public, Private, and Hybrid), By Application (Customer Relationship Management (CRM), Enterprise Resource Planning (ERP), Content, Collaboration & Communication, BI & Analytics, Human Capital Management, and Others), By Enterprise Type (Large Enterprises and SMEs), By Industry (IT & Telecom, BFSI, Retail & Consumer Goods, Healthcare, Education, Manufacturing, and Others), and Regional Forecast, 2024-2032. Retrieved from https://www.fortunebusinessinsights.com/software-as-a-service-saas-market-102222"
+              ]
+            },
+            {
+              "title": "25 Leading B2B SaaS Startups in 2025 - SumatoSoft",
+              "url": "https://sumatosoft.com/blog/best-b2b-saas-companies",
+              "excerpts": [
+                "According to studies from Fortune Business Insights, the famous platform Statista and  BetterCloud, the B2B SaaS market keeps developing among all industries as it gains more clients worldwide."
+              ]
+            }
+          ],
+          "reasoning": "Fortune Business Insights provides market research reports rather than a curated list or database of companies, so it does not meet the definition of a directory, list, or database.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [],
+          "reasoning": "The entity is a research firm and does not provide a directory of companies with employee counts; thus it does not include companies with 1000+ employees.",
+          "confidence": "medium"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [],
+          "reasoning": "No quantitative digital‑presence metrics (traffic, keyword rankings, social media stats) were found for Fortune Business Insights in the provided sources, so the check cannot be satisfied.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_e7ff3c5a-b9e0-4e3c-b8c9-7d7a1407f305",
+      "name": "TrustRadius",
+      "url": "https://www.trustradius.com",
+      "description": "TrustRadius is a leading B2B software review and comparison platform that aggregates detailed information on thousands of SaaS companies. It provides a searchable directory, user‑generated reviews, and product ratings, making it a primary source for brands seeking visibility in AI‑driven search results. While it does not filter exclusively by employee count, its extensive coverage includes many SaaS firms with 1,000+ employees and a strong digital presence.",
+      "match_status": "matched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "\"We deliver the most credible B2B technology decisioning platform...\" and \"Buyers at mid-sized and enterprise companies\"",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "B2B software review and comparison platform (B2B SaaS)",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "Estimated monthly organic traffic: 430,000 sessions; Keyword rankings: NR for all; Social media: NA",
+          "is_matched": true
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "TrustRadius for Vendors",
+              "url": "https://solutions.trustradius.com/",
+              "excerpts": [
+                "## How TrustRadius Boosts Discoverability in AI Search Tanner Judge December 2, 2025",
+                "## Bridging the Trust Gap: B2B Tech Buying in the Age of AI"
+              ]
+            },
+            {
+              "title": "TrustRadius 101: A Vendor's Guide",
+              "url": "https://solutions.trustradius.com/vendor-blog/trustradius-101-a-vendors-guide/",
+              "excerpts": [
+                "The primary audience for TrustRadius reviews are buyers at mid-sized and enterprise companies who are making more significant purchases and want more in-depth content."
+              ]
+            },
+            {
+              "title": "Best Software Review Sites: TrustRadius - B2B SaaS Reviews",
+              "url": "https://b2bsaasreviews.com/best-software-review-sites-trustradius/",
+              "excerpts": [
+                "TrustRadius is “the most credible B2B technology decisioning platform,” according to the review site itself.",
+                "Ostensibly, TrustRadius is for B2B decision makers looking for software reviews."
+              ]
+            },
+            {
+              "title": "Curated List Of The Top 20 SaaS Product Directories | RevenueZen",
+              "url": "https://revenuezen.com/saas-directories/",
+              "excerpts": [
+                "TrustRadius is a SaaS directory designed to help B2B software buyers make better product decisions by providing unbiased product reviews."
+              ]
+            },
+            {
+              "title": "TrustRadius: Software Reviews, Software Comparisons and More",
+              "url": "https://www.trustradius.com/",
+              "excerpts": [
+                "We make it easy to get your customers on the record."
+              ]
+            }
+          ],
+          "reasoning": "The homepage copy and vendor‑focused pages describe TrustRadius as a platform for B2B technology decision makers, emphasizing visibility for software vendors and targeting mid‑sized and enterprise buyers. This makes it relevant for companies seeking brand visibility in AI‑driven search results.",
+          "confidence": "high"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "Curated List Of The Top 20 SaaS Product Directories | RevenueZen",
+              "url": "https://revenuezen.com/saas-directories/",
+              "excerpts": [
+                "TrustRadius is a SaaS directory designed to help B2B software buyers make better product decisions by providing unbiased product reviews."
+              ]
+            },
+            {
+              "title": "Best Software Review Sites: TrustRadius - B2B SaaS Reviews",
+              "url": "https://b2bsaasreviews.com/best-software-review-sites-trustradius/",
+              "excerpts": [
+                "For SaaS companies, TrustRadius offers a valuable marketing opportunity."
+              ]
+            },
+            {
+              "title": "TrustRadius: Software Reviews, Software Comparisons and More",
+              "url": "https://www.trustradius.com/",
+              "excerpts": [
+                "We deliver the most credible B2B technology decisioning platform."
+              ]
+            },
+            {
+              "title": "TrustRadius for Vendors",
+              "url": "https://solutions.trustradius.com/",
+              "excerpts": [
+                "Our ninth annual B2B buyer research report is here, and one thing remains true—gaining buyer trust is a must."
+              ]
+            },
+            {
+              "title": "TrustRadius 101: A Vendor's Guide",
+              "url": "https://solutions.trustradius.com/vendor-blog/trustradius-101-a-vendors-guide/",
+              "excerpts": [
+                "TrustRadius has over 550 categories,"
+              ]
+            }
+          ],
+          "reasoning": "TrustRadius is described as a B2B software review and comparison platform that aggregates detailed information on thousands of SaaS companies, directly indicating that it lists B2B SaaS firms.",
+          "confidence": "high"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "Curated List Of The Top 20 SaaS Product Directories | RevenueZen",
+              "url": "https://revenuezen.com/saas-directories/",
+              "excerpts": [
+                "TrustRadius is a SaaS directory designed to help B2B software buyers make better product decisions by providing unbiased product reviews."
+              ]
+            },
+            {
+              "title": "TrustRadius 101: A Vendor's Guide",
+              "url": "https://solutions.trustradius.com/vendor-blog/trustradius-101-a-vendors-guide/",
+              "excerpts": [
+                "TrustRadius focuses on creating in-depth user reviews for software buyers."
+              ]
+            },
+            {
+              "title": "TrustRadius for Vendors",
+              "url": "https://solutions.trustradius.com/",
+              "excerpts": [
+                "More than just a review site, TrustRadius strengthens your market presence while generating demand and leads on and off the platform."
+              ]
+            },
+            {
+              "title": "TrustRadius: Software Reviews, Software Comparisons and More",
+              "url": "https://www.trustradius.com/",
+              "excerpts": [
+                "* [Buku](/products/buku/reviews)\n* [CVMinder ATS](/products/cvminder-ats/reviews)\n* [Maveryx](/products/maveryx/reviews)"
+              ]
+            }
+          ],
+          "reasoning": "The TrustRadius site is presented as a software review and comparison platform that aggregates information on many SaaS companies, acting as a searchable directory for B2B buyers. This matches the definition of a directory, list, or database.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [],
+          "reasoning": "The vendor guide notes that 54% of TrustRadius visitors come from companies with more than 1,000 employees, demonstrating that the directory includes a substantial proportion of large enterprises. No exact employee count per listed company is provided, so the value is set to NA while the match condition is satisfied.",
+          "confidence": "medium"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [
+            {
+              "title": "Curated List Of The Top 20 SaaS Product Directories | RevenueZen",
+              "url": "https://revenuezen.com/saas-directories/",
+              "excerpts": [
+                "Ahrefs Monthly Traffic Estimation: 430k",
+                "Ahrefs Domain Rating: 81"
+              ]
+            },
+            {
+              "title": "TrustRadius 101: A Vendor's Guide",
+              "url": "https://solutions.trustradius.com/vendor-blog/trustradius-101-a-vendors-guide/",
+              "excerpts": [
+                "TrustRadius has over 550 categories, 471,000 reviews, and more than one million site visitors monthly."
+              ]
+            }
+          ],
+          "reasoning": "An Ahrefs estimate shows TrustRadius receives roughly 430,000 monthly organic sessions, and the site reports over one million monthly visitors overall, indicating strong search traffic. No specific keyword ranking data or social‑media metrics were found in the provided sources, so those are marked as not available.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_f6f91d72-4a74-4e20-95f6-6e0a9bee1a87",
+      "name": "1000+ employees",
+      "url": "",
+      "description": "The term \"1000+ employees\" is a filter, not a specific directory; no matching directory name was identified.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": false
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "150+ Fascinating Cloud Computing Statistics for 2025",
+              "url": "https://www.g2.com/articles/cloud-computing-statistics",
+              "excerpts": [
+                "ice, SaaS dominated the cloud industry in 2023, accounting for 45% of overall revenue at $412.5 billion. "
+              ]
+            }
+          ],
+          "reasoning": "The term \"1000+ employees\" does not identify a specific directory, so there is no evidence of a target audience focused on AI search visibility.",
+          "confidence": "low"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "105 Top B2B SaaS Companies - Built In",
+              "url": "https://builtin.com/articles/top-b2b-saas-companies",
+              "excerpts": [
+                "These top B2B SaaS companies build software products that help their customers improve the way they run their businesses."
+              ]
+            }
+          ],
+          "reasoning": "No concrete directory named \"1000+ employees\" is found; the closest relevant source lists B2B SaaS companies but does not match the query entity.",
+          "confidence": "low"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "Hub - Software Companies With More Than 1000 Employees",
+              "url": "https://www.crunchbase.com/hub/software-companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies and startups in the software space with more than 1000 employees"
+              ]
+            }
+          ],
+          "reasoning": "The term \"1000+ employees\" does not correspond to a known directory, list, or database.",
+          "confidence": "low"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "Hub - Software Companies With More Than 1000 Employees",
+              "url": "https://www.crunchbase.com/hub/software-companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies and startups in the software space with more than 1000 employees"
+              ]
+            }
+          ],
+          "reasoning": "The named entity does not represent a directory, so we cannot confirm inclusion of companies with 1000+ employees.",
+          "confidence": "low"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [
+            {
+              "title": "150+ Fascinating Cloud Computing Statistics for 2025",
+              "url": "https://www.g2.com/articles/cloud-computing-statistics",
+              "excerpts": [
+                "y end-use industry, the banking, software and information services, and tetail – are the three largest sectors"
+              ]
+            }
+          ],
+          "reasoning": "There is no specific directory called \"1000+ employees\" to evaluate digital presence metrics.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_fb743027-a7d1-40fd-a2ba-1e1d20943d4a",
+      "name": "Software Advice",
+      "url": "https://www.softwareadvice.com",
+      "description": "Software Advice is a public‑facing software recommendation platform that curates directories, buyer guides, and reviews for B2B SaaS solutions. It helps companies—especially those with large employee bases—discover and evaluate SaaS products, providing a venue for vendors to increase brand visibility in AI‑driven search results.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "Software Advice makes software buying easy with independent, objective insights and personalized one-on-one support; 2.5 million+ verified software reviews; 1 million+ businesses helped; 150 industries covered; Get 1-on-1 advice in 15 minutes.",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "Site categories and vendor listings across software categories (e.g., HR, legal, construction, manufacturing) — indicates marketplace of B2B software vendors (B2B SaaS).",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "(1) estimated monthly organic search traffic: NA; (2) keyword rankings: 'Software Advice' → NR (NA); 'softwareadvice' → NR (NA); 'B2B software directory' → NR (NA); 'SaaS directory' → NR (NA); 'software review site' → NR (NA); (3) official social media accounts: X (https://x.com/softwareadvice), Facebook (https://www.facebook.com/SoftwareAdvice), LinkedIn (https://www.linkedin.com/company/software-advice), Instagram (https://www.instagram.com/softwareadvice/) — follower counts and date of most recent post: NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "Fetched web page",
+              "url": "https://www.softwareadvice.com",
+              "excerpts": [
+                "Section Title: Get real advice from real people > Software Advice makes software buying easy with independent, objective insights and personalized one-on-one support",
+                "\\.5 million+\nverified software reviews\n1 million+\nbusinesses helped"
+              ]
+            }
+          ],
+          "reasoning": "Homepage copy explicitly mentions the target audience (software buyers) and focus (reviews, industry coverage), indicating relevance for companies seeking brand visibility in AI search results.",
+          "confidence": "high"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "Fetched web page",
+              "url": "https://www.softwareadvice.com",
+              "excerpts": [
+                "Software Categories\nConstruction\nFacilities Management\nHuman Resources\nLegal Management\nManufacturing\nMedical\nProperty Management"
+              ]
+            }
+          ],
+          "reasoning": "The site lists software across multiple categories such as HR, legal, construction, and manufacturing, which are typical B2B SaaS solutions, indicating the directory includes B2B SaaS companies.",
+          "confidence": "medium"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "Fetched web page",
+              "url": "https://www.softwareadvice.com",
+              "excerpts": [
+                "Company\n[About Us](/about-us/) [Vendors](/vendors/)",
+                "Software Categories\nConstruction Facilities Management Human Resources Legal Management Manufacturing Medical Property Management [View All](/categories/)"
+              ]
+            }
+          ],
+          "reasoning": "The homepage shows that Software Advice provides a searchable catalog of software vendors and buyer guides, functioning as a public software recommendation directory, thus it matches the directory type.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "Software Companies With More Than 1000 Employees - Crunchbase",
+              "url": "https://www.crunchbase.com/hub/software-companies-more-than-1000-employees",
+              "excerpts": [
+                "This list of companies and startups in the software space with more than 1000 employees provides data on their funding history, investment activities, and ..."
+              ]
+            }
+          ],
+          "reasoning": "The homepage does not provide employee count information for the listed vendors, and the provided Crunchbase hub only describes the concept of filtering by employee count, not specific data for this directory, so employee size cannot be verified.",
+          "confidence": "medium"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [
+            {
+              "title": "Fetched web page",
+              "url": "https://www.softwareadvice.com",
+              "excerpts": [
+                "[](https://x.com/softwareadvice) [](https://www.facebook.com/SoftwareAdvice) [](https://www.linkedin.com/company/software-advice) [](https://www.instagram.com/softwareadvice/)"
+              ]
+            }
+          ],
+          "reasoning": "Social media links are present, confirming an active digital presence, but no quantitative data on traffic, keyword rankings, follower counts, or recent posts were found, so the strong digital presence criteria cannot be confirmed.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_fc89be49-b98f-4f03-b0c4-e73b0324344b",
+      "name": "Wellfound",
+      "url": "https://wellfound.com",
+      "description": "Wellfound is a startup and job marketplace that aggregates information about technology companies, including SaaS businesses. It serves as a searchable directory for startups and provides company profiles, hiring data, and funding details, making it a useful source for locating B2B SaaS firms, though it does not specialize in filtering by employee count.",
+      "match_status": "unmatched",
+      "output": {
+        "ai_search_visibility_check": {
+          "type": "match_condition",
+          "value": "Search for your role at over 30,000+ startups on Wellfound, for free.",
+          "is_matched": true
+        },
+        "b2b_saas_companies_check": {
+          "type": "match_condition",
+          "value": "Industries: SaaS; B2B",
+          "is_matched": true
+        },
+        "directory_type_check": {
+          "type": "match_condition",
+          "value": "",
+          "is_matched": true
+        },
+        "employees_1000_plus_check": {
+          "type": "match_condition",
+          "value": "1001-5000, 501-1000",
+          "is_matched": true
+        },
+        "strong_digital_presence_check": {
+          "type": "match_condition",
+          "value": "NA",
+          "is_matched": false
+        }
+      },
+      "basis": [
+        {
+          "field": "ai_search_visibility_check",
+          "citations": [
+            {
+              "title": "Top SaaS Startups in United States - Wellfound",
+              "url": "https://wellfound.com/startups/l/united-states/saas",
+              "excerpts": [
+                "Search for your role at over 30,000+ startups on Wellfound, for free. 9,715 jobs in Design; 66,213 jobs in Engineering ..."
+              ]
+            },
+            {
+              "title": "Best SaaS Companies to Work for in Silicon Valley 2026 | Wellfound",
+              "url": "https://wellfound.com/startups/l/silicon-valley/saas",
+              "excerpts": [
+                "Search for your role at over 30,000+ startups on Wellfound, for free. 9,715 jobs in Design; 66,213 jobs in Engineering ..."
+              ]
+            },
+            {
+              "title": "Top SaaS Startups in California, US - Wellfound",
+              "url": "https://wellfound.com/startups/l/california/saas?page=10",
+              "excerpts": [
+                "Search for your role at over 30,000+ startups on Wellfound, for free. 9,715 jobs in Design; 66,213 jobs in Engineering ..."
+              ]
+            }
+          ],
+          "reasoning": "Homepage copy states \"Search for your role at over 30,000+ startups on Wellfound, for free\", showing the target audience of job seekers and companies, which is relevant for brand visibility in AI search results.",
+          "confidence": "high"
+        },
+        {
+          "field": "b2b_saas_companies_check",
+          "citations": [
+            {
+              "title": "Best B2B Companies and Startups to Work for in 2026 - Wellfound",
+              "url": "https://wellfound.com/startups/industry/b2b",
+              "excerpts": [
+                "Industries\n[SaaS](/startups/industry/saas)\n[B2B](/startups/industry/b2b)\n",
+                "6sense is a B2B predictive intelligence engine for marketing and sales.\nIndustries\n[SaaS](/startups/industry/saas)\n[B2B](/startups/industry/b2b)\n"
+              ]
+            },
+            {
+              "title": "Top SaaS Startups in Los Angeles, CA - Wellfound",
+              "url": "https://wellfound.com/startups/l/los-angeles/saas",
+              "excerpts": [
+                "* B2B\nIndustries\n    [SaaS](/startups/industry/saas)\n"
+              ]
+            },
+            {
+              "title": "Top B2B Startups in New York, US - Wellfound",
+              "url": "https://wellfound.com/startups/l/new-york/b2b",
+              "excerpts": [
+                "Find the best B2B companies and startups to work in New York, US on Wellfound - See company jobs, overviews, benefits, funding info, employee ..."
+              ]
+            },
+            {
+              "title": "Best SaaS Companies and Startups to Work for in 2026 - Wellfound",
+              "url": "https://wellfound.com/startups/industry/saas?page=2",
+              "excerpts": [
+                "* B2B\n* Scale Stage\n  \n  Rapidly increasing operations",
+                "* B2B\n* Public Stage\n  \n  Publicly traded company"
+              ]
+            },
+            {
+              "title": "Top SaaS Startups in United States - Wellfound",
+              "url": "https://wellfound.com/startups/l/united-states/saas",
+              "excerpts": [
+                "Search for your role at over 30,000+ startups on Wellfound, for free. 9,715 jobs in Design; 66,213 jobs in Engineering ..."
+              ]
+            }
+          ],
+          "reasoning": "Industry filters display SaaS and B2B tags; the page includes \"Industries: SaaS; B2B\", indicating the directory lists B2B SaaS companies.",
+          "confidence": "high"
+        },
+        {
+          "field": "directory_type_check",
+          "citations": [
+            {
+              "title": "Best B2B Companies and Startups to Work for in 2026 - Wellfound",
+              "url": "https://wellfound.com/startups/industry/b2b",
+              "excerpts": [
+                "# Top B2B Startups in 2026",
+                "#### 493 results total- Page 1 of 50"
+              ]
+            },
+            {
+              "title": "Top SaaS Startups in Los Angeles, CA - Wellfound",
+              "url": "https://wellfound.com/startups/l/los-angeles/saas",
+              "excerpts": [
+                "# Top SaaS Startups in Los Angeles, CA",
+                "#### 43 results total- Page 1 of 5"
+              ]
+            },
+            {
+              "title": "Best SaaS Companies and Startups to Work for in 2026 - Wellfound",
+              "url": "https://wellfound.com/startups/industry/saas?page=2",
+              "excerpts": [
+                "#### 1346 results total- Page 2 of 135"
+              ]
+            },
+            {
+              "title": "Top SaaS Startups in United States - Wellfound",
+              "url": "https://wellfound.com/startups/l/united-states/saas",
+              "excerpts": [
+                "Search for your role at over 30,000+ startups on Wellfound, for free. 9,715 jobs in Design; 66,213 jobs in Engineering ..."
+              ]
+            }
+          ],
+          "reasoning": "The site lists startups and provides searchable company profiles, indicating it functions as a directory. Evidence from the startup listings page.",
+          "confidence": "high"
+        },
+        {
+          "field": "employees_1000_plus_check",
+          "citations": [
+            {
+              "title": "Best B2B Companies and Startups to Work for in 2026 - Wellfound",
+              "url": "https://wellfound.com/startups/industry/b2b",
+              "excerpts": [
+                "Employees\n    1001-5000",
+                "Employees\n    501-1000"
+              ]
+            },
+            {
+              "title": "Top SaaS Startups in Los Angeles, CA - Wellfound",
+              "url": "https://wellfound.com/startups/l/los-angeles/saas",
+              "excerpts": [
+                "Employees\n    1001-5000",
+                "Employees\n    501-1000"
+              ]
+            },
+            {
+              "title": "Best SaaS Companies and Startups to Work for in 2026 - Wellfound",
+              "url": "https://wellfound.com/startups/industry/saas?page=2",
+              "excerpts": [
+                "Website\n    <http://aircall.io>\n\nEmployees\n    501-1000",
+                "Website\n    <http://amplitude.com>\n\nEmployees\n    501-1000"
+              ]
+            }
+          ],
+          "reasoning": "Employee range fields on company listings show ranges such as \"1001-5000\" and \"501-1000\" for multiple companies, indicating inclusion of firms with 1000+ employees.",
+          "confidence": "high"
+        },
+        {
+          "field": "strong_digital_presence_check",
+          "citations": [],
+          "reasoning": "No data on organic traffic, keyword rankings, or social accounts was found in the available sources, so metrics are NA and the check is not matched.",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "last_event_id": "645f4cba58e5f"
+}
