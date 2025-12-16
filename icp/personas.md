@@ -15,6 +15,21 @@ Use these as anchors for lookalikes and for validating the pains below:
 - Penn State University
 - Clerk
 
+## Content-Derived Targeting Hypotheses (Scrunch blog)
+
+Source list: `company/scrunch.com/site-map/2025-12-14.md`. These are *hypotheses* based on how Scrunch positions the product in content; validate in calls.
+
+| Post | Implied primary buyer/champion | Most aligned pain segment(s) | Why it’s a targeting signal |
+| --- | --- | --- | --- |
+| https://scrunch.com/blog/enterprise-ready | Enterprise marketing leader + security/procurement stakeholders | Pain 1, Pain 4 | Emphasizes enterprise requirements (security, governance, implementation) → upmarket intent |
+| https://scrunch.com/blog/aeo-buyers-guide | SEO / PMM / Growth (with exec sponsor) | Pain 2, Pain 3 | “Buyer’s guide” framing signals category creation and evaluation-driven buying |
+| https://scrunch.com/blog/agent-traffic-monitoring | Growth/Analytics + Web/Platform | Pain 3, Pain 4 | “Agent traffic” measurement + implementation implies cross-functional ownership and technical readiness |
+| https://scrunch.com/news/2025-05-announcing-scrunch-ai%27s-agency-partnership-program | Agency owners + Head of SEO / Client Services | Pain 5 | Explicit agency packaging (multi-client, reporting, productized offering) |
+| https://scrunch.com/blog/2025-07-how-runpod-leveraged-the-scrunch-ai-platform-to-achieve-4x-growth,-turning-chatgpt-into-a-top-performing-acquisition-channel- | Growth lead at technical B2B | Pain 3, Pain 4 | Case study tied to acquisition outcomes + site readiness fixes → “AI channel owner” persona |
+| https://scrunch.com/news/2025-04-from-underdog-to-powerhouse-bairesdevs-78-ai-search-surge | Growth/SEO at B2B services | Pain 2, Pain 3 | Case study highlights competitive visibility + operational cadence → demand-gen pull |
+| https://scrunch.com/blog/how-to-spot-the-bots-that-drive-revenue | Growth + Analytics/RevOps | Pain 3 | Focus on “which agents drive revenue” signals measurement/attribution buyer |
+| https://scrunch.com/blog/2025-12-competitors-ai-search-citations | SEO / Competitive intelligence | Pain 2 | Competitor + citations language maps directly to “share-of-answer” buyers |
+
 ## The “AI Presence” Moments (high-signal triggers)
 
 These are the moments when teams feel AI’s impact viscerally and will prioritize a solution:
@@ -28,6 +43,11 @@ These are the moments when teams feel AI’s impact viscerally and will prioriti
 - A marketing team finally sees attribution signals: AI-referral traffic/conversions begin showing up, but it’s noisy and uncontrollable.
 
 ## Pain-Based Segments (prioritized)
+
+Detailed signal checklists for the top three segments:
+- Pain Segment 1 → [ai-accuracy-brand-integrity](pain-segments/ai-accuracy-brand-integrity/readme.md)
+- Pain Segment 2 → [share-of-answer-loss](pain-segments/share-of-answer-loss/readme.md)
+- Pain Segment 3 → [ai-channel-emergence](pain-segments/ai-channel-emergence/readme.md)
 
 ### Pain Segment 1 (Primary): “AI is saying the wrong thing about us” (accuracy + brand integrity)
 
@@ -59,6 +79,12 @@ These are the moments when teams feel AI’s impact viscerally and will prioriti
 
 **Common owners**
 - Brand/Comms, PMM, Head of SEO/Content; plus Web/Platform for implementation
+
+**Signals (more accurate / higher-fidelity)**
+- A real artifact exists (model + prompt + screenshot/transcript) showing an incorrect claim about pricing, compliance, integrations, or policies.
+- CRM `Closed Lost` or deal notes explicitly cite an AI answer (or an AI-driven objection) as decision input.
+- Support tickets/calls include “ChatGPT/Claude/Perplexity said…” followed by a specific incorrect statement.
+- AI answers cite stale/non-canonical sources (old pricing pages, outdated docs, third-party summaries) for the wrong claims.
 
 ---
 
@@ -92,6 +118,12 @@ These are the moments when teams feel AI’s impact viscerally and will prioriti
 **Common owners**
 - Head of SEO, Demand Gen/Growth, PMM; plus Sales leadership as an internal champion
 
+**Signals (more accurate / higher-fidelity)**
+- Buyers share AI transcripts during evaluation (especially “best X”, “X vs Y”, “alternatives to X”) that cite competitors ahead of you.
+- Sales enablement starts compiling “what AI says about us vs competitor” screenshots because it affects pipeline.
+- A repeatable prompt set (across models) consistently cites competitor docs/pages for topics you consider core.
+- “Alternatives to {your brand}” and comparison prompts trend toward competitor-first recommendations.
+
 ---
 
 ### Pain Segment 3 (Primary): “AI search started sending us customers — and we can’t control it” (new channel emergence)
@@ -124,6 +156,12 @@ These are the moments when teams feel AI’s impact viscerally and will prioriti
 **Common owners**
 - Growth/Demand Gen + SEO/Content; often with RevOps/Analytics for attribution alignment
 
+**Signals (more accurate / higher-fidelity)**
+- Inbound leads explicitly say “found you via ChatGPT/Perplexity/Claude” (forms, calls, emails) or share AI summaries as context.
+- Web analytics shows consistent AI referrers (or a measurable “dark” uplift paired with self-reported AI discovery).
+- “AI referrals” shows up in dashboards/requests, but there is no defined owner/cadence.
+- Manual prompt testing is happening across teams, but results are inconsistent and not operationalized.
+
 ---
 
 ### Pain Segment 4 (High-value): “Our site is not AI-readable” (technical crawlability + citations)
@@ -155,6 +193,12 @@ These are the moments when teams feel AI’s impact viscerally and will prioriti
 **Common owners**
 - Web platform/digital engineering + SEO; security/IT involved if governance is required
 
+**Signals (more accurate / higher-fidelity)**
+- Server logs / bot management show AI user-agents are blocked, challenged, or served inconsistent content (e.g., WAF rules, auth walls, aggressive rate limits).
+- Key pages are JS-heavy or fragmented (docs split across many routes), and “view source” is thin vs what humans see.
+- AI answers mention the category but rarely/never cite their domain for priority topics despite strong content investment.
+- SEO and engineering are already in conflict about “we published it” vs “it’s not crawlable/citable.”
+
 ---
 
 ### Pain Segment 5 (Partner): “Clients keep asking about AI search” (agency productization)
@@ -184,6 +228,12 @@ These are the moments when teams feel AI’s impact viscerally and will prioriti
 
 **Common owners**
 - Head of SEO, VP Client Services, Agency owner/partner
+
+**Signals (more accurate / higher-fidelity)**
+- Multiple clients ask for “AI visibility/GEO” reporting in a short window, and the agency is answering with screenshots/manual prompts.
+- The agency has (or is building) a GEO offering deck but cannot define a repeatable measurement cadence or tie actions to outcomes.
+- Client renewals/expansions start requiring an “AI visibility” story alongside SEO/performance reporting.
+- Delivery teams report margin compression due to manual prompt testing and bespoke reporting.
 
 ## 5-Minute Qualification (pain-first)
 

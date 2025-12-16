@@ -121,9 +121,13 @@ When adding a new agent, include:
 
 ### TAM (Total Addressable Market)
 All available leads matching your ICP. Sources include:
-- LinkedIn (via crustData)
-- B2B data platforms (Ocean.io, PandaMatch)
+
+[Implemeted]
+- Web Search (via Parallel, Exa)
+
+[Roadmap]
 - Web scraping (Firecrawl, Apify)
+- B2B data platforms (Ocean.io, PandaMatch)
 
 ### ICP (Ideal Customer Profile)
 Your target customer definition, expressed in a way an agent can act on:
@@ -131,12 +135,6 @@ Your target customer definition, expressed in a way an agent can act on:
 - Trigger moments (when urgency spikes)
 - Priority prompts/topics (what buyers ask AI)
 - “First win” outcomes (what to improve first)
-
-### Use Cases
-End-to-end workflows:
-- **Prospecting at Scale** - CSV enrichment with CRM
-- **Lead Routing** - Real-time lead assignment
-- **CRM Hygiene** - Data quality and deduplication
 
 ### Dashboards
 Monitoring and analytics by frequency:
@@ -147,6 +145,10 @@ Monitoring and analytics by frequency:
 - **Manual** - On-demand analysis
 
 ## Workflow: From Leads to Revenue
+End-to-end workflows:
+- **Prospecting at Scale** - CSV enrichment with CRM
+- **Lead Routing** - Real-time lead assignment
+- **CRM Hygiene** - Data quality and deduplication
 
 ```
 TAM Sources → ICP Filtering → Lead Enrichment → CRM → Outreach → Intelligence → Dashboards
