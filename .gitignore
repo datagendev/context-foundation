@@ -2,6 +2,9 @@
 .venv/
 .uv-cache/
 __pycache__/
+app/data/
+*.sqlite3
+*.db
 
 # Local transcript artifacts (raw + curated)
 crm/transcripts/*

@@ -1,0 +1,4 @@
+{
+  "example_print": ["python3", "-c", "import sys, json; print(json.dumps({'ok': True, 'note': 'example_print ran'}))"]
+}
+

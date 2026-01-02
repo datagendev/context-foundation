@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "mappings": [
+    {
+      "provider": "unknown",
+      "action": "echo_action",
+      "handler_mode": "agent",
+      "handler_target": "echo",
+      "enabled": true
+    }
+  ],
+  "rules": [
+    {
+      "provider": "github",
+      "name": "push",
+      "priority": 10,
+      "conditions": {
+        "all": [
+          { "op": "header_equals", "name": "x-github-event", "value": "push" }
+        ]
+      },
+      "action": "handle_github_push",
+      "handler_mode": "noop",
+      "handler_target": null,
+      "enabled": true
+    }
+  ]
+}
+
