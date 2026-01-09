@@ -57,12 +57,41 @@ This repo is organized around that operating model:
 
 ## Agents, Skills, and Commands
 
-Claude Code is most effective when you can invoke repeatable work as “commands”.
-In this repo, those commands are represented as **agent triggers** (see `/agents/README.md`).
+Claude Code extensions live in `.claude/` and provide repeatable, specialized workflows.
 
-- **Agents**: multi-step workflows (e.g., prospect research → ICP fit → draft outreach → log to CRM)
-- **Skills**: reusable single-purpose capabilities inside an agent (e.g., “extract pains from transcript”)
-- **Commands (triggers)**: short invocation phrases that route work to the right agent and produce files in the right folders
+### Agents (`.claude/agents/`)
+
+Multi-step workflows for GTM research and automation:
+
+| Agent | Description | Model |
+|-------|-------------|-------|
+| `map-company-website` | Maps company website URLs via Firecrawl, saves to `companies/<domain>/site-map/` | sonnet |
+| `competitive-intelligence` | Research competitors, build profiles, save to `companies/<domain>/competitive-intelligence/` | sonnet |
+| `icp-architect` | Build pain-based ICP segments with programmatic signals | opus |
+| `tam-web-research` | TAM analysis and market intelligence, saves to `/TAM/` | sonnet |
+| `deep-research-agent` | Deep research using OpenAI Deep Research workflow | sonnet |
+| `slack-message-sender` | Send messages to Slack channels via DataGen MCP | sonnet |
+
+### Skills (`.claude/skills/`)
+
+Reusable single-purpose capabilities (from [Anthropic skills repo](https://github.com/anthropics/skills)):
+
+| Skill | Description |
+|-------|-------------|
+| `pptx` | Create and edit PowerPoint presentations |
+| `docx` | Create and edit Word documents |
+| `xlsx` | Create and edit Excel spreadsheets |
+| `pdf` | PDF manipulation and form filling |
+| `skill-creator` | Guide for creating new skills |
+| `brand-guidelines` | Apply Anthropic brand styling |
+
+### Commands (`.claude/commands/`)
+
+Shortcut triggers for common workflows:
+
+| Command | Description |
+|---------|-------------|
+| `/test-icp` | Test the ICP architect agent with a new company |
 
 When adding a new agent, include:
 - a clear trigger phrase
@@ -92,29 +121,48 @@ When adding a new agent, include:
    - `cp .env.example .env`
    - Fill in required values in `.env` (at minimum `DATAGEN_API_KEY`; others depend on which integrations/scripts you run)
 
-### Next: Run the GTM workflow
+### Next: Run the GTM Workflow with Agents
 
-4. Define your ICP (pain + trigger based)
-   - Start in `/icp/`
-   - Fill out `personas.md`
-   - Document your company in `company-info-template.md`
+The recommended workflow uses specialized agents in sequence:
 
-5. Source leads
-   - Use `/TAM/` to pick sources and generate lead lists
+**Step 4: Map Your Target Company**
+```
+Use the map-company-website agent to create a sitemap inventory
+→ Saves to: companies/<domain>/site-map/
+```
+Example: "Map the website for stripe.com focusing on enterprise and pricing pages"
 
-6. Set up CRM integration
+**Step 5: Research Competitors**
+```
+Use the competitive-intelligence agent to build competitor profiles
+→ Saves to: companies/<domain>/competitive-intelligence/
+```
+Example: "Research BrightEdge as a competitor with standard depth"
+
+**Step 6: Define Your ICP**
+```
+Use the icp-architect agent to create pain-based customer segments
+→ Saves to: icp-segments/<segment-name>/
+```
+Example: "Build ICP segments based on our company context"
+
+**Step 7: Build Your TAM**
+```
+Use the tam-web-research agent to gather market intelligence
+→ Saves to: TAM/
+```
+Example: "Research the market size for AI sales tools in the SMB segment"
+
+**Step 8: Set up CRM Integration**
    - Configure `/crm/` mappings and connect MCP tools so Claude can read/write objects
 
-7. Plan campaigns
+**Step 9: Plan Campaigns**
    - Use `/outreach/` for templates, sequences, and results tracking
 
-8. Monitor performance
+**Step 10: Monitor Performance**
    - Use `/dashboards/` for daily/weekly/monthly reporting
 
-9. Enhance with intelligence
-   - Use `/intelligence/` for signals, alerts, and research
-
-10. Build automations
+**Step 11: Build Automations**
    - Use `/workflows/` + `/integration/` to turn repeatable GTM tasks into scheduled runs
 
 ## Key Concepts

@@ -1,6 +1,6 @@
 # Claude Code as an "Agent Platform"
 
-## 1. Coding Agent vs. Coding Platform
+## 1. Coding Agent vs. Agent Platform
 
 **Coding Agent/Assistant:** Claude Code is an assistant; software is the main role.
 
@@ -52,7 +52,16 @@ git clone https://github.com/datagendev/context-foundation.git
 
 ```bash
 curl -fsSL https://cli.datagen.dev/install.sh | sh
+datagen login 
+datagen mcp
 ``` 
+
+4. **Start Claude Code** 
+
+```bash 
+cd TO_YOUR_PROJECT_DIR
+claude 
+```
 
 
 
